@@ -37,6 +37,11 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--check-only", action="store_true")
     args = parser.parse_args()
+    out = META / "brb_sample_barcodes.tsv"
+    if args.check_only:
+        if not out.exists():
+            raise SystemExit(f"Missing manifest: {out}")
+        return
     rows = []
 
     with (BRB / "sample_barcodes_cat_nl.tsv").open(encoding="utf-8") as handle:
@@ -85,11 +90,6 @@ def main():
                 })
 
     rows.sort(key=lambda x: (x["year"], x["tissue"], x["sample_id"]))
-    out = META / "brb_sample_barcodes.tsv"
-    if args.check_only:
-        if not out.exists():
-            raise SystemExit(f"Missing manifest: {out}")
-        return
     with out.open("w", newline="", encoding="utf-8") as handle:
         fields = ["sample_id", "year", "tissue", "barcode", "barcode_source", "mapping_note"]
         writer = csv.DictWriter(handle, fieldnames=fields, delimiter="\t")
