@@ -3,7 +3,13 @@
 # by the admixture and relatedness runners. Sample renaming is intentionally
 # outside this generic step.
 set -euo pipefail
-SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+if [[ -n "${SLURM_SUBMIT_DIR:-}" && -f "$SLURM_SUBMIT_DIR/config/brb_pipeline_config.sh" ]]; then
+    SCRIPT_DIR="$SLURM_SUBMIT_DIR/scripts"
+elif [[ -n "${SLURM_SUBMIT_DIR:-}" && -f "$SLURM_SUBMIT_DIR/../config/brb_pipeline_config.sh" ]]; then
+    SCRIPT_DIR="$SLURM_SUBMIT_DIR"
+else
+    SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+fi
 source "$SCRIPT_DIR/../config/brb_pipeline_config.sh"
 load_brb_modules; mkdir_brb_outputs
 : "${GACU_WGS_VCF:?Set GACU_WGS_VCF to the VCF used for WGS/BRB integration}"

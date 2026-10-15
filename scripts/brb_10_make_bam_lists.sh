@@ -1,7 +1,13 @@
 #!/usr/bin/env bash
 # Build explicit BAM lists for variant calling and downstream relatedness.
 set -euo pipefail
-SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+if [[ -n "${SLURM_SUBMIT_DIR:-}" && -f "$SLURM_SUBMIT_DIR/config/brb_pipeline_config.sh" ]]; then
+    SCRIPT_DIR="$SLURM_SUBMIT_DIR/scripts"
+elif [[ -n "${SLURM_SUBMIT_DIR:-}" && -f "$SLURM_SUBMIT_DIR/../config/brb_pipeline_config.sh" ]]; then
+    SCRIPT_DIR="$SLURM_SUBMIT_DIR"
+else
+    SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+fi
 source "$SCRIPT_DIR/../config/brb_pipeline_config.sh"
 mkdir_brb_outputs
 out="$BRB_REPO_ROOT/metadata"

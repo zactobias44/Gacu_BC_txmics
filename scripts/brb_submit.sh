@@ -1,6 +1,12 @@
 #!/usr/bin/env bash
 set -euo pipefail
-SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+if [[ -n "${SLURM_SUBMIT_DIR:-}" && -f "$SLURM_SUBMIT_DIR/config/brb_pipeline_config.sh" ]]; then
+    SCRIPT_DIR="$SLURM_SUBMIT_DIR/scripts"
+elif [[ -n "${SLURM_SUBMIT_DIR:-}" && -f "$SLURM_SUBMIT_DIR/../config/brb_pipeline_config.sh" ]]; then
+    SCRIPT_DIR="$SLURM_SUBMIT_DIR"
+else
+    SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+fi
 ROOT=$(cd "$SCRIPT_DIR/.." && pwd)
 samples=$(awk 'NR>1 {n++} END {print n+0}' "$ROOT/metadata/brb_sample_barcodes.tsv")
 jid_index=$(sbatch --parsable "$SCRIPT_DIR/brb_01_make_STAR_genome_index.sh")

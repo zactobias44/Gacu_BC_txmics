@@ -5,7 +5,13 @@
 #SBATCH --cpus-per-task=16
 #SBATCH --time=2-00:00:00
 set -euo pipefail
-SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+if [[ -n "${SLURM_SUBMIT_DIR:-}" && -f "$SLURM_SUBMIT_DIR/config/brb_pipeline_config.sh" ]]; then
+    SCRIPT_DIR="$SLURM_SUBMIT_DIR/scripts"
+elif [[ -n "${SLURM_SUBMIT_DIR:-}" && -f "$SLURM_SUBMIT_DIR/../config/brb_pipeline_config.sh" ]]; then
+    SCRIPT_DIR="$SLURM_SUBMIT_DIR"
+else
+    SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+fi
 source "$SCRIPT_DIR/../config/brb_pipeline_config.sh"
 load_brb_modules; mkdir_brb_outputs
 task=${SLURM_ARRAY_TASK_ID:?submit as a four-task array}
