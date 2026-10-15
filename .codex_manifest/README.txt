@@ -1,7 +1,7 @@
-Generated: 2026-10-15 14:48:13 PDT
-Repo root: /Users/zac/repos/research/Gacu_BC_txmics
+Generated: 2026-10-15 17:58:18 EDT
+Repo root: /scratch/ztobias/Gacu_BC_txmics
 Scratch root: /vortexfs1/scratch/ztobias/Gaculeatus/Gacu_BC_txmics
-Git branch: main
-Git HEAD: d41e5a4
+Git branch: 
+Git HEAD: 
 
 Lightweight path manifest only; file contents are not copied.

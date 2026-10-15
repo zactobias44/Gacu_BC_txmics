@@ -1,4 +1,0 @@
- M .codex_manifest/README.txt
- M .codex_manifest/git_status.txt
- M .codex_manifest/repo_manifest.tsv
- M scripts/workflow/make_codex_manifest.sh

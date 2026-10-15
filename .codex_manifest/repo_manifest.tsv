@@ -1,69 +1,87 @@
 kind	size_bytes	modified	path
-Directory	480	2026-10-15 14:47:59	/Users/zac/repos/research/Gacu_BC_txmics
-Regular File	1727422	2026-10-15 14:21:31	./tree_mrnaseq
-Regular File	25257	2026-10-15 14:10:48	./tree
-Regular File	32	2026-10-15 13:43:48	./reporoot
-Directory	96	2026-10-15 14:33:21	./config
-Regular File	5704	2026-10-15 14:44:23	./config/brb_pipeline_config.sh
-Directory	96	2026-10-15 14:35:46	./logs
-Directory	64	2026-10-15 14:35:46	./logs/brbseq
-Directory	128	2026-10-15 14:35:46	./work
-Directory	224	2026-10-15 14:35:46	./work/brbseq
-Directory	64	2026-10-15 14:35:46	./work/brbseq/variants
-Directory	64	2026-10-15 14:35:46	./work/brbseq/star
-Directory	64	2026-10-15 14:35:46	./work/brbseq/genotypes
-Directory	64	2026-10-15 14:35:46	./work/brbseq/matrix
-Directory	64	2026-10-15 14:35:46	./work/brbseq/split_bams
-Directory	64	2026-10-15 14:35:46	./work/star
-Directory	768	2026-10-15 14:47:57	./scripts
-Regular File	1469	2026-10-15 14:35:17	./scripts/brb_submit.sh
-Regular File	760	2026-10-15 14:34:33	./scripts/brb_00_validate_inputs.sh
-Regular File	1449	2026-10-15 14:35:23	./scripts/brb_13_joint_calling_by_tissue.sh
-Regular File	745	2026-10-15 14:34:33	./scripts/brb_04_FastReadCounter_shallow.sh
-Regular File	755	2026-10-15 14:34:33	./scripts/brb_08_FastReadCounter_deep.sh
-Regular File	1474	2026-10-15 14:34:33	./scripts/brb_07_run_STAR_deep.sh
-Regular File	1438	2026-10-15 14:34:33	./scripts/brb_03_run_STAR_shallow.sh
-Regular File	522	2026-10-15 14:34:33	./scripts/brb_01_make_STAR_genome_index.sh
-Regular File	559	2026-10-15 14:34:33	./scripts/brb_02_make_STAR_genome_index_one_feature.sh
-Regular File	1448	2026-10-15 14:44:25	./scripts/README.md
-Regular File	750	2026-10-15 14:35:29	./scripts/brb_18_make_external_plink.sh
-Regular File	545	2026-10-15 14:35:12	./scripts/brb_16_run_admixture.sh
-Regular File	422	2026-10-15 14:35:12	./scripts/brb_17_relatedness.sh
-Directory	128	2026-10-15 14:47:57	./scripts/workflow
-Regular File	268	2026-10-15 14:47:57	./scripts/workflow/manifest_commit_push.sh
-Regular File	2028	2026-10-15 14:48:12	./scripts/workflow/make_codex_manifest.sh
-Regular File	1519	2026-10-15 14:34:33	./scripts/brb_05_run_STAR_deep_one_feature.sh
-Regular File	659	2026-10-15 14:34:48	./scripts/brb_14_concat_vcfs_by_tissue.sh
-Regular File	764	2026-10-15 14:34:33	./scripts/brb_06_FastReadCounter_deep_one_feature.sh
-Regular File	646	2026-10-15 14:35:29	./scripts/brb_15_prepare_external_wgs_inputs.sh
-Regular File	1239	2026-10-15 14:34:48	./scripts/brb_09_split_bams.sh
-Regular File	578	2026-10-15 14:34:48	./scripts/brb_12_concat_vcfs.sh
-Regular File	697	2026-10-15 14:34:48	./scripts/brb_10_make_bam_lists.sh
-Regular File	1437	2026-10-15 14:35:23	./scripts/brb_11_joint_calling.sh
-Regular File	2383	2026-10-15 14:47:52	./AGENTS.md
-Directory	128	2026-10-15 14:45:57	./genome
-Regular File	1	2026-10-15 14:45:57	./genome/.gitkeep
-Regular File	438	2026-10-15 14:45:57	./genome/README.md
-Directory	512	2026-10-15 14:42:57	./metadata
-Regular File	3835	2026-10-15 14:35:43	./metadata/build_brb_manifest.py
-Regular File	1400	2026-10-15 14:33:21	./metadata/brb_deep_runs.tsv
-Directory	224	2026-10-15 13:59:36	./metadata/Davis_Core
-Regular File	7081	2026-10-15 13:58:42	./metadata/Davis_Core/AVT0483.2026_10_15__20_58.xlsx
-Regular File	7077	2026-10-15 13:58:47	./metadata/Davis_Core/AVT0502.2026_10_15__20_58.xlsx
-Regular File	7034	2026-10-15 13:58:26	./metadata/Davis_Core/AVT0249.2026_10_15__20_58.xlsx
-Regular File	7164	2026-10-15 13:58:53	./metadata/Davis_Core/AVT0512.2026_10_15__20_58.xlsx
-Regular File	7074	2026-10-15 13:58:35	./metadata/Davis_Core/AVT0349.2026_10_15__20_58.xlsx
-Regular File	15825	2026-10-15 14:24:47	./metadata/build_sample_tracking.py
-Directory	160	2026-10-15 14:24:19	./metadata/derived
-Regular File	32877	2026-10-15 14:24:50	./metadata/derived/sample_tracking_notes.tsv
-Regular File	1231	2026-10-15 14:24:09	./metadata/derived/README.md
-Regular File	246455	2026-10-15 14:24:50	./metadata/derived/sample_tracking.tsv
-Regular File	406	2026-10-15 14:33:32	./metadata/brb_chromosomes.tsv
-Regular File	274896	2026-10-15 13:44:47	./metadata/BC Spring 2025 Collections and Molecular Metadata Sheet 1.csv
-Regular File	172598	2026-10-15 14:35:46	./metadata/brb_sample_barcodes.tsv
-Regular File	1048	2026-10-15 13:45:21	./metadata/BC Spring 2025 Collections and Molecular Metadata Sheet 3.csv
-Regular File	1164	2026-10-15 13:45:11	./metadata/BC Spring 2025 Collections and Molecular Metadata Sheet 2.csv
-Regular File	678	2026-10-15 14:33:21	./metadata/brb_shallow_runs.tsv
-Regular File	5760	2026-10-15 14:33:39	./metadata/barcodes_2025.txt
-Regular File	5760	2026-10-15 14:33:39	./metadata/barcodes_2024.txt
-Regular File	202539	2026-10-15 13:46:42	./metadata/2024_BC_DNA_extractions.csv
+d	4096	2026-10-15 17:51:36.6299953440	/scratch/ztobias/Gacu_BC_txmics
+f	10	2026-10-15 17:43:08.3407495230	./.gitignore
+f	2383	2026-10-15 17:51:36.6350724170	./AGENTS.md
+d	4096	2026-10-15 17:46:13.5839869010	./config
+f	5704	2026-10-15 17:46:13.5887514660	./config/brb_pipeline_config.sh
+d	4096	2026-10-15 17:50:34.9396025070	./genome
+f	1	2026-10-15 17:46:13.5971460230	./genome/.gitkeep
+f	478268616	2021-03-18 21:19:53.0000000000	./genome/GCF_016920845.1_GAculeatus_UGA_version5_genomic.fna
+f	526314588	2022-09-28 16:24:57.0000000000	./genome/GCF_016920845.1_GAculeatus_UGA_version5_genomic.gtf
+f	438	2026-10-15 17:46:13.6023289530	./genome/README.md
+d	4096	2026-10-15 17:50:10.7555520510	./genome/chr_beds
+f	959	2026-10-15 17:50:10.6403834690	./genome/chr_beds/NC_041244.1.bed
+f	62394	2026-10-15 17:50:10.6455574910	./genome/chr_beds/NC_053212.1.bed
+f	40947	2026-10-15 17:50:10.6505712150	./genome/chr_beds/NC_053213.1.bed
+f	52257	2026-10-15 17:50:10.6562543080	./genome/chr_beds/NC_053214.1.bed
+f	73974	2026-10-15 17:50:10.6628542040	./genome/chr_beds/NC_053215.1.bed
+f	49604	2026-10-15 17:50:10.6671837540	./genome/chr_beds/NC_053216.1.bed
+f	37650	2026-10-15 17:50:10.6710804480	./genome/chr_beds/NC_053217.1.bed
+f	79349	2026-10-15 17:50:10.6755706330	./genome/chr_beds/NC_053218.1.bed
+f	41228	2026-10-15 17:50:10.6797125420	./genome/chr_beds/NC_053219.1.bed
+f	49470	2026-10-15 17:50:10.6839376750	./genome/chr_beds/NC_053220.1.bed
+f	43666	2026-10-15 17:50:10.6878984970	./genome/chr_beds/NC_053221.1.bed
+f	55584	2026-10-15 17:50:10.6927863570	./genome/chr_beds/NC_053222.1.bed
+f	52166	2026-10-15 17:50:10.6972973490	./genome/chr_beds/NC_053223.1.bed
+f	45310	2026-10-15 17:50:10.7016139820	./genome/chr_beds/NC_053224.1.bed
+f	34164	2026-10-15 17:50:10.7061440770	./genome/chr_beds/NC_053225.1.bed
+f	38191	2026-10-15 17:50:10.7102439050	./genome/chr_beds/NC_053226.1.bed
+f	39140	2026-10-15 17:50:10.7142165340	./genome/chr_beds/NC_053227.1.bed
+f	49175	2026-10-15 17:50:10.7199531300	./genome/chr_beds/NC_053228.1.bed
+f	33800	2026-10-15 17:50:10.7277452620	./genome/chr_beds/NC_053229.1.bed
+f	49140	2026-10-15 17:50:10.7349477750	./genome/chr_beds/NC_053230.1.bed
+f	48020	2026-10-15 17:50:10.7427547790	./genome/chr_beds/NC_053231.1.bed
+f	31232	2026-10-15 17:50:10.7509724320	./genome/chr_beds/NC_053232.1.bed
+f	29710	2026-10-15 17:50:10.7593505250	./genome/chr_beds/NC_053233.1.bed
+f	241207	2026-10-15 17:48:48.3710615440	./genome/genome_one_feature.gtf
+d	4096	2026-10-15 17:43:08.3801241080	./metadata
+f	202539	2026-10-15 17:20:56.0853731670	./metadata/2024_BC_DNA_extractions.csv
+f	274896	2026-10-15 17:20:56.0958748990	./metadata/BC Spring 2025 Collections and Molecular Metadata Sheet 1.csv
+f	1164	2026-10-15 17:20:56.1067933820	./metadata/BC Spring 2025 Collections and Molecular Metadata Sheet 2.csv
+f	1048	2026-10-15 17:20:56.1126561190	./metadata/BC Spring 2025 Collections and Molecular Metadata Sheet 3.csv
+d	4096	2026-10-15 17:20:56.1490799750	./metadata/Davis_Core
+f	7034	2026-10-15 17:20:56.1226422430	./metadata/Davis_Core/AVT0249.2026_10_15__20_58.xlsx
+f	7074	2026-10-15 17:20:56.1291729720	./metadata/Davis_Core/AVT0349.2026_10_15__20_58.xlsx
+f	7081	2026-10-15 17:20:56.1386517130	./metadata/Davis_Core/AVT0483.2026_10_15__20_58.xlsx
+f	7077	2026-10-15 17:20:56.1468175620	./metadata/Davis_Core/AVT0502.2026_10_15__20_58.xlsx
+f	7164	2026-10-15 17:20:56.1523511860	./metadata/Davis_Core/AVT0512.2026_10_15__20_58.xlsx
+f	5760	2026-10-15 17:43:08.3538749860	./metadata/barcodes_2024.txt
+f	5760	2026-10-15 17:43:08.3570196970	./metadata/barcodes_2025.txt
+f	406	2026-10-15 17:43:08.3605814610	./metadata/brb_chromosomes.tsv
+f	1400	2026-10-15 17:43:08.3636815290	./metadata/brb_deep_runs.tsv
+f	172598	2026-10-15 17:43:08.3681614580	./metadata/brb_sample_barcodes.tsv
+f	678	2026-10-15 17:43:08.3716029850	./metadata/brb_shallow_runs.tsv
+f	3835	2026-10-15 17:43:08.3759502930	./metadata/build_brb_manifest.py
+f	15825	2026-10-15 17:43:08.3794293520	./metadata/build_sample_tracking.py
+d	4096	2026-10-15 17:43:08.3932562590	./metadata/derived
+f	1231	2026-10-15 17:43:08.3856405240	./metadata/derived/README.md
+f	246455	2026-10-15 17:43:08.3918959380	./metadata/derived/sample_tracking.tsv
+f	32877	2026-10-15 17:43:08.3959551740	./metadata/derived/sample_tracking_notes.tsv
+f	32	2026-10-15 16:34:35.3950114620	./reporoot
+d	4096	2026-10-15 17:51:36.6362415380	./scripts
+f	1448	2026-10-15 17:46:13.6098715290	./scripts/README.md
+f	760	2026-10-15 17:43:08.4054743520	./scripts/brb_00_validate_inputs.sh
+f	522	2026-10-15 17:43:08.4091400440	./scripts/brb_01_make_STAR_genome_index.sh
+f	559	2026-10-15 17:43:08.4141521250	./scripts/brb_02_make_STAR_genome_index_one_feature.sh
+f	1438	2026-10-15 17:43:08.4187335100	./scripts/brb_03_run_STAR_shallow.sh
+f	745	2026-10-15 17:43:08.4247516310	./scripts/brb_04_FastReadCounter_shallow.sh
+f	1519	2026-10-15 17:43:08.4286551460	./scripts/brb_05_run_STAR_deep_one_feature.sh
+f	764	2026-10-15 17:43:08.4323377770	./scripts/brb_06_FastReadCounter_deep_one_feature.sh
+f	1474	2026-10-15 17:43:08.4354193170	./scripts/brb_07_run_STAR_deep.sh
+f	755	2026-10-15 17:43:08.4401773220	./scripts/brb_08_FastReadCounter_deep.sh
+f	1239	2026-10-15 17:43:08.4457421270	./scripts/brb_09_split_bams.sh
+f	697	2026-10-15 17:43:08.4514775080	./scripts/brb_10_make_bam_lists.sh
+f	1437	2026-10-15 17:43:08.4569820800	./scripts/brb_11_joint_calling.sh
+f	578	2026-10-15 17:43:08.4612314350	./scripts/brb_12_concat_vcfs.sh
+f	1449	2026-10-15 17:43:08.4642755890	./scripts/brb_13_joint_calling_by_tissue.sh
+f	659	2026-10-15 17:43:08.4682534900	./scripts/brb_14_concat_vcfs_by_tissue.sh
+f	646	2026-10-15 17:43:08.4722119930	./scripts/brb_15_prepare_external_wgs_inputs.sh
+f	545	2026-10-15 17:43:08.4765229150	./scripts/brb_16_run_admixture.sh
+f	422	2026-10-15 17:43:08.4800004810	./scripts/brb_17_relatedness.sh
+f	750	2026-10-15 17:43:08.4840026050	./scripts/brb_18_make_external_plink.sh
+f	1469	2026-10-15 17:43:08.4952824190	./scripts/brb_submit.sh
+d	4096	2026-10-15 17:51:36.6449882820	./scripts/workflow
+f	2028	2026-10-15 17:51:36.6432909560	./scripts/workflow/make_codex_manifest.sh
+f	268	2026-10-15 17:51:36.6497726650	./scripts/workflow/manifest_commit_push.sh
+f	25257	2026-10-15 17:09:52.5399262050	./tree
+f	1727422	2026-10-15 17:19:58.1499026870	./tree_mrnaseq

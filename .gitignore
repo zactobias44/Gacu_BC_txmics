@@ -1,1 +1,30 @@
 .DS_Store
+
+# Large or generated HPC data; keep only lightweight directory placeholders.
+reads/*
+!reads/.gitkeep
+genome/*.fna
+genome/*.fna.gz
+genome/*.gtf.gz
+genome/GCF_016920845.1_GAculeatus_UGA_version5_genomic.gtf
+genome/chr_beds/
+!genome/chr_beds/
+!genome/chr_beds/*.bed
+genome/4STAR/
+genome/4STAR_one_feature/
+software/
+work/
+logs/
+outputs/
+matrix/
+*.bam
+*.bai
+*.cram
+*.crai
+*.vcf
+*.vcf.gz
+*.tbi
+*.csi
+
+# Small annotation helper retained in git.
+!genome/genome_one_feature.gtf
