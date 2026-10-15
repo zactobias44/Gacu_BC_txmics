@@ -47,6 +47,9 @@ fi
 if [[ "$GACU_SITE" == "poseidon" && ! -d "$GACU_SOFTWARE_ROOT" && -d "$BRB_REPO_ROOT/../2024_Gacu_BRBseq/software" ]]; then
     GACU_SOFTWARE_ROOT="$BRB_REPO_ROOT/../2024_Gacu_BRBseq/software"
 fi
+if [[ "$GACU_SITE" == "poseidon" && ! -d "$GACU_SOFTWARE_ROOT" && -d "/user/ztobias/2024_Gacu_BRBseq/software" ]]; then
+    GACU_SOFTWARE_ROOT="/user/ztobias/2024_Gacu_BRBseq/software"
+fi
 
 # Local compatibility fallback while the new repo is being assembled.
 if [[ ! -f "$GACU_GENOME_ROOT/GCF_016920845.1_GAculeatus_UGA_version5_genomic.fna" \
