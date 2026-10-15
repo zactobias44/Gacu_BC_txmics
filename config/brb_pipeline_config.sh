@@ -7,7 +7,10 @@
 set -euo pipefail
 
 BRB_REPO_ROOT="${BRB_REPO_ROOT:-$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)}"
-GACU_SITE="${GACU_SITE:-hydra}"
+# Poseidon is the current default so the pipeline can be run immediately from
+# the established Expanse checkout. Set GACU_SITE=hydra only when switching
+# clusters; site-specific defaults below remain editable in this file.
+GACU_SITE="${GACU_SITE:-poseidon}"
 
 case "$GACU_SITE" in
     hydra)
@@ -18,8 +21,8 @@ case "$GACU_SITE" in
         DEFAULT_MODULES="${GACU_HYDRA_MODULES:-}"
         ;;
     poseidon)
-        DEFAULT_READS_ROOT="${GACU_POSEIDON_READS_ROOT:-$BRB_REPO_ROOT/reads}"
-        DEFAULT_SCRATCH_ROOT="${GACU_POSEIDON_SCRATCH_ROOT:-$BRB_REPO_ROOT/work}"
+        DEFAULT_READS_ROOT="${GACU_POSEIDON_READS_ROOT:-/expanse/lustre/projects/csd932/ztobias/BRBseq/reads}"
+        DEFAULT_SCRATCH_ROOT="${GACU_POSEIDON_SCRATCH_ROOT:-/vortexfs1/scratch/ztobias/Gaculeatus/Gacu_BC_txmics}"
         DEFAULT_MODULES="${GACU_POSEIDON_MODULES:-bio htslib bcftools samtools jdk/16.0.1}"
         ;;
     local)
@@ -37,6 +40,13 @@ GACU_READS_ROOT="${GACU_READS_ROOT:-$DEFAULT_READS_ROOT}"
 GACU_SCRATCH_ROOT="${GACU_SCRATCH_ROOT:-$DEFAULT_SCRATCH_ROOT}"
 GACU_GENOME_ROOT="${GACU_GENOME_ROOT:-$BRB_REPO_ROOT/genome}"
 GACU_SOFTWARE_ROOT="${GACU_SOFTWARE_ROOT:-$BRB_REPO_ROOT/software}"
+
+if [[ "$GACU_SITE" == "poseidon" && ! -d "$GACU_GENOME_ROOT" && -d "$BRB_REPO_ROOT/../2024_Gacu_BRBseq/genome" ]]; then
+    GACU_GENOME_ROOT="$BRB_REPO_ROOT/../2024_Gacu_BRBseq/genome"
+fi
+if [[ "$GACU_SITE" == "poseidon" && ! -d "$GACU_SOFTWARE_ROOT" && -d "$BRB_REPO_ROOT/../2024_Gacu_BRBseq/software" ]]; then
+    GACU_SOFTWARE_ROOT="$BRB_REPO_ROOT/../2024_Gacu_BRBseq/software"
+fi
 
 # Local compatibility fallback while the new repo is being assembled.
 if [[ ! -f "$GACU_GENOME_ROOT/GCF_016920845.1_GAculeatus_UGA_version5_genomic.fna" \

@@ -11,11 +11,13 @@ Shallow STAR remains `--soloUMIdedup NoDedup`. Deep STAR uses
 deduplicated STARsolo matrices. FastReadCounter remains the legacy
 non-UMI-deduplicated cross-check.
 
-Hydra is the default. Set `GACU_HYDRA_READS_ROOT`, `GACU_HYDRA_SCRATCH_ROOT`,
-`GACU_GENOME_ROOT`, `GACU_SOFTWARE_ROOT`, and optionally
-`GACU_HYDRA_MODULES`. For Poseidon, use `GACU_SITE=poseidon` and the matching
-`GACU_POSEIDON_*` variables. No partition is hard-coded; pass site-specific
-`sbatch` options when submitting.
+Poseidon is configured as the default in `config/brb_pipeline_config.sh`,
+including the established Expanse reads, VortexFS scratch, sibling genome, and
+software locations. Thus the normal Poseidon invocation is simply
+`bash scripts/brb_00_validate_inputs.sh` followed by `bash scripts/brb_submit.sh`.
+To move to Hydra, change `GACU_SITE` in the config and edit the Hydra defaults
+there. No partition is hard-coded; pass site-specific `sbatch` options when
+submitting.
 
 Run `brb_00_validate_inputs.sh`, then submit individual stages or use
 `brb_submit.sh`. The WGS/admixture/relatedness scripts intentionally accept
