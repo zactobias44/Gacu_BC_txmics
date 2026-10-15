@@ -9,7 +9,7 @@ else
 fi
 ROOT=$(cd "$SCRIPT_DIR/.." && pwd)
 samples=$(awk 'NR>1 {n++} END {print n+0}' "$ROOT/metadata/brb_sample_barcodes.tsv")
-partition="${BRB_SBATCH_PARTITION:-scavenger}"
+partition=compute
 jid_index=$(sbatch --parsable --partition="$partition" "$SCRIPT_DIR/brb_01_make_STAR_genome_index.sh")
 jid_1f=$(sbatch --parsable --partition="$partition" --dependency="afterok:$jid_index" "$SCRIPT_DIR/brb_02_make_STAR_genome_index_one_feature.sh")
 jid_shallow=$(sbatch --parsable --partition="$partition" --dependency="afterok:$jid_1f" "$SCRIPT_DIR/brb_03_run_STAR_shallow.sh")
