@@ -1,69 +1,69 @@
 kind	size_bytes	modified	path
-Directory\t480\t2026-10-15 14:47:59\t/Users/zac/repos/research/Gacu_BC_txmics
-Regular File\t1727422\t2026-10-15 14:21:31\t/Users/zac/repos/research/Gacu_BC_txmics/tree_mrnaseq
-Regular File\t25257\t2026-10-15 14:10:48\t/Users/zac/repos/research/Gacu_BC_txmics/tree
-Regular File\t32\t2026-10-15 13:43:48\t/Users/zac/repos/research/Gacu_BC_txmics/reporoot
-Directory\t96\t2026-10-15 14:33:21\t/Users/zac/repos/research/Gacu_BC_txmics/config
-Regular File\t5704\t2026-10-15 14:44:23\t/Users/zac/repos/research/Gacu_BC_txmics/config/brb_pipeline_config.sh
-Directory\t96\t2026-10-15 14:35:46\t/Users/zac/repos/research/Gacu_BC_txmics/logs
-Directory\t64\t2026-10-15 14:35:46\t/Users/zac/repos/research/Gacu_BC_txmics/logs/brbseq
-Directory\t128\t2026-10-15 14:35:46\t/Users/zac/repos/research/Gacu_BC_txmics/work
-Directory\t224\t2026-10-15 14:35:46\t/Users/zac/repos/research/Gacu_BC_txmics/work/brbseq
-Directory\t64\t2026-10-15 14:35:46\t/Users/zac/repos/research/Gacu_BC_txmics/work/brbseq/variants
-Directory\t64\t2026-10-15 14:35:46\t/Users/zac/repos/research/Gacu_BC_txmics/work/brbseq/star
-Directory\t64\t2026-10-15 14:35:46\t/Users/zac/repos/research/Gacu_BC_txmics/work/brbseq/genotypes
-Directory\t64\t2026-10-15 14:35:46\t/Users/zac/repos/research/Gacu_BC_txmics/work/brbseq/matrix
-Directory\t64\t2026-10-15 14:35:46\t/Users/zac/repos/research/Gacu_BC_txmics/work/brbseq/split_bams
-Directory\t64\t2026-10-15 14:35:46\t/Users/zac/repos/research/Gacu_BC_txmics/work/star
-Directory\t768\t2026-10-15 14:47:57\t/Users/zac/repos/research/Gacu_BC_txmics/scripts
-Regular File\t1469\t2026-10-15 14:35:17\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_submit.sh
-Regular File\t760\t2026-10-15 14:34:33\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_00_validate_inputs.sh
-Regular File\t1449\t2026-10-15 14:35:23\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_13_joint_calling_by_tissue.sh
-Regular File\t745\t2026-10-15 14:34:33\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_04_FastReadCounter_shallow.sh
-Regular File\t755\t2026-10-15 14:34:33\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_08_FastReadCounter_deep.sh
-Regular File\t1474\t2026-10-15 14:34:33\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_07_run_STAR_deep.sh
-Regular File\t1438\t2026-10-15 14:34:33\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_03_run_STAR_shallow.sh
-Regular File\t522\t2026-10-15 14:34:33\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_01_make_STAR_genome_index.sh
-Regular File\t559\t2026-10-15 14:34:33\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_02_make_STAR_genome_index_one_feature.sh
-Regular File\t1448\t2026-10-15 14:44:25\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/README.md
-Regular File\t750\t2026-10-15 14:35:29\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_18_make_external_plink.sh
-Regular File\t545\t2026-10-15 14:35:12\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_16_run_admixture.sh
-Regular File\t422\t2026-10-15 14:35:12\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_17_relatedness.sh
-Directory\t128\t2026-10-15 14:47:57\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/workflow
-Regular File\t268\t2026-10-15 14:47:57\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/workflow/manifest_commit_push.sh
-Regular File\t1975\t2026-10-15 14:48:05\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/workflow/make_codex_manifest.sh
-Regular File\t1519\t2026-10-15 14:34:33\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_05_run_STAR_deep_one_feature.sh
-Regular File\t659\t2026-10-15 14:34:48\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_14_concat_vcfs_by_tissue.sh
-Regular File\t764\t2026-10-15 14:34:33\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_06_FastReadCounter_deep_one_feature.sh
-Regular File\t646\t2026-10-15 14:35:29\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_15_prepare_external_wgs_inputs.sh
-Regular File\t1239\t2026-10-15 14:34:48\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_09_split_bams.sh
-Regular File\t578\t2026-10-15 14:34:48\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_12_concat_vcfs.sh
-Regular File\t697\t2026-10-15 14:34:48\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_10_make_bam_lists.sh
-Regular File\t1437\t2026-10-15 14:35:23\t/Users/zac/repos/research/Gacu_BC_txmics/scripts/brb_11_joint_calling.sh
-Regular File\t2383\t2026-10-15 14:47:52\t/Users/zac/repos/research/Gacu_BC_txmics/AGENTS.md
-Directory\t128\t2026-10-15 14:45:57\t/Users/zac/repos/research/Gacu_BC_txmics/genome
-Regular File\t1\t2026-10-15 14:45:57\t/Users/zac/repos/research/Gacu_BC_txmics/genome/.gitkeep
-Regular File\t438\t2026-10-15 14:45:57\t/Users/zac/repos/research/Gacu_BC_txmics/genome/README.md
-Directory\t512\t2026-10-15 14:42:57\t/Users/zac/repos/research/Gacu_BC_txmics/metadata
-Regular File\t3835\t2026-10-15 14:35:43\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/build_brb_manifest.py
-Regular File\t1400\t2026-10-15 14:33:21\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/brb_deep_runs.tsv
-Directory\t224\t2026-10-15 13:59:36\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/Davis_Core
-Regular File\t7081\t2026-10-15 13:58:42\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/Davis_Core/AVT0483.2026_10_15__20_58.xlsx
-Regular File\t7077\t2026-10-15 13:58:47\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/Davis_Core/AVT0502.2026_10_15__20_58.xlsx
-Regular File\t7034\t2026-10-15 13:58:26\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/Davis_Core/AVT0249.2026_10_15__20_58.xlsx
-Regular File\t7164\t2026-10-15 13:58:53\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/Davis_Core/AVT0512.2026_10_15__20_58.xlsx
-Regular File\t7074\t2026-10-15 13:58:35\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/Davis_Core/AVT0349.2026_10_15__20_58.xlsx
-Regular File\t15825\t2026-10-15 14:24:47\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/build_sample_tracking.py
-Directory\t160\t2026-10-15 14:24:19\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/derived
-Regular File\t32877\t2026-10-15 14:24:50\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/derived/sample_tracking_notes.tsv
-Regular File\t1231\t2026-10-15 14:24:09\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/derived/README.md
-Regular File\t246455\t2026-10-15 14:24:50\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/derived/sample_tracking.tsv
-Regular File\t406\t2026-10-15 14:33:32\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/brb_chromosomes.tsv
-Regular File\t274896\t2026-10-15 13:44:47\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/BC Spring 2025 Collections and Molecular Metadata Sheet 1.csv
-Regular File\t172598\t2026-10-15 14:35:46\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/brb_sample_barcodes.tsv
-Regular File\t1048\t2026-10-15 13:45:21\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/BC Spring 2025 Collections and Molecular Metadata Sheet 3.csv
-Regular File\t1164\t2026-10-15 13:45:11\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/BC Spring 2025 Collections and Molecular Metadata Sheet 2.csv
-Regular File\t678\t2026-10-15 14:33:21\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/brb_shallow_runs.tsv
-Regular File\t5760\t2026-10-15 14:33:39\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/barcodes_2025.txt
-Regular File\t5760\t2026-10-15 14:33:39\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/barcodes_2024.txt
-Regular File\t202539\t2026-10-15 13:46:42\t/Users/zac/repos/research/Gacu_BC_txmics/metadata/2024_BC_DNA_extractions.csv
+Directory	480	2026-10-15 14:47:59	/Users/zac/repos/research/Gacu_BC_txmics
+Regular File	1727422	2026-10-15 14:21:31	./tree_mrnaseq
+Regular File	25257	2026-10-15 14:10:48	./tree
+Regular File	32	2026-10-15 13:43:48	./reporoot
+Directory	96	2026-10-15 14:33:21	./config
+Regular File	5704	2026-10-15 14:44:23	./config/brb_pipeline_config.sh
+Directory	96	2026-10-15 14:35:46	./logs
+Directory	64	2026-10-15 14:35:46	./logs/brbseq
+Directory	128	2026-10-15 14:35:46	./work
+Directory	224	2026-10-15 14:35:46	./work/brbseq
+Directory	64	2026-10-15 14:35:46	./work/brbseq/variants
+Directory	64	2026-10-15 14:35:46	./work/brbseq/star
+Directory	64	2026-10-15 14:35:46	./work/brbseq/genotypes
+Directory	64	2026-10-15 14:35:46	./work/brbseq/matrix
+Directory	64	2026-10-15 14:35:46	./work/brbseq/split_bams
+Directory	64	2026-10-15 14:35:46	./work/star
+Directory	768	2026-10-15 14:47:57	./scripts
+Regular File	1469	2026-10-15 14:35:17	./scripts/brb_submit.sh
+Regular File	760	2026-10-15 14:34:33	./scripts/brb_00_validate_inputs.sh
+Regular File	1449	2026-10-15 14:35:23	./scripts/brb_13_joint_calling_by_tissue.sh
+Regular File	745	2026-10-15 14:34:33	./scripts/brb_04_FastReadCounter_shallow.sh
+Regular File	755	2026-10-15 14:34:33	./scripts/brb_08_FastReadCounter_deep.sh
+Regular File	1474	2026-10-15 14:34:33	./scripts/brb_07_run_STAR_deep.sh
+Regular File	1438	2026-10-15 14:34:33	./scripts/brb_03_run_STAR_shallow.sh
+Regular File	522	2026-10-15 14:34:33	./scripts/brb_01_make_STAR_genome_index.sh
+Regular File	559	2026-10-15 14:34:33	./scripts/brb_02_make_STAR_genome_index_one_feature.sh
+Regular File	1448	2026-10-15 14:44:25	./scripts/README.md
+Regular File	750	2026-10-15 14:35:29	./scripts/brb_18_make_external_plink.sh
+Regular File	545	2026-10-15 14:35:12	./scripts/brb_16_run_admixture.sh
+Regular File	422	2026-10-15 14:35:12	./scripts/brb_17_relatedness.sh
+Directory	128	2026-10-15 14:47:57	./scripts/workflow
+Regular File	268	2026-10-15 14:47:57	./scripts/workflow/manifest_commit_push.sh
+Regular File	2028	2026-10-15 14:48:12	./scripts/workflow/make_codex_manifest.sh
+Regular File	1519	2026-10-15 14:34:33	./scripts/brb_05_run_STAR_deep_one_feature.sh
+Regular File	659	2026-10-15 14:34:48	./scripts/brb_14_concat_vcfs_by_tissue.sh
+Regular File	764	2026-10-15 14:34:33	./scripts/brb_06_FastReadCounter_deep_one_feature.sh
+Regular File	646	2026-10-15 14:35:29	./scripts/brb_15_prepare_external_wgs_inputs.sh
+Regular File	1239	2026-10-15 14:34:48	./scripts/brb_09_split_bams.sh
+Regular File	578	2026-10-15 14:34:48	./scripts/brb_12_concat_vcfs.sh
+Regular File	697	2026-10-15 14:34:48	./scripts/brb_10_make_bam_lists.sh
+Regular File	1437	2026-10-15 14:35:23	./scripts/brb_11_joint_calling.sh
+Regular File	2383	2026-10-15 14:47:52	./AGENTS.md
+Directory	128	2026-10-15 14:45:57	./genome
+Regular File	1	2026-10-15 14:45:57	./genome/.gitkeep
+Regular File	438	2026-10-15 14:45:57	./genome/README.md
+Directory	512	2026-10-15 14:42:57	./metadata
+Regular File	3835	2026-10-15 14:35:43	./metadata/build_brb_manifest.py
+Regular File	1400	2026-10-15 14:33:21	./metadata/brb_deep_runs.tsv
+Directory	224	2026-10-15 13:59:36	./metadata/Davis_Core
+Regular File	7081	2026-10-15 13:58:42	./metadata/Davis_Core/AVT0483.2026_10_15__20_58.xlsx
+Regular File	7077	2026-10-15 13:58:47	./metadata/Davis_Core/AVT0502.2026_10_15__20_58.xlsx
+Regular File	7034	2026-10-15 13:58:26	./metadata/Davis_Core/AVT0249.2026_10_15__20_58.xlsx
+Regular File	7164	2026-10-15 13:58:53	./metadata/Davis_Core/AVT0512.2026_10_15__20_58.xlsx
+Regular File	7074	2026-10-15 13:58:35	./metadata/Davis_Core/AVT0349.2026_10_15__20_58.xlsx
+Regular File	15825	2026-10-15 14:24:47	./metadata/build_sample_tracking.py
+Directory	160	2026-10-15 14:24:19	./metadata/derived
+Regular File	32877	2026-10-15 14:24:50	./metadata/derived/sample_tracking_notes.tsv
+Regular File	1231	2026-10-15 14:24:09	./metadata/derived/README.md
+Regular File	246455	2026-10-15 14:24:50	./metadata/derived/sample_tracking.tsv
+Regular File	406	2026-10-15 14:33:32	./metadata/brb_chromosomes.tsv
+Regular File	274896	2026-10-15 13:44:47	./metadata/BC Spring 2025 Collections and Molecular Metadata Sheet 1.csv
+Regular File	172598	2026-10-15 14:35:46	./metadata/brb_sample_barcodes.tsv
+Regular File	1048	2026-10-15 13:45:21	./metadata/BC Spring 2025 Collections and Molecular Metadata Sheet 3.csv
+Regular File	1164	2026-10-15 13:45:11	./metadata/BC Spring 2025 Collections and Molecular Metadata Sheet 2.csv
+Regular File	678	2026-10-15 14:33:21	./metadata/brb_shallow_runs.tsv
+Regular File	5760	2026-10-15 14:33:39	./metadata/barcodes_2025.txt
+Regular File	5760	2026-10-15 14:33:39	./metadata/barcodes_2024.txt
+Regular File	202539	2026-10-15 13:46:42	./metadata/2024_BC_DNA_extractions.csv

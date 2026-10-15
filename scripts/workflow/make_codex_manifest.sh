@@ -14,7 +14,8 @@ if find "$repo_root" -maxdepth 0 -printf '' >/dev/null 2>&1; then
         sed "s#${repo_root}/#./#g; s#\\\\t#\t#g" > "$out_file.tmp"
 else
     find "$repo_root" -not -path "$repo_root/.git*" -not -path "$out_dir*" \
-        -exec stat -f '%HT\t%z\t%Sm\t%N' -t '%Y-%m-%d %H:%M:%S' {} \; > "$out_file.tmp"
+        -exec stat -f '%HT\t%z\t%Sm\t%N' -t '%Y-%m-%d %H:%M:%S' {} \; | \
+        sed "s#${repo_root}/#./#g; s#\\\\t#\t#g" > "$out_file.tmp"
 fi
 
 {
