@@ -1,0 +1,1276 @@
+sample_id	year	tissue	barcode	barcode_source	mapping_note
+2024_DJR_002	2024	gill	AACTATATGTTGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_003	2024	gill	AATAGCCTTATCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_004	2024	gill	CTACGTCAGCATCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_005	2024	gill	CAACACAGGAAGCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_006	2024	gill	TCTCTCGATCTGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_007	2024	gill	TAGAGAGTCACTAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_008	2024	gill	AACTCGCGTTGAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_009	2024	gill	CTCATTGAGTCGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_010	2024	gill	TTAGCGCACAACCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_011	2024	gill	AAGTGAATTGACCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_012	2024	gill	CAGTATCTAGTAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_013	2024	gill	CAGTGGCTCTTAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_014	2024	gill	TATATTAACGGTGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_015	2024	gill	ATGGTTCACAGCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_016	2024	gill	AACCAACAGTGCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_017	2024	gill	TTGCCAATCGGTAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_018	2024	gill	CTGTTAGCCGCGGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_019	2024	gill	ACAGCTGCTGTACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_020	2024	gill	CAGCACGCTGCACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_021	2024	gill	ACACGTGATAGCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_022	2024	gill	TACTCATAGAGTCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_023	2024	gill	AACAGTCAACTCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_024	2024	gill	ATCGAGTGCACTGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_025	2024	gill	CAAGCTCGATAACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_026	2024	gill	TTGATAATACGCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_027	2024	gill	AACCAACAACATGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_028	2024	gill	ACTAGACGCACACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_029	2024	gill	CATAGCTGCGCTGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_030	2024	gill	TTGGCCGAATCGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_031	2024	gill	TCATACGTACGCGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_033	2024	gill	CTTCGAATATTCAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_034	2024	gill	CAGGTTGCAGTTAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_035	2024	gill	AAGTGAATACCAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_036	2024	gill	CAAGGTTCATTAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_037	2024	gill	ATGTTAACTTCCGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_038	2024	gill	TAGTATAACACGGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_039	2024	gill	CAACCACTGAACCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_040	2024	gill	CCAATGTTGCTAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_041	2024	gill	CTCTATTATGCGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_042	2024	gill	CATAGCTTACGAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_044	2024	gill	TCTCTGGTAGCCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_045	2024	gill	CCAACAAGGTGCGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_047	2024	gill	AATGCCTTGTAAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_049	2024	gill	CAATGCCGCGGTAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_050	2024	gill	TAATATGATTCCGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_051	2024	gill	ACATACGTCGCAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_052	2024	gill	TACGACTGACATGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_053	2024	gill	TTAAGGTCTTCTAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_055	2024	gill	ATACTTGCCGGACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_056	2024	gill	CCAAGTTAATCCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_059	2024	gill	AACGCGGAAGCTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_060	2024	gill	CATAATTGTGAAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_062	2024	gill	AAGCCGTGATTCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_063	2024	gill	AATGGAGGAATCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_064	2024	gill	AACGGTACTGAAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_065	2024	gill	ACGAGATGTGAGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_066	2024	gill	TTGCATTGTGCGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_067	2024	gill	ATCTCGTGACGAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_068	2024	gill	TACTGGCCGTACGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_069	2024	gill	CTTCATGGCTCCAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_070	2024	gill	CCGCAACCAAGGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_071	2024	gill	AACCTGAGGCAAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_072	2024	gill	ACTCCATATTCGGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_073	2024	gill	AATACATACCTTCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_074	2024	gill	CAACTAATCCGGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_075	2024	gill	TAGCTACGATCACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_077	2024	gill	TTACATTAGATGGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_078	2024	gill	AAGAACGGCCTGGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_079	2024	gill	ACACAGTGTACTCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_080	2024	gill	ACGTCAGCATCGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_081	2024	gill	TTACCACAACCTAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_082	2024	gill	ATAGGCTGGACCGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_083	2024	gill	ACCGGCCAATAACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_084	2024	gill	ACAGTCTCTATGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_085	2024	gill	CAATTGGCGGTGAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_086	2024	gill	CTCGCTGTACATGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_087	2024	gill	TCTGTTGCGAGAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_088	2024	gill	TAGACGACATATAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_089	2024	gill	CCAAGCGCCTAAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_090	2024	gill	CCTGGACCACAACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_091	2024	gill	TCGATATCACAAGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_092	2024	gill	CCAACCATTCACCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_094	2024	gill	AACCAACTTGTTCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_095	2024	gill	CCTTATTGCGTTCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_096	2024	gill	CATAATGAAGTCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_097	2024	gill	ACAGAACTTAATGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_098	2024	gill	CCAACGTATGCTGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_099	2024	gill	ATCCTCTAATAAGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_100	2024	gill	CTCTGCGATATTCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_101	2024	gill	CCACCTTGATTGGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_102	2024	gill	TCCTATCCTAATGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_104	2024	gill	TTATGTCCACCACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_105	2024	gill	TCGTTAGTTAGCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_106	2024	gill	CCACACTCCAACCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_107	2024	gill	TAGACGTGGACCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_108	2024	gill	CCATAACTCCTCGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_109	2024	gill	ACAGAGACGCATCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_110	2024	gill	ATAACGGACCAACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_111	2024	gill	AACGCAAGGAACGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_112	2024	gill	TCAATCGAATCTCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_113	2024	gill	CTCTCATAAGAAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_114	2024	gill	CAACCGTCAACCGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_115	2024	gill	ATTCACCAACTTCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_116	2024	gill	TCCAGGCTCTTCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_117	2024	gill	ACGGTCTCCTGAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_118	2024	gill	AACCGTAGGTACAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_119	2024	gill	TTCTTGAACTCTGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_120	2024	gill	AACTCCGCGTCACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_121	2024	gill	ATTGGTAACACAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_122	2024	gill	TAATAGAGGAGCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_123	2024	gill	TCCAAGTTGACTCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_124	2024	gill	TACAGTGCATCTCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_125	2024	gill	CCGTGTTAACCTGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_126	2024	gill	TTGTTGTAATGGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_127	2024	gill	ACTATCATCGCTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_128	2024	gill	TCGAGGTACTCACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_131	2024	gill	ACCAAGGTTAGAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_132	2024	gill	ACAGACTGCTGTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_133	2024	gill	CAATTGTCTTATGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_134	2024	gill	TAATTAGCCTTCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_135	2024	gill	AAGATTCGAGGCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_136	2024	gill	ATCGATACACTCAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_137	2024	gill	AACTGGAACCGCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_138	2024	gill	TACACGACTCACGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_139	2024	gill	ACTCCTTGCCACCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_140	2024	gill	TTACAAGATGATCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_141	2024	gill	ATGAAGGAATACCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_142	2024	gill	CATTCCGTGACCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_143	2024	gill	CACTATATCGCGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_144	2024	gill	ATAAGCCAAGGTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_145	2024	gill	ATGTTGGCGGACAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_146	2024	gill	CAGTCTTCCTAACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_147	2024	gill	CACTACTGCGAGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_148	2024	gill	CCGCCAAGCTCCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_149	2024	gill	TAAGGAATAAGCAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_150	2024	gill	TTGAATCAAGGCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_151	2024	gill	ATCACAGTGATACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_152	2024	gill	CTGGATATCCACAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_153	2024	gill	CCGCTAGTTGAGAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_154	2024	gill	TCGGTCGGCCAACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_155	2024	gill	CCGCCAACTCATGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_156	2024	gill	CTCAATATATTGGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_157	2024	gill	CAGGATTATAGAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_158	2024	gill	CACGCTATGACACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_159	2024	gill	ATCTCTGACTATCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_160	2024	gill	ATTAGGTGGTGAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_161	2024	gill	AAGTAGTACATTCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_162	2024	gill	CTACCTTCCTCGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_163	2024	gill	TTGAATACTCCACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_165	2024	gill	ACACAGACAGTGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_166	2024	gill	ACATCATAGATAGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_167	2024	gill	ATACTGCGTGAGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_168	2024	gill	AACTCGGTTGTGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_169	2024	gill	TTAAGACATATGCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_170	2024	gill	ACAGCAGACGATGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_171	2024	gill	TACATATGCATGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_172	2024	gill	ACATAGCCTGGCGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_173	2024	gill	TATTAACTGGATGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_174	2024	gill	CCTCCTAATGACGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_175	2024	gill	CCTGATACACGTAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_176	2024	gill	ACACGACGATAGAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_177	2024	gill	CACGCAGATCAGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_178	2024	gill	CAGTACGTCAGACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_179	2024	gill	TATGTGACTGTACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_180	2024	gill	TTAGAATTCCGAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_181	2024	gill	TCACTACAGTGAGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_182	2024	gill	CATCGCACGTATGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_183	2024	gill	ATATTCAACCTTCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_184	2024	gill	CCGCCACTAATAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_185	2024	gill	CTATCGTGCTAGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_186	2024	gill	TATACTCTACGCGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_187	2024	gill	TTAGGTGTCTAGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_188	2024	gill	ACACGCTAGTCAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_189	2024	gill	AAGATGGTTGGTGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_190	2024	gill	TATGCTCAGATGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_191	2024	gill	CACGTGACGCACAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_195	2024	gill	TACGTCACACCACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_196	2024	gill	CAGCGACTACGCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_197	2024	gill	CCGTTATTGCGTGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_198	2024	gill	ATCACTATGCATCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_199	2024	gill	AAGGAAGATACACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_200	2024	gill	TAGTTGTCGCACCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_201	2024	gill	TACTGAGTCGTCAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_202	2024	gill	CTGATAGTGTGCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_203	2024	gill	CTAACCGATGTTAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_204	2024	gill	CCAAGAGAGGCCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_205	2024	gill	CCGAAGAAGATAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_206	2024	gill	TACTCGTGCTCTCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_207	2024	gill	CCGCCATATTAACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_208	2024	gill	ACCGCAACTAGCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_209	2024	gill	CTACTAGAGACACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_210	2024	gill	CCGGCTTGAACACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_211	2024	gill	CAGCGAGTAGTGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_212	2024	gill	CTCCGCCTTGAGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_214	2024	gill	AATAAGCGTCCTGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_216	2024	gill	CAAGAATACGTGGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_217	2024	gill	TCGCACTGGAGTCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_218	2024	gill	ATAGTAGATGCAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_219	2024	gill	ATAACCTCTCGCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_220	2024	gill	AACGTTAAGTCCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_221	2024	gill	CACACTCTCGTGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_222	2024	gill	AACCGTGACATTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_223	2024	gill	CAGTTGAGATAGCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_224	2024	gill	ACGTACTAGAGCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_225	2024	gill	ACACTACTCGTGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_226	2024	gill	AAGGCCGCAGGAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_227	2024	gill	AAGCATTCTGGCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_228	2024	gill	ACAGCTATACACGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_229	2024	gill	CCAAGCTTGTATAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_230	2024	gill	AACAAGGTGTCCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_231	2024	gill	CAACGGCCGGAAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_232	2024	gill	ACACGACAGCTCAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_233	2024	gill	CAATATAGAGCTGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_234	2024	gill	CAGGCCATTAATCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_235	2024	gill	ATGCGTGCATGTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_238	2024	gill	ACATTCGCCAGGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_239	2024	gill	TTAAGACTCGAACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_240	2024	gill	TCCATTGATTACAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_241	2024	gill	TAGCTGAGCTGCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_242	2024	gill	TTGGAGTTCGGCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_243	2024	gill	CCTAGGATCTGGAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_244	2024	gill	ACGCATGTACAGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_245	2024	gill	CACACGCGTACGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_246	2024	gill	CCGACAATGCCACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_247	2024	gill	ACCTGCCTACCTGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_248	2024	gill	CACATCAGCTCGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_249	2024	gill	ACACTCTGTAGAGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_250	2024	gill	CTAGATCTGTAGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_251	2024	gill	ATCGACTAGCTAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_252	2024	gill	TTAACATGGCGGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_253	2024	gill	ATGATGTGTAGTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_254	2024	gill	ACGACAGCTACAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_255	2024	gill	ACAGTACTCTGCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_256	2024	gill	ACTGGCCTAGTGGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_257	2024	gill	ATGAACAGGCTCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_260	2024	gill	TCATGCGATGATGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_261	2024	gill	TACGTAGCATATAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_262	2024	gill	CTTCCTTCGCGTGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_263	2024	gill	AATAGTCTCTTGGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_264	2024	gill	CTATATGACGACGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_265	2024	gill	ACGCGCTATCATCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_266	2024	gill	ACACGAGTCTCTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_267	2024	gill	ATGAACCGCAATGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_268	2024	gill	CACGAGTCTGCTGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_269	2024	gill	CTATCTACCGTGCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_270	2024	gill	ATACATTGGTATGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_271	2024	gill	TTAATCGGCTGGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_272	2024	gill	ACAATACCGCCAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_273	2024	gill	ACTACTCGTGTCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_274	2024	gill	TAAGCCTACACAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_275	2024	gill	ATACAGCTACTAGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_276	2024	gill	AAGAAGTCGGAGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_277	2024	gill	ATCACGACATGTCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_278	2024	gill	AAGCCGAATCCTCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_279	2024	gill	ACAATCCAACGCGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_283	2024	gill	TATGATGCTGACAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_284	2024	gill	ACATCCTAATACCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_286	2024	gill	TCAGCAGATACGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_287	2024	gill	TCATGATAGCAGAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_288	2024	gill	TTCACGGCCTTGGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_289	2024	gill	ACTGCACTTCCGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_290	2024	gill	AACTTGGCCACAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_291	2024	gill	CCAGAGTGCCAAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_292	2024	gill	AAGCGGACCAACCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_293	2024	gill	CCGCACCTGATTAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_294	2024	gill	TCCACACGATTCGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_295	2024	gill	TACTACGTGTCTGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_296	2024	gill	ACTGAGTCTAGAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_297	2024	gill	CAATCTTGGCTTCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_298	2024	gill	CATGTCGCGACAGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_299	2024	gill	TAGATCAAGCGGCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_300	2024	gill	ATATCAGCTAGTCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_301	2024	gill	CTGACTCATTCCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_302	2024	gill	CCAAGCGGAATCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_303	2024	gill	AACGCATTAATGGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_305	2024	gill	AATTCTCCAGGCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_306	2024	gill	ATCAGCATGTCGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_307	2024	gill	CCATGTGTCCAGCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_308	2024	gill	CTTCCTGTAAGAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_309	2024	gill	CCTCGAGGTAGGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_310	2024	gill	ATCGTACATCTACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_311	2024	gill	CTCGGCGCCAACAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_312	2024	gill	CCGTTGAATTGTCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_313	2024	gill	ACTAGCACGTAGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_315	2024	gill	AATCACACACCGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_316	2024	gill	AAGGCCACAACCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_318	2024	gill	AATAGTTACAACGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_319	2024	gill	ACTGGAAGCCACAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_320	2024	gill	AACAACAAGCCTCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_321	2024	gill	ACCTTGCAGGCAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_322	2024	gill	CCTCATACAACACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_324	2024	gill	ATAGGAGAACTTGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_325	2024	gill	ACTATAGTAGCACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_326	2024	gill	AACCATTGCCGAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_327	2024	gill	AATGAATGGTCCGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_328	2024	gill	ATATCTGTGATGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_329	2024	gill	TAAGTTACAAGGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_330	2024	gill	AACTCATGACCTAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_331	2024	gill	TCATTACCACTTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_332	2024	gill	CCTTCAGCCAGCAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_333	2024	gill	ACAGCTCAGTAGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_334	2024	gill	CAAGAGAATCCAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_335	2024	gill	ACCATGGAGGATGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_336	2024	gill	TTGTGTATATTCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_337	2024	gill	TAGGCTAGTATCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_338	2024	gill	CTCATCCGAGACCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_339	2024	gill	TCACCTTCGTTCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_340	2024	gill	CAAGAGTTCTTCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_341	2024	gill	AAGATTGCAACGCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_342	2024	gill	CAACACAACGGCGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_344	2024	gill	CTCCAACCGCCACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_346	2024	gill	TATGGTCCTACTCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_347	2024	gill	TCTCAGACCTTCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_348	2024	gill	CACGTCATAGCTGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_349	2024	gill	CTTGCGAGGCAGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_350	2024	gill	CTGAGATATGATGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_351	2024	gill	ATTCAAGACAAGGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_352	2024	gill	ATAGACATGTCTGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_353	2024	gill	ACTCGGATGGTTGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_354	2024	gill	CATTACGCCGTTGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_355	2024	gill	CCTTACGGATGGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_356	2024	gill	ATCAGCACGAGCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_357	2024	gill	ATAGAATCCATCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_368	2024	gill	CAACCAAGAATAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_369	2024	gill	AAGCCGCCGTTGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_370	2024	gill	CCGAATTGGTAGCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_371	2024	gill	ACTTAGTTCGGTAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_373	2024	gill	CCGTAGGAACGAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_374	2024	gill	ATATGTGTATGCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_375	2024	gill	CCTAACTAATATGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_376	2024	gill	CTGTCGAGATCTGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_377	2024	gill	CTTATATGCCAACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_378	2024	gill	CCAATCCAGGAGAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_379	2024	gill	ATGTGCGGAACAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_380	2024	gill	TACGTCTATCGCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_381	2024	gill	CAGGCATTCCTTAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_382	2024	gill	ACTATAGCTATGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_383	2024	gill	CCAATCGTGAACGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_385	2024	gill	TCTATAGAGTCGAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_386	2024	gill	AAGTTGGAGGCGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_387	2024	gill	CTCGCTGATAGCAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_388	2024	gill	ACGACATCGCGCAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_389	2024	gill	ACAGTCATACGACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_390	2024	gill	AATGTCGATACGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_391	2024	gill	CTATCGCATCTGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_392	2024	gill	ATAGGCCACTTCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_393	2024	gill	CAATGAATTCAAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_394	2024	gill	CATCTGACACGCGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_395	2024	gill	CCTATGGAACTTGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_396	2024	gill	ATGAAGTAACCAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_398	2024	gill	ACGAGCACAGCTGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_399	2024	gill	ATTATTAGGCAGGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_400	2024	gill	AACCAACGGCCGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_401	2024	gill	TTCACCAATGGAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_402	2024	gill	TCCATGACCAGCGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_403	2024	gill	ATGAGTCGTCACAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_404	2024	gill	ACACACGAGCAGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_405	2024	gill	ACTCATTAAGGAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_406	2024	gill	CTATCAGTGCATAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_407	2024	gill	CTCTACATCATCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_408	2024	gill	ATCGATCACGCACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_409	2024	gill	ATCTGGAAGCAACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_410	2024	gill	ATCATGCACTGCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_423	2024	gill	ATGGAGCGGATCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_424	2024	gill	AACGTTAGAAGAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_425	2024	gill	CATAAGGATCTGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_426	2024	gill	CTAATCCACTCAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_427	2024	gill	ACTGTATCTGATAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_428	2024	gill	CCTAATCTCACCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_429	2024	gill	ATACGTACATAGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_430	2024	gill	ACGTACGATGTACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_431	2024	gill	TCTCACACTGATCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_432	2024	gill	ACTTGTGGCAATGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_434	2024	gill	CAACAGGAGGCTCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_435	2024	gill	CAAGGCCTCAAGGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_001	2024	liver	ACTTAACCATACCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_002	2024	liver	AACTATATGTTGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_003	2024	liver	AATAGCCTTATCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_004	2024	liver	CTACGTCAGCATCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_006	2024	liver	TCTCTCGATCTGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_007	2024	liver	TAGAGAGTCACTAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_008	2024	liver	AACTCGCGTTGAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_009	2024	liver	CTCATTGAGTCGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_010	2024	liver	TTAGCGCACAACCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_011	2024	liver	AAGTGAATTGACCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_012	2024	liver	CAGTATCTAGTAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_013	2024	liver	CAGTGGCTCTTAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_014	2024	liver	TATATTAACGGTGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_015	2024	liver	ATGGTTCACAGCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_016	2024	liver	AACCAACAGTGCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_017	2024	liver	TTGCCAATCGGTAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_018	2024	liver	CTGTTAGCCGCGGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_019	2024	liver	ACAGCTGCTGTACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_020	2024	liver	CAGCACGCTGCACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_021	2024	liver	ACACGTGATAGCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_022	2024	liver	TACTCATAGAGTCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_023	2024	liver	AACAGTCAACTCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_024	2024	liver	ATCGAGTGCACTGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_025	2024	liver	CAAGCTCGATAACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_026	2024	liver	TTGATAATACGCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_027	2024	liver	AACCAACAACATGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_028	2024	liver	ACTAGACGCACACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_029	2024	liver	CATAGCTGCGCTGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_030	2024	liver	TTGGCCGAATCGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_031	2024	liver	TCATACGTACGCGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_033	2024	liver	CTTCGAATATTCAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_034	2024	liver	CAGGTTGCAGTTAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_035	2024	liver	AAGTGAATACCAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_036	2024	liver	CAAGGTTCATTAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_037	2024	liver	ATGTTAACTTCCGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_038	2024	liver	TAGTATAACACGGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_039	2024	liver	CAACCACTGAACCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_040	2024	liver	CCAATGTTGCTAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_041	2024	liver	CTCTATTATGCGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_042	2024	liver	CATAGCTTACGAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_044	2024	liver	TCTCTGGTAGCCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_045	2024	liver	CCAACAAGGTGCGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_047	2024	liver	AATGCCTTGTAAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_049	2024	liver	CAATGCCGCGGTAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_050	2024	liver	TAATATGATTCCGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_051	2024	liver	ACATACGTCGCAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_052	2024	liver	TACGACTGACATGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_053	2024	liver	TTAAGGTCTTCTAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_055	2024	liver	ATACTTGCCGGACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_059	2024	liver	AACGCGGAAGCTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_060	2024	liver	CATAATTGTGAAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_061	2024	liver	CTATGCTAGCGAGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_062	2024	liver	AAGCCGTGATTCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_063	2024	liver	AATGGAGGAATCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_064	2024	liver	AACGGTACTGAAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_065	2024	liver	ACGAGATGTGAGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_066	2024	liver	TTGCATTGTGCGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_067	2024	liver	ATCTCGTGACGAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_068	2024	liver	TACTGGCCGTACGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_069	2024	liver	CTTCATGGCTCCAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_070	2024	liver	CCGCAACCAAGGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_071	2024	liver	AACCTGAGGCAAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_072	2024	liver	ACTCCATATTCGGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_073	2024	liver	AATACATACCTTCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_074	2024	liver	CAACTAATCCGGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_075	2024	liver	TAGCTACGATCACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_077	2024	liver	TTACATTAGATGGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_078	2024	liver	AAGAACGGCCTGGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_079	2024	liver	ACACAGTGTACTCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_080	2024	liver	ACGTCAGCATCGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_081	2024	liver	TTACCACAACCTAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_082	2024	liver	ATAGGCTGGACCGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_083	2024	liver	ACCGGCCAATAACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_084	2024	liver	ACAGTCTCTATGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_085	2024	liver	CAATTGGCGGTGAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_086	2024	liver	CTCGCTGTACATGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_087	2024	liver	TCTGTTGCGAGAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_088	2024	liver	TAGACGACATATAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_089	2024	liver	CCAAGCGCCTAAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_090	2024	liver	CCTGGACCACAACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_091	2024	liver	TCGATATCACAAGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_092	2024	liver	CCAACCATTCACCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_094	2024	liver	AACCAACTTGTTCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_095	2024	liver	CCTTATTGCGTTCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_096	2024	liver	CATAATGAAGTCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_097	2024	liver	ACAGAACTTAATGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_098	2024	liver	CCAACGTATGCTGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_099	2024	liver	ATCCTCTAATAAGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_100	2024	liver	CTCTGCGATATTCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_101	2024	liver	CCACCTTGATTGGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_102	2024	liver	TCCTATCCTAATGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_103	2024	liver	TCTTACAGCCAGCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_104	2024	liver	TTATGTCCACCACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_105	2024	liver	TCGTTAGTTAGCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_106	2024	liver	CCACACTCCAACCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_107	2024	liver	TAGACGTGGACCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_108	2024	liver	CCATAACTCCTCGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_109	2024	liver	ACAGAGACGCATCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_110	2024	liver	ATAACGGACCAACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_111	2024	liver	AACGCAAGGAACGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_112	2024	liver	TCAATCGAATCTCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_113	2024	liver	CTCTCATAAGAAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_114	2024	liver	CAACCGTCAACCGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_115	2024	liver	ATTCACCAACTTCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_116	2024	liver	TCCAGGCTCTTCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_117	2024	liver	ACGGTCTCCTGAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_118	2024	liver	AACCGTAGGTACAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_119	2024	liver	TTCTTGAACTCTGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_120	2024	liver	AACTCCGCGTCACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_121	2024	liver	ATTGGTAACACAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_122	2024	liver	TAATAGAGGAGCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_123	2024	liver	TCCAAGTTGACTCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_124	2024	liver	TACAGTGCATCTCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_125	2024	liver	CCGTGTTAACCTGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_126	2024	liver	TTGTTGTAATGGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_127	2024	liver	ACTATCATCGCTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_128	2024	liver	TCGAGGTACTCACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_131	2024	liver	ACCAAGGTTAGAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_132	2024	liver	ACAGACTGCTGTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_133	2024	liver	CAATTGTCTTATGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_134	2024	liver	TAATTAGCCTTCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_135	2024	liver	AAGATTCGAGGCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_136	2024	liver	ATCGATACACTCAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_137	2024	liver	AACTGGAACCGCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_138	2024	liver	TACACGACTCACGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_139	2024	liver	ACTCCTTGCCACCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_140	2024	liver	TTACAAGATGATCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_141	2024	liver	ATGAAGGAATACCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_142	2024	liver	CATTCCGTGACCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_143	2024	liver	CACTATATCGCGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_144	2024	liver	ATAAGCCAAGGTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_145	2024	liver	ATGTTGGCGGACAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_146	2024	liver	CAGTCTTCCTAACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_147	2024	liver	CACTACTGCGAGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_148	2024	liver	CCGCCAAGCTCCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_149	2024	liver	TAAGGAATAAGCAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_150	2024	liver	TTGAATCAAGGCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_151	2024	liver	ATCACAGTGATACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_152	2024	liver	CTGGATATCCACAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_153	2024	liver	CCGCTAGTTGAGAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_154	2024	liver	TCGGTCGGCCAACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_155	2024	liver	CCGCCAACTCATGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_156	2024	liver	CTCAATATATTGGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_157	2024	liver	CAGGATTATAGAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_158	2024	liver	CACGCTATGACACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_159	2024	liver	ATCTCTGACTATCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_160	2024	liver	ATTAGGTGGTGAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_161	2024	liver	AAGTAGTACATTCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_162	2024	liver	CTACCTTCCTCGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_163	2024	liver	TTGAATACTCCACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_165	2024	liver	ACACAGACAGTGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_166	2024	liver	ACATCATAGATAGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_167	2024	liver	ATACTGCGTGAGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_168	2024	liver	AACTCGGTTGTGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_169	2024	liver	TTAAGACATATGCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_170	2024	liver	ACAGCAGACGATGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_171	2024	liver	TACATATGCATGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_172	2024	liver	ACATAGCCTGGCGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_173	2024	liver	TATTAACTGGATGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_174	2024	liver	CCTCCTAATGACGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_175	2024	liver	CCTGATACACGTAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_177	2024	liver	CACGCAGATCAGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_178	2024	liver	CAGTACGTCAGACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_179	2024	liver	TATGTGACTGTACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_180	2024	liver	TTAGAATTCCGAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_181	2024	liver	TCACTACAGTGAGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_182	2024	liver	CATCGCACGTATGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_183	2024	liver	ATATTCAACCTTCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_184	2024	liver	CCGCCACTAATAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_185	2024	liver	CTATCGTGCTAGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_186	2024	liver	TATACTCTACGCGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_187	2024	liver	TTAGGTGTCTAGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_188	2024	liver	ACACGCTAGTCAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_189	2024	liver	AAGATGGTTGGTGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_190	2024	liver	TATGCTCAGATGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_191	2024	liver	CACGTGACGCACAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_194	2024	liver	TTACATCTAGTCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_195	2024	liver	TACGTCACACCACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_196	2024	liver	CAGCGACTACGCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_197	2024	liver	CCGTTATTGCGTGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_198	2024	liver	ATCACTATGCATCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_199	2024	liver	AAGGAAGATACACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_200	2024	liver	TAGTTGTCGCACCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_201	2024	liver	TACTGAGTCGTCAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_202	2024	liver	CTGATAGTGTGCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_203	2024	liver	CTAACCGATGTTAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_204	2024	liver	CCAAGAGAGGCCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_206	2024	liver	TACTCGTGCTCTCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_207	2024	liver	CCGCCATATTAACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_208	2024	liver	ACCGCAACTAGCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_209	2024	liver	CTACTAGAGACACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_211	2024	liver	CAGCGAGTAGTGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_212	2024	liver	CTCCGCCTTGAGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_214	2024	liver	AATAAGCGTCCTGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_216	2024	liver	CAAGAATACGTGGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_217	2024	liver	TCGCACTGGAGTCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_218	2024	liver	ATAGTAGATGCAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_219	2024	liver	ATAACCTCTCGCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_220	2024	liver	AACGTTAAGTCCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_221	2024	liver	CACACTCTCGTGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_222	2024	liver	AACCGTGACATTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_223	2024	liver	CAGTTGAGATAGCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_224	2024	liver	ACGTACTAGAGCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_225	2024	liver	ACACTACTCGTGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_226	2024	liver	AAGGCCGCAGGAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_227	2024	liver	AAGCATTCTGGCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_228	2024	liver	ACAGCTATACACGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_229	2024	liver	CCAAGCTTGTATAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_230	2024	liver	AACAAGGTGTCCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_231	2024	liver	CAACGGCCGGAAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_232	2024	liver	ACACGACAGCTCAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_233	2024	liver	CAATATAGAGCTGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_234	2024	liver	CAGGCCATTAATCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_235	2024	liver	ATGCGTGCATGTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_238	2024	liver	ACATTCGCCAGGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_239	2024	liver	TTAAGACTCGAACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_240	2024	liver	TCCATTGATTACAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_241	2024	liver	TAGCTGAGCTGCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_242	2024	liver	TTGGAGTTCGGCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_243	2024	liver	CCTAGGATCTGGAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_244	2024	liver	ACGCATGTACAGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_245	2024	liver	CACACGCGTACGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_246	2024	liver	CCGACAATGCCACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_247	2024	liver	ACCTGCCTACCTGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_248	2024	liver	CACATCAGCTCGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_249	2024	liver	ACACTCTGTAGAGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_250	2024	liver	CTAGATCTGTAGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_251	2024	liver	ATCGACTAGCTAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_253	2024	liver	ATGATGTGTAGTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_256	2024	liver	ACTGGCCTAGTGGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_257	2024	liver	ATGAACAGGCTCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_260	2024	liver	TCATGCGATGATGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_261	2024	liver	TACGTAGCATATAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_262	2024	liver	CTTCCTTCGCGTGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_263	2024	liver	AATAGTCTCTTGGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_264	2024	liver	CTATATGACGACGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_265	2024	liver	ACGCGCTATCATCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_266	2024	liver	ACACGAGTCTCTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_267	2024	liver	ATGAACCGCAATGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_268	2024	liver	CACGAGTCTGCTGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_269	2024	liver	CTATCTACCGTGCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_270	2024	liver	ATACATTGGTATGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_271	2024	liver	TTAATCGGCTGGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_272	2024	liver	ACAATACCGCCAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_273	2024	liver	ACTACTCGTGTCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_274	2024	liver	TAAGCCTACACAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_275	2024	liver	ATACAGCTACTAGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_276	2024	liver	AAGAAGTCGGAGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_277	2024	liver	ATCACGACATGTCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_278	2024	liver	AAGCCGAATCCTCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_279	2024	liver	ACAATCCAACGCGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_282	2024	liver	TATGCCATGCCTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_283	2024	liver	TATGATGCTGACAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_284	2024	liver	ACATCCTAATACCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_285	2024	liver	TCGACTGCATGCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_286	2024	liver	TCAGCAGATACGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_287	2024	liver	TCATGATAGCAGAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_288	2024	liver	TTCACGGCCTTGGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_289	2024	liver	ACTGCACTTCCGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_290	2024	liver	AACTTGGCCACAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_291	2024	liver	CCAGAGTGCCAAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_292	2024	liver	AAGCGGACCAACCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_293	2024	liver	CCGCACCTGATTAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_294	2024	liver	TCCACACGATTCGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_295	2024	liver	TACTACGTGTCTGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_296	2024	liver	ACTGAGTCTAGAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_297	2024	liver	CAATCTTGGCTTCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_298	2024	liver	CATGTCGCGACAGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_299	2024	liver	TAGATCAAGCGGCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_300	2024	liver	ATATCAGCTAGTCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_301	2024	liver	CTGACTCATTCCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_302	2024	liver	CCAAGCGGAATCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_303	2024	liver	AACGCATTAATGGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_304	2024	liver	ACGATGCGACTACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_305	2024	liver	AATTCTCCAGGCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_306	2024	liver	ATCAGCATGTCGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_307	2024	liver	CCATGTGTCCAGCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_308	2024	liver	CTTCCTGTAAGAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_309	2024	liver	CCTCGAGGTAGGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_310	2024	liver	ATCGTACATCTACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_311	2024	liver	CTCGGCGCCAACAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_312	2024	liver	CCGTTGAATTGTCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_313	2024	liver	ACTAGCACGTAGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_315	2024	liver	AATCACACACCGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_316	2024	liver	AAGGCCACAACCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_317	2024	liver	CTACTCAGTGTCGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_318	2024	liver	AATAGTTACAACGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_319	2024	liver	ACTGGAAGCCACAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_320	2024	liver	AACAACAAGCCTCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_321	2024	liver	ACCTTGCAGGCAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_322	2024	liver	CCTCATACAACACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_324	2024	liver	ATAGGAGAACTTGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_325	2024	liver	ACTATAGTAGCACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_326	2024	liver	AACCATTGCCGAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_327	2024	liver	AATGAATGGTCCGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_328	2024	liver	ATATCTGTGATGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_329	2024	liver	TAAGTTACAAGGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_330	2024	liver	AACTCATGACCTAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_331	2024	liver	TCATTACCACTTAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_332	2024	liver	CCTTCAGCCAGCAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_333	2024	liver	ACAGCTCAGTAGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_334	2024	liver	CAAGAGAATCCAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_335	2024	liver	ACCATGGAGGATGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_336	2024	liver	TTGTGTATATTCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_337	2024	liver	TAGGCTAGTATCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_338	2024	liver	CTCATCCGAGACCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_339	2024	liver	TCACCTTCGTTCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_340	2024	liver	CAAGAGTTCTTCCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_341	2024	liver	AAGATTGCAACGCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_342	2024	liver	CAACACAACGGCGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_344	2024	liver	CTCCAACCGCCACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_346	2024	liver	TATGGTCCTACTCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_347	2024	liver	TCTCAGACCTTCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_348	2024	liver	CACGTCATAGCTGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_349	2024	liver	CTTGCGAGGCAGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_350	2024	liver	CTGAGATATGATGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_351	2024	liver	ATTCAAGACAAGGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_352	2024	liver	ATAGACATGTCTGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_353	2024	liver	ACTCGGATGGTTGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_354	2024	liver	CATTACGCCGTTGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_356	2024	liver	ATCAGCACGAGCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_357	2024	liver	ATAGAATCCATCCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_368	2024	liver	CAACCAAGAATAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_369	2024	liver	AAGCCGCCGTTGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_370	2024	liver	CCGAATTGGTAGCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_371	2024	liver	ACTTAGTTCGGTAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_373	2024	liver	CCGTAGGAACGAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_374	2024	liver	ATATGTGTATGCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_375	2024	liver	CCTAACTAATATGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_376	2024	liver	CTGTCGAGATCTGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_377	2024	liver	CTTATATGCCAACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_378	2024	liver	CCAATCCAGGAGAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_379	2024	liver	ATGTGCGGAACAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_380	2024	liver	TACGTCTATCGCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_381	2024	liver	CAGGCATTCCTTAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_382	2024	liver	ACTATAGCTATGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_383	2024	liver	CCAATCGTGAACGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_385	2024	liver	TCTATAGAGTCGAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_386	2024	liver	AAGTTGGAGGCGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_387	2024	liver	CTCGCTGATAGCAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_388	2024	liver	ACGACATCGCGCAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_389	2024	liver	ACAGTCATACGACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_390	2024	liver	AATGTCGATACGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_391	2024	liver	CTATCGCATCTGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_392	2024	liver	ATAGGCCACTTCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_393	2024	liver	CAATGAATTCAAGG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_394	2024	liver	CATCTGACACGCGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_395	2024	liver	CCTATGGAACTTGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_396	2024	liver	ATGAAGTAACCAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_398	2024	liver	ACGAGCACAGCTGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_399	2024	liver	ATTATTAGGCAGGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_400	2024	liver	AACCAACGGCCGAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_401	2024	liver	TTCACCAATGGAGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_402	2024	liver	TCCATGACCAGCGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_403	2024	liver	ATGAGTCGTCACAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_404	2024	liver	ACACACGAGCAGCG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_405	2024	liver	ACTCATTAAGGAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_406	2024	liver	CTATCAGTGCATAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_407	2024	liver	CTCTACATCATCAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_408	2024	liver	ATCGATCACGCACA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_409	2024	liver	ATCTGGAAGCAACC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_410	2024	liver	ATCATGCACTGCGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_423	2024	liver	ATGGAGCGGATCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_424	2024	liver	AACGTTAGAAGAAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_425	2024	liver	CATAAGGATCTGAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_426	2024	liver	CTAATCCACTCAAC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_427	2024	liver	ACTGTATCTGATAG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_428	2024	liver	CCTAATCTCACCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_429	2024	liver	ATACGTACATAGCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_430	2024	liver	ACGTACGATGTACG	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_431	2024	liver	TCTCACACTGATCA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_432	2024	liver	ACTTGTGGCAATGC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_433	2024	liver	CCGCAATATGGCAA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_434	2024	liver	CAACAGGAGGCTCC	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2024_DJR_435	2024	liver	CAAGGCCTCAAGGA	2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv	explicit historical sample-to-barcode map
+2025_DJR_003	2025	gill	ATGGTTCACAGCCG	metadata/barcodes_2025.txt	reaction position A13; positional map requires final-run verification
+2025_DJR_004	2025	gill	TTGCCAATCGGTAG	metadata/barcodes_2025.txt	reaction position A14; positional map requires final-run verification
+2025_DJR_005	2025	gill	ACAGCTGCTGTACA	metadata/barcodes_2025.txt	reaction position A15; positional map requires final-run verification
+2025_DJR_006	2025	gill	CTGACCTGTAAGCA	metadata/barcodes_2025.txt	reaction position A16; positional map requires final-run verification
+2025_DJR_007	2025	gill	CCTTGGTAGCACGA	metadata/barcodes_2025.txt	reaction position A17; positional map requires final-run verification
+2025_DJR_009	2025	gill	CTGCCTGTGGCTAA	metadata/barcodes_2025.txt	reaction position A18; positional map requires final-run verification
+2025_DJR_010	2025	gill	ATATCGTACAGCAC	metadata/barcodes_2025.txt	reaction position A19; positional map requires final-run verification
+2025_DJR_011	2025	gill	ACACGTGATAGCAG	metadata/barcodes_2025.txt	reaction position A20; positional map requires final-run verification
+2025_DJR_012	2025	gill	AACAGTCAACTCAA	metadata/barcodes_2025.txt	reaction position A21; positional map requires final-run verification
+2025_DJR_013	2025	gill	TTACGCACGGTGGA	metadata/barcodes_2025.txt	reaction position A22; positional map requires final-run verification
+2025_DJR_015	2025	gill	CCATACACCACGGC	metadata/barcodes_2025.txt	reaction position A23; positional map requires final-run verification
+2025_DJR_016	2025	gill	CACACTCTCGTGCA	metadata/barcodes_2025.txt	reaction position A24; positional map requires final-run verification
+2025_DJR_017	2025	gill	ATCAGAGTCTAGCG	metadata/barcodes_2025.txt	reaction position C13; positional map requires final-run verification
+2025_DJR_018	2025	gill	CAACTGGCACAACG	metadata/barcodes_2025.txt	reaction position C14; positional map requires final-run verification
+2025_DJR_019	2025	gill	TACTGGCCGTACGC	metadata/barcodes_2025.txt	reaction position C15; positional map requires final-run verification
+2025_DJR_020	2025	gill	AATGGAACCGTGAG	metadata/barcodes_2025.txt	reaction position C16; positional map requires final-run verification
+2025_DJR_021	2025	gill	CCGCAACCAAGGCA	metadata/barcodes_2025.txt	reaction position C17; positional map requires final-run verification
+2025_DJR_022	2025	gill	ACTCCATATTCGGC	metadata/barcodes_2025.txt	reaction position C18; positional map requires final-run verification
+2025_DJR_023	2025	gill	CTTGCCGTATACCG	metadata/barcodes_2025.txt	reaction position C19; positional map requires final-run verification
+2025_DJR_026	2025	gill	TTACATTAGATGGC	metadata/barcodes_2025.txt	reaction position C20; positional map requires final-run verification
+2025_DJR_027	2025	gill	ACGACACAGTACGA	metadata/barcodes_2025.txt	reaction position C21; positional map requires final-run verification
+2025_DJR_029	2025	gill	ATACAGCTACTAGC	metadata/barcodes_2025.txt	reaction position C22; positional map requires final-run verification
+2025_DJR_030	2025	gill	TCTCACGAGTATAC	metadata/barcodes_2025.txt	reaction position C23; positional map requires final-run verification
+2025_DJR_031	2025	gill	ATCTAGTCATGCAG	metadata/barcodes_2025.txt	reaction position C24; positional map requires final-run verification
+2025_DJR_032	2025	gill	CAGCACGCTGCACA	metadata/barcodes_2025.txt	reaction position E13; positional map requires final-run verification
+2025_DJR_034	2025	gill	TACTCATAGAGTCG	metadata/barcodes_2025.txt	reaction position E14; positional map requires final-run verification
+2025_DJR_035	2025	gill	ATCGAGTGCACTGA	metadata/barcodes_2025.txt	reaction position E15; positional map requires final-run verification
+2025_DJR_036	2025	gill	ATGTGTCACTACGC	metadata/barcodes_2025.txt	reaction position E16; positional map requires final-run verification
+2025_DJR_037	2025	gill	AACCGTGACATTAC	metadata/barcodes_2025.txt	reaction position E17; positional map requires final-run verification
+2025_DJR_038	2025	gill	ACGTACTAGAGCGA	metadata/barcodes_2025.txt	reaction position E18; positional map requires final-run verification
+2025_DJR_040	2025	gill	CAGCACTGCACTAG	metadata/barcodes_2025.txt	reaction position E19; positional map requires final-run verification
+2025_DJR_041	2025	gill	AAGGCCGCAGGAGA	metadata/barcodes_2025.txt	reaction position E20; positional map requires final-run verification
+2025_DJR_042	2025	gill	ATCGCGTATCATGC	metadata/barcodes_2025.txt	reaction position E21; positional map requires final-run verification
+2025_DJR_043	2025	gill	AATCTTAAGAGGAC	metadata/barcodes_2025.txt	reaction position E22; positional map requires final-run verification
+2025_DJR_044	2025	gill	ACAGCTATACACGC	metadata/barcodes_2025.txt	reaction position E23; positional map requires final-run verification
+2025_DJR_045	2025	gill	TTGATTAATCTCGG	metadata/barcodes_2025.txt	reaction position E24; positional map requires final-run verification
+2025_DJR_046	2025	gill	ACAATACCGCCAAG	metadata/barcodes_2025.txt	reaction position G13; positional map requires final-run verification
+2025_DJR_047	2025	gill	CTTCATGGCTCCAC	metadata/barcodes_2025.txt	reaction position G14; positional map requires final-run verification
+2025_DJR_048	2025	gill	AACCTGAGGCAAGA	metadata/barcodes_2025.txt	reaction position G15; positional map requires final-run verification
+2025_DJR_049	2025	gill	AAGAACGGCCTGGC	metadata/barcodes_2025.txt	reaction position G16; positional map requires final-run verification
+2025_DJR_051	2025	gill	ACGTCAGCATCGAC	metadata/barcodes_2025.txt	reaction position G17; positional map requires final-run verification
+2025_DJR_052	2025	gill	TAAGCCTACACAGG	metadata/barcodes_2025.txt	reaction position G18; positional map requires final-run verification
+2025_DJR_053	2025	gill	CAAGTTGGAGAGGC	metadata/barcodes_2025.txt	reaction position G19; positional map requires final-run verification
+2025_DJR_054	2025	gill	AAGCCGAATCCTCC	metadata/barcodes_2025.txt	reaction position G20; positional map requires final-run verification
+2025_DJR_055	2025	gill	CAGACTGATATACA	metadata/barcodes_2025.txt	reaction position G21; positional map requires final-run verification
+2025_DJR_056	2025	gill	TATGCCATGCCTAC	metadata/barcodes_2025.txt	reaction position G22; positional map requires final-run verification
+2025_DJR_057	2025	gill	ACATCCTAATACCG	metadata/barcodes_2025.txt	reaction position G23; positional map requires final-run verification
+2025_DJR_058	2025	gill	CCTAGAGGATAGGC	metadata/barcodes_2025.txt	reaction position G24; positional map requires final-run verification
+2025_DJR_059	2025	gill	CCACACTCCAACCG	metadata/barcodes_2025.txt	reaction position I13; positional map requires final-run verification
+2025_DJR_060	2025	gill	ACGCTACGTCGTAG	metadata/barcodes_2025.txt	reaction position I14; positional map requires final-run verification
+2025_DJR_061	2025	gill	CCGTCCAACGGAAG	metadata/barcodes_2025.txt	reaction position I15; positional map requires final-run verification
+2025_DJR_062	2025	gill	ATATCGCACGTAGA	metadata/barcodes_2025.txt	reaction position I16; positional map requires final-run verification
+2025_DJR_063	2025	gill	TAACTATACCGCCG	metadata/barcodes_2025.txt	reaction position I17; positional map requires final-run verification
+2025_DJR_064	2025	gill	ATTAGTTGTCCAGA	metadata/barcodes_2025.txt	reaction position I18; positional map requires final-run verification
+2025_DJR_065	2025	gill	ATAACGGACCAACG	metadata/barcodes_2025.txt	reaction position I19; positional map requires final-run verification
+2025_DJR_066	2025	gill	CCTAAGAGAAGCGG	metadata/barcodes_2025.txt	reaction position I20; positional map requires final-run verification
+2025_DJR_067	2025	gill	CAACCGTCAACCGG	metadata/barcodes_2025.txt	reaction position I21; positional map requires final-run verification
+2025_DJR_068	2025	gill	AACAACAAGCCTCA	metadata/barcodes_2025.txt	reaction position I22; positional map requires final-run verification
+2025_DJR_069	2025	gill	ACTATAGTAGCACG	metadata/barcodes_2025.txt	reaction position I23; positional map requires final-run verification
+2025_DJR_070	2025	gill	AATGAATGGTCCGC	metadata/barcodes_2025.txt	reaction position I24; positional map requires final-run verification
+2025_DJR_071	2025	gill	ACACAGACAGTGCG	metadata/barcodes_2025.txt	reaction position K13; positional map requires final-run verification
+2025_DJR_072	2025	gill	CTGTCGAGATCTGA	metadata/barcodes_2025.txt	reaction position K14; positional map requires final-run verification
+2025_DJR_073	2025	gill	AACCTCATCTTCAA	metadata/barcodes_2025.txt	reaction position K15; positional map requires final-run verification
+2025_DJR_110	2025	gill	ACTATAGCTATGAC	metadata/barcodes_2025.txt	reaction position K16; positional map requires final-run verification
+2025_DJR_111	2025	gill	TCTATAGAGTCGAG	metadata/barcodes_2025.txt	reaction position K17; positional map requires final-run verification
+2025_DJR_112	2025	gill	TACGCACTGTCAGA	metadata/barcodes_2025.txt	reaction position K18; positional map requires final-run verification
+2025_DJR_113	2025	gill	ACAGTACCTTAACC	metadata/barcodes_2025.txt	reaction position K19; positional map requires final-run verification
+2025_DJR_114	2025	gill	TTAAGACATATGCC	metadata/barcodes_2025.txt	reaction position K20; positional map requires final-run verification
+2025_DJR_115	2025	gill	TATTAACTGGATGG	metadata/barcodes_2025.txt	reaction position K21; positional map requires final-run verification
+2025_DJR_116	2025	gill	CCTGATACACGTAA	metadata/barcodes_2025.txt	reaction position K22; positional map requires final-run verification
+2025_DJR_117	2025	gill	AAGGTGGAACACGG	metadata/barcodes_2025.txt	reaction position K23; positional map requires final-run verification
+2025_DJR_118	2025	gill	ACATGGAGGAGAAC	metadata/barcodes_2025.txt	reaction position K24; positional map requires final-run verification
+2025_DJR_119	2025	gill	ACGGTCTCCTGAGG	metadata/barcodes_2025.txt	reaction position M13; positional map requires final-run verification
+2025_DJR_120	2025	gill	AACTATTCTACCAC	metadata/barcodes_2025.txt	reaction position M14; positional map requires final-run verification
+2025_DJR_121	2025	gill	AATCACACACCGAA	metadata/barcodes_2025.txt	reaction position M15; positional map requires final-run verification
+2025_DJR_147	2025	gill	ACTGGAAGCCACAA	metadata/barcodes_2025.txt	reaction position M16; positional map requires final-run verification
+2025_DJR_148	2025	gill	ATTGCATTAACCAC	metadata/barcodes_2025.txt	reaction position M17; positional map requires final-run verification
+2025_DJR_149	2025	gill	ACTACGCTGCATAC	metadata/barcodes_2025.txt	reaction position M18; positional map requires final-run verification
+2025_DJR_150	2025	gill	ATAGGAGAACTTGG	metadata/barcodes_2025.txt	reaction position M19; positional map requires final-run verification
+2025_DJR_152	2025	gill	TTCTTGAACTCTGG	metadata/barcodes_2025.txt	reaction position M20; positional map requires final-run verification
+2025_DJR_153	2025	gill	ATTGGTAACACAAC	metadata/barcodes_2025.txt	reaction position M21; positional map requires final-run verification
+2025_DJR_154	2025	gill	CCGTGTTAACCTGC	metadata/barcodes_2025.txt	reaction position M22; positional map requires final-run verification
+2025_DJR_155	2025	gill	TCTAAGGTGGTGAC	metadata/barcodes_2025.txt	reaction position M23; positional map requires final-run verification
+2025_DJR_156	2025	gill	ACCAAGGTTAGAAC	metadata/barcodes_2025.txt	reaction position M24; positional map requires final-run verification
+2025_DJR_157	2025	gill	TTAGAATTCCGAAG	metadata/barcodes_2025.txt	reaction position O13; positional map requires final-run verification
+2025_DJR_158	2025	gill	ACGACATCGCGCAC	metadata/barcodes_2025.txt	reaction position O14; positional map requires final-run verification
+2025_DJR_159	2025	gill	CCTGAAGCAGTAAC	metadata/barcodes_2025.txt	reaction position O15; positional map requires final-run verification
+2025_DJR_160	2025	gill	AATGTCGATACGAA	metadata/barcodes_2025.txt	reaction position O16; positional map requires final-run verification
+2025_DJR_161	2025	gill	ATGAAGTAACCAAG	metadata/barcodes_2025.txt	reaction position O17; positional map requires final-run verification
+2025_DJR_162	2025	gill	CATCGCACGTATGC	metadata/barcodes_2025.txt	reaction position O18; positional map requires final-run verification
+2025_DJR_163	2025	gill	TATGGCAAGCACGG	metadata/barcodes_2025.txt	reaction position O19; positional map requires final-run verification
+2025_DJR_165	2025	gill	AACAAGACCGTTAC	metadata/barcodes_2025.txt	reaction position O20; positional map requires final-run verification
+2025_DJR_166	2025	gill	ACATCTACGTCTCG	metadata/barcodes_2025.txt	reaction position O21; positional map requires final-run verification
+2025_DJR_167	2025	gill	TATGCTCAGATGCA	metadata/barcodes_2025.txt	reaction position O22; positional map requires final-run verification
+2025_DJR_168	2025	gill	CAGATGCTGACGCG	metadata/barcodes_2025.txt	reaction position O23; positional map requires final-run verification
+2025_DJR_169	2025	gill	TTCGAAGCCTCCGG	metadata/barcodes_2025.txt	reaction position O24; positional map requires final-run verification
+2025_DJR_171	2025	gill	CAGTTGAGATAGCC	metadata/barcodes_2025.txt	reaction position B01; positional map requires final-run verification
+2025_DJR_173	2025	gill	ACACTACTCGTGCA	metadata/barcodes_2025.txt	reaction position B02; positional map requires final-run verification
+2025_DJR_174	2025	gill	AACCAGAGAATGGC	metadata/barcodes_2025.txt	reaction position B03; positional map requires final-run verification
+2025_DJR_175	2025	gill	TCAGTGCGATCGCA	metadata/barcodes_2025.txt	reaction position B04; positional map requires final-run verification
+2025_DJR_177	2025	gill	AAGCATTCTGGCCG	metadata/barcodes_2025.txt	reaction position B05; positional map requires final-run verification
+2025_DJR_178	2025	gill	TACTAGACTACTCG	metadata/barcodes_2025.txt	reaction position B06; positional map requires final-run verification
+2025_DJR_180	2025	gill	CCAAGCAACAATCC	metadata/barcodes_2025.txt	reaction position B07; positional map requires final-run verification
+2025_DJR_181	2025	gill	CATAGCTGCGCTGC	metadata/barcodes_2025.txt	reaction position B08; positional map requires final-run verification
+2025_DJR_182	2025	gill	AATGGTATCTGCCG	metadata/barcodes_2025.txt	reaction position B09; positional map requires final-run verification
+2025_DJR_183	2025	gill	ATGAGGTTACTTCA	metadata/barcodes_2025.txt	reaction position B10; positional map requires final-run verification
+2025_DJR_184	2025	gill	AATTAATCACGTGC	metadata/barcodes_2025.txt	reaction position B11; positional map requires final-run verification
+2025_DJR_185	2025	gill	ACATCTCTACTGCG	metadata/barcodes_2025.txt	reaction position B12; positional map requires final-run verification
+2025_DJR_189	2025	gill	ACCGGCCAATAACA	metadata/barcodes_2025.txt	reaction position D02; positional map requires final-run verification
+2025_DJR_191	2025	gill	CTCCACAAGAATGG	metadata/barcodes_2025.txt	reaction position D03; positional map requires final-run verification
+2025_DJR_192	2025	gill	CCAAGCGCCTAAGG	metadata/barcodes_2025.txt	reaction position D04; positional map requires final-run verification
+2025_DJR_193	2025	gill	TCGATATCACAAGC	metadata/barcodes_2025.txt	reaction position D05; positional map requires final-run verification
+2025_DJR_194	2025	gill	TCATGATAGCAGAG	metadata/barcodes_2025.txt	reaction position D06; positional map requires final-run verification
+2025_DJR_195	2025	gill	ACTGCACTTCCGAA	metadata/barcodes_2025.txt	reaction position D07; positional map requires final-run verification
+2025_DJR_196	2025	gill	CACTGCCGGTCAAC	metadata/barcodes_2025.txt	reaction position D08; positional map requires final-run verification
+2025_DJR_245	2025	gill	ATTCGCATTCCTAG	metadata/barcodes_2025.txt	reaction position D09; positional map requires final-run verification
+2025_DJR_246	2025	gill	CAATCTTGGCTTCA	metadata/barcodes_2025.txt	reaction position D10; positional map requires final-run verification
+2025_DJR_247	2025	gill	AACCAACTTGTTCC	metadata/barcodes_2025.txt	reaction position D11; positional map requires final-run verification
+2025_DJR_248	2025	gill	TAATGTGCAATTGC	metadata/barcodes_2025.txt	reaction position D12; positional map requires final-run verification
+2025_DJR_249	2025	gill	AAGGCGCTTCAACG	metadata/barcodes_2025.txt	reaction position F01; positional map requires final-run verification
+2025_DJR_251	2025	gill	AACAAGGTGTCCAA	metadata/barcodes_2025.txt	reaction position F02; positional map requires final-run verification
+2025_DJR_252	2025	gill	ACACGACAGCTCAC	metadata/barcodes_2025.txt	reaction position F03; positional map requires final-run verification
+2025_DJR_253	2025	gill	ACTAGACGCACACA	metadata/barcodes_2025.txt	reaction position F04; positional map requires final-run verification
+2025_DJR_254	2025	gill	CTGTAGGATAGGCC	metadata/barcodes_2025.txt	reaction position F05; positional map requires final-run verification
+2025_DJR_255	2025	gill	AAGTGAATACCAAC	metadata/barcodes_2025.txt	reaction position F06; positional map requires final-run verification
+2025_DJR_256	2025	gill	ATGTTAACTTCCGC	metadata/barcodes_2025.txt	reaction position F07; positional map requires final-run verification
+2025_DJR_257	2025	gill	CAGGCCATTAATCC	metadata/barcodes_2025.txt	reaction position F08; positional map requires final-run verification
+2025_DJR_258	2025	gill	ACGGCTTGGTTAAG	metadata/barcodes_2025.txt	reaction position F09; positional map requires final-run verification
+2025_DJR_260	2025	gill	TATGCAGTGCTACG	metadata/barcodes_2025.txt	reaction position F10; positional map requires final-run verification
+2025_DJR_261	2025	gill	ACGCATGTACAGAC	metadata/barcodes_2025.txt	reaction position F11; positional map requires final-run verification
+2025_DJR_262	2025	gill	CCTACATAAGCGAA	metadata/barcodes_2025.txt	reaction position F12; positional map requires final-run verification
+2025_DJR_263	2025	gill	TCAGCAGATACGCG	metadata/barcodes_2025.txt	reaction position H01; positional map requires final-run verification
+2025_DJR_264	2025	gill	CACAGCAGATACGA	metadata/barcodes_2025.txt	reaction position H02; positional map requires final-run verification
+2025_DJR_265	2025	gill	TAATGGCGGAATAG	metadata/barcodes_2025.txt	reaction position H03; positional map requires final-run verification
+2025_DJR_266	2025	gill	TAGACGACATATAC	metadata/barcodes_2025.txt	reaction position H04; positional map requires final-run verification
+2025_DJR_267	2025	gill	ACGATGCTCATCAC	metadata/barcodes_2025.txt	reaction position H05; positional map requires final-run verification
+2025_DJR_268	2025	gill	CCAACCATTCACCG	metadata/barcodes_2025.txt	reaction position H06; positional map requires final-run verification
+2025_DJR_269	2025	gill	TTCACGGCCTTGGA	metadata/barcodes_2025.txt	reaction position H07; positional map requires final-run verification
+2025_DJR_270	2025	gill	AACTTGGCCACAGG	metadata/barcodes_2025.txt	reaction position H08; positional map requires final-run verification
+2025_DJR_271	2025	gill	ATCGTTGAGGTTCC	metadata/barcodes_2025.txt	reaction position H09; positional map requires final-run verification
+2025_DJR_272	2025	gill	TTACCACTCTTGGC	metadata/barcodes_2025.txt	reaction position H10; positional map requires final-run verification
+2025_DJR_274	2025	gill	ATAGGAATTCTGCA	metadata/barcodes_2025.txt	reaction position H11; positional map requires final-run verification
+2025_DJR_276	2025	gill	ACACACACGAGTAG	metadata/barcodes_2025.txt	reaction position H12; positional map requires final-run verification
+2025_DJR_277	2025	gill	CATTAATCCTCCAG	metadata/barcodes_2025.txt	reaction position J01; positional map requires final-run verification
+2025_DJR_280	2025	gill	ACTGACTGAGCTCA	metadata/barcodes_2025.txt	reaction position J02; positional map requires final-run verification
+2025_DJR_281	2025	gill	ACCATGGAGGATGG	metadata/barcodes_2025.txt	reaction position J03; positional map requires final-run verification
+2025_DJR_283	2025	gill	ACAGACTGCTGTAC	metadata/barcodes_2025.txt	reaction position J04; positional map requires final-run verification
+2025_DJR_286	2025	gill	CCGATAGACAATAA	metadata/barcodes_2025.txt	reaction position J05; positional map requires final-run verification
+2025_DJR_287	2025	gill	ATAATGAATTGGCC	metadata/barcodes_2025.txt	reaction position J06; positional map requires final-run verification
+2025_DJR_288	2025	gill	AAGATTGCAACGCC	metadata/barcodes_2025.txt	reaction position J07; positional map requires final-run verification
+2025_DJR_289	2025	gill	CTCCAACCGCCACA	metadata/barcodes_2025.txt	reaction position J08; positional map requires final-run verification
+2025_DJR_290	2025	gill	AACAACCGCTAACC	metadata/barcodes_2025.txt	reaction position J09; positional map requires final-run verification
+2025_DJR_291	2025	gill	CTTGCGAGGCAGCA	metadata/barcodes_2025.txt	reaction position J10; positional map requires final-run verification
+2025_DJR_292	2025	gill	ACTCATGATGCTGA	metadata/barcodes_2025.txt	reaction position J11; positional map requires final-run verification
+2025_DJR_293	2025	gill	CAACTCGGCCTCCA	metadata/barcodes_2025.txt	reaction position J12; positional map requires final-run verification
+2025_DJR_296	2025	gill	TATGTGACTGTACG	metadata/barcodes_2025.txt	reaction position L01; positional map requires final-run verification
+2025_DJR_297	2025	gill	TCACTGCTGACTAC	metadata/barcodes_2025.txt	reaction position L02; positional map requires final-run verification
+2025_DJR_298	2025	gill	CTCGCTGATAGCAC	metadata/barcodes_2025.txt	reaction position L03; positional map requires final-run verification
+2025_DJR_299	2025	gill	ACAGTCATACGACA	metadata/barcodes_2025.txt	reaction position L04; positional map requires final-run verification
+2025_DJR_300	2025	gill	CCGTTACCTACAAC	metadata/barcodes_2025.txt	reaction position L05; positional map requires final-run verification
+2025_DJR_301	2025	gill	CAATGAATTCAAGG	metadata/barcodes_2025.txt	reaction position L06; positional map requires final-run verification
+2025_DJR_310	2025	gill	ATGGTTGGATAACC	metadata/barcodes_2025.txt	reaction position L07; positional map requires final-run verification
+2025_DJR_311	2025	gill	TCGCATACTCGCGC	metadata/barcodes_2025.txt	reaction position L08; positional map requires final-run verification
+2025_DJR_312	2025	gill	AATTATACCGCTCA	metadata/barcodes_2025.txt	reaction position L09; positional map requires final-run verification
+2025_DJR_313	2025	gill	CCTATGGAACTTGC	metadata/barcodes_2025.txt	reaction position L10; positional map requires final-run verification
+2025_DJR_314	2025	gill	ATACGCGACGCTCA	metadata/barcodes_2025.txt	reaction position L11; positional map requires final-run verification
+2025_DJR_315	2025	gill	ACTCTGCGCTCGAC	metadata/barcodes_2025.txt	reaction position L12; positional map requires final-run verification
+2025_DJR_316	2025	gill	ATCGTGATCACGAG	metadata/barcodes_2025.txt	reaction position N01; positional map requires final-run verification
+2025_DJR_317	2025	gill	AACCATTGCCGAGG	metadata/barcodes_2025.txt	reaction position N02; positional map requires final-run verification
+2025_DJR_318	2025	gill	ATATCTGTGATGAC	metadata/barcodes_2025.txt	reaction position N03; positional map requires final-run verification
+2025_DJR_319	2025	gill	AACTCATGACCTAG	metadata/barcodes_2025.txt	reaction position N04; positional map requires final-run verification
+2025_DJR_320	2025	gill	CAAGAGAATCCAAC	metadata/barcodes_2025.txt	reaction position N05; positional map requires final-run verification
+2025_DJR_321	2025	gill	ATAGAGTCGACGAC	metadata/barcodes_2025.txt	reaction position N06; positional map requires final-run verification
+2025_DJR_322	2025	gill	TAGAGCATGTCACG	metadata/barcodes_2025.txt	reaction position N07; positional map requires final-run verification
+2025_DJR_323	2025	gill	ACACACTGACTCAG	metadata/barcodes_2025.txt	reaction position N08; positional map requires final-run verification
+2025_DJR_324	2025	gill	AACAACCTTCCAAG	metadata/barcodes_2025.txt	reaction position N09; positional map requires final-run verification
+2025_DJR_325	2025	gill	CAACACAACGGCGG	metadata/barcodes_2025.txt	reaction position N10; positional map requires final-run verification
+2025_DJR_326	2025	gill	CACGACACTATCGA	metadata/barcodes_2025.txt	reaction position N11; positional map requires final-run verification
+2025_DJR_327	2025	gill	CACGTCATAGCTGA	metadata/barcodes_2025.txt	reaction position N12; positional map requires final-run verification
+2025_DJR_328	2025	gill	TTACATCTAGTCCA	metadata/barcodes_2025.txt	reaction position P01; positional map requires final-run verification
+2025_DJR_329	2025	gill	AAGGTCCGCACCGA	metadata/barcodes_2025.txt	reaction position P02; positional map requires final-run verification
+2025_DJR_373	2025	gill	TTCACCAATGGAGA	metadata/barcodes_2025.txt	reaction position P03; positional map requires final-run verification
+2025_DJR_374	2025	gill	ATGAGTCGTCACAG	metadata/barcodes_2025.txt	reaction position P04; positional map requires final-run verification
+2025_DJR_376	2025	gill	TACGACATCTGTAG	metadata/barcodes_2025.txt	reaction position P05; positional map requires final-run verification
+2025_DJR_377	2025	gill	ATGCGGATCTTGGA	metadata/barcodes_2025.txt	reaction position P06; positional map requires final-run verification
+2025_DJR_378	2025	gill	CAACCTCATCCGCG	metadata/barcodes_2025.txt	reaction position P07; positional map requires final-run verification
+2025_DJR_379	2025	gill	TTGGTGGCCTGTGC	metadata/barcodes_2025.txt	reaction position P08; positional map requires final-run verification
+2025_DJR_380	2025	gill	ATTAATCCTCGGAA	metadata/barcodes_2025.txt	reaction position P09; positional map requires final-run verification
+2025_DJR_381	2025	gill	CTCTACATCATCAG	metadata/barcodes_2025.txt	reaction position P10; positional map requires final-run verification
+2025_DJR_382	2025	gill	ACATAGTCATCTGA	metadata/barcodes_2025.txt	reaction position P11; positional map requires final-run verification
+2025_DJR_383	2025	gill	ATCTGGAAGCAACC	metadata/barcodes_2025.txt	reaction position P12; positional map requires final-run verification
+2025_DJR_384	2025	gill	AACAACGCCGGCCA	metadata/barcodes_2025.txt	reaction position B13; positional map requires final-run verification
+2025_DJR_385	2025	gill	ATTAACGTACGGCC	metadata/barcodes_2025.txt	reaction position B14; positional map requires final-run verification
+2025_DJR_386	2025	gill	ACAGCAGTATAGCA	metadata/barcodes_2025.txt	reaction position B15; positional map requires final-run verification
+2025_DJR_387	2025	gill	ATGCGTGCATGTAC	metadata/barcodes_2025.txt	reaction position B16; positional map requires final-run verification
+2025_DJR_388	2025	gill	TAGCTGAGCTGCAG	metadata/barcodes_2025.txt	reaction position B17; positional map requires final-run verification
+2025_DJR_389	2025	gill	CCTAGGATCTGGAG	metadata/barcodes_2025.txt	reaction position B18; positional map requires final-run verification
+2025_DJR_390	2025	gill	CATAGCTTACGAAC	metadata/barcodes_2025.txt	reaction position B19; positional map requires final-run verification
+2025_DJR_391	2025	gill	CTAGTAGCGTATCA	metadata/barcodes_2025.txt	reaction position B20; positional map requires final-run verification
+2025_DJR_392	2025	gill	ACACTCTGTAGAGC	metadata/barcodes_2025.txt	reaction position B21; positional map requires final-run verification
+2025_DJR_393	2025	gill	ATGATGTGTAGTAC	metadata/barcodes_2025.txt	reaction position B22; positional map requires final-run verification
+2025_DJR_394	2025	gill	AAGGAGGTTCTTAC	metadata/barcodes_2025.txt	reaction position B23; positional map requires final-run verification
+2025_DJR_396	2025	gill	ACAGTACTCTGCAG	metadata/barcodes_2025.txt	reaction position B24; positional map requires final-run verification
+2025_DJR_397	2025	gill	TTATGTCCACCACC	metadata/barcodes_2025.txt	reaction position D13; positional map requires final-run verification
+2025_DJR_398	2025	gill	TAGATCAAGCGGCC	metadata/barcodes_2025.txt	reaction position D14; positional map requires final-run verification
+2025_DJR_399	2025	gill	CCAATGTGCACGCC	metadata/barcodes_2025.txt	reaction position D15; positional map requires final-run verification
+2025_DJR_400	2025	gill	CCATGTGTCCAGCC	metadata/barcodes_2025.txt	reaction position D16; positional map requires final-run verification
+2025_DJR_402	2025	gill	CCTCGAGGTAGGAA	metadata/barcodes_2025.txt	reaction position D17; positional map requires final-run verification
+2025_DJR_404	2025	gill	AAGGAAGTGCGCCA	metadata/barcodes_2025.txt	reaction position D18; positional map requires final-run verification
+2025_DJR_405	2025	gill	TCTCTCGATCTGCA	metadata/barcodes_2025.txt	reaction position D19; positional map requires final-run verification
+2025_DJR_406	2025	gill	TCGTACAGTATCAC	metadata/barcodes_2025.txt	reaction position D20; positional map requires final-run verification
+2025_DJR_407	2025	gill	AACTCGCGTTGAAG	metadata/barcodes_2025.txt	reaction position D21; positional map requires final-run verification
+2025_DJR_408	2025	gill	CAGTATCTAGTAGA	metadata/barcodes_2025.txt	reaction position D22; positional map requires final-run verification
+2025_DJR_409	2025	gill	ACCGCAACTAGCCA	metadata/barcodes_2025.txt	reaction position D23; positional map requires final-run verification
+2025_DJR_410	2025	gill	AATAATGCGCTAAG	metadata/barcodes_2025.txt	reaction position D24; positional map requires final-run verification
+2025_DJR_411	2025	gill	CAACCACTGAACCA	metadata/barcodes_2025.txt	reaction position F13; positional map requires final-run verification
+2025_DJR_412	2025	gill	AATGCCTTGTAAGG	metadata/barcodes_2025.txt	reaction position F14; positional map requires final-run verification
+2025_DJR_413	2025	gill	CCAATAACAAGAGA	metadata/barcodes_2025.txt	reaction position F15; positional map requires final-run verification
+2025_DJR_414	2025	gill	ACGGTTCAACATAA	metadata/barcodes_2025.txt	reaction position F16; positional map requires final-run verification
+2025_DJR_415	2025	gill	AATCCTGGTACACG	metadata/barcodes_2025.txt	reaction position F17; positional map requires final-run verification
+2025_DJR_416	2025	gill	AAGCCGCACACAAG	metadata/barcodes_2025.txt	reaction position F18; positional map requires final-run verification
+2025_DJR_417	2025	gill	TATACTAGCTGACA	metadata/barcodes_2025.txt	reaction position F19; positional map requires final-run verification
+2025_DJR_418	2025	gill	ACAATTGAAGTGGA	metadata/barcodes_2025.txt	reaction position F20; positional map requires final-run verification
+2025_DJR_419	2025	gill	ATGAGGCGATCGAA	metadata/barcodes_2025.txt	reaction position F21; positional map requires final-run verification
+2025_DJR_420	2025	gill	CTAGATCTGTAGCG	metadata/barcodes_2025.txt	reaction position F22; positional map requires final-run verification
+2025_DJR_421	2025	gill	ATTAATGGCCTTCA	metadata/barcodes_2025.txt	reaction position F23; positional map requires final-run verification
+2025_DJR_422	2025	gill	ACGACAGCTACAGA	metadata/barcodes_2025.txt	reaction position F24; positional map requires final-run verification
+2025_DJR_423	2025	gill	AACAACTCGCACGG	metadata/barcodes_2025.txt	reaction position H13; positional map requires final-run verification
+2025_DJR_424	2025	gill	TCCACACGATTCGG	metadata/barcodes_2025.txt	reaction position H14; positional map requires final-run verification
+2025_DJR_425	2025	gill	ACTGAGTCTAGAGA	metadata/barcodes_2025.txt	reaction position H15; positional map requires final-run verification
+2025_DJR_427	2025	gill	TCTCGAGCTATACG	metadata/barcodes_2025.txt	reaction position H16; positional map requires final-run verification
+2025_DJR_428	2025	gill	CCTTATTGCGTTCC	metadata/barcodes_2025.txt	reaction position H17; positional map requires final-run verification
+2025_DJR_431	2025	gill	TACTACTCAGCAGA	metadata/barcodes_2025.txt	reaction position H18; positional map requires final-run verification
+2025_DJR_457	2025	gill	ATCCTCTAATAAGC	metadata/barcodes_2025.txt	reaction position H19; positional map requires final-run verification
+2025_DJR_458	2025	gill	AAGTAACTCGGCGC	metadata/barcodes_2025.txt	reaction position H20; positional map requires final-run verification
+2025_DJR_459	2025	gill	CAATAGATAAGGAG	metadata/barcodes_2025.txt	reaction position H21; positional map requires final-run verification
+2025_DJR_461	2025	gill	CCACCTTGATTGGC	metadata/barcodes_2025.txt	reaction position H22; positional map requires final-run verification
+2025_DJR_462	2025	gill	TAACAAGAAGGAGA	metadata/barcodes_2025.txt	reaction position H23; positional map requires final-run verification
+2025_DJR_463	2025	gill	CTATGTCGCTCAGA	metadata/barcodes_2025.txt	reaction position H24; positional map requires final-run verification
+2025_DJR_464	2025	gill	ATACGGAAGCCGAA	metadata/barcodes_2025.txt	reaction position J13; positional map requires final-run verification
+2025_DJR_465	2025	gill	ATAAGCCAAGGTAC	metadata/barcodes_2025.txt	reaction position J14; positional map requires final-run verification
+2025_DJR_466	2025	gill	CAGTCTTCCTAACC	metadata/barcodes_2025.txt	reaction position J15; positional map requires final-run verification
+2025_DJR_467	2025	gill	CCGCCAAGCTCCAA	metadata/barcodes_2025.txt	reaction position J16; positional map requires final-run verification
+2025_DJR_468	2025	gill	ATCACAGCGTCTAG	metadata/barcodes_2025.txt	reaction position J17; positional map requires final-run verification
+2025_DJR_469	2025	gill	TTGAATCAAGGCAG	metadata/barcodes_2025.txt	reaction position J18; positional map requires final-run verification
+2025_DJR_470	2025	gill	TTACAAGTGCTGAA	metadata/barcodes_2025.txt	reaction position J19; positional map requires final-run verification
+2025_DJR_471	2025	gill	CTGGATATCCACAA	metadata/barcodes_2025.txt	reaction position J20; positional map requires final-run verification
+2025_DJR_472	2025	gill	CCGTCTAAGAACCA	metadata/barcodes_2025.txt	reaction position J21; positional map requires final-run verification
+2025_DJR_473	2025	gill	CCTCAGATACAAGA	metadata/barcodes_2025.txt	reaction position J22; positional map requires final-run verification
+2025_DJR_475	2025	gill	AACCGGCTTCGCCA	metadata/barcodes_2025.txt	reaction position J23; positional map requires final-run verification
+2025_DJR_476	2025	gill	CAAGAAGTTAAGAC	metadata/barcodes_2025.txt	reaction position J24; positional map requires final-run verification
+2025_DJR_478	2025	gill	CTATCGTGCTAGCG	metadata/barcodes_2025.txt	reaction position L13; positional map requires final-run verification
+2025_DJR_479	2025	gill	CTCGAACACCGTGG	metadata/barcodes_2025.txt	reaction position L14; positional map requires final-run verification
+2025_DJR_481	2025	gill	TTAGGTGTCTAGAA	metadata/barcodes_2025.txt	reaction position L15; positional map requires final-run verification
+2025_DJR_482	2025	gill	ACCGAACGGTTGCA	metadata/barcodes_2025.txt	reaction position L16; positional map requires final-run verification
+2025_DJR_483	2025	gill	CACGTGACGCACAG	metadata/barcodes_2025.txt	reaction position L17; positional map requires final-run verification
+2025_DJR_484	2025	gill	AACCAACGGCCGAC	metadata/barcodes_2025.txt	reaction position L18; positional map requires final-run verification
+2025_DJR_485	2025	gill	TCCATGACCAGCGC	metadata/barcodes_2025.txt	reaction position L19; positional map requires final-run verification
+2025_DJR_486	2025	gill	CATTGGAACACACG	metadata/barcodes_2025.txt	reaction position L20; positional map requires final-run verification
+2025_DJR_487	2025	gill	ACACACGAGCAGCG	metadata/barcodes_2025.txt	reaction position L21; positional map requires final-run verification
+2025_DJR_488	2025	gill	CTCGTAATCGGCCG	metadata/barcodes_2025.txt	reaction position L22; positional map requires final-run verification
+2025_DJR_003	2025	liver	ATGGTTCACAGCCG	metadata/barcodes_2025.txt	reaction position A13; positional map requires final-run verification
+2025_DJR_004	2025	liver	TTGCCAATCGGTAG	metadata/barcodes_2025.txt	reaction position A14; positional map requires final-run verification
+2025_DJR_005	2025	liver	ACAGCTGCTGTACA	metadata/barcodes_2025.txt	reaction position A15; positional map requires final-run verification
+2025_DJR_006	2025	liver	CTGACCTGTAAGCA	metadata/barcodes_2025.txt	reaction position A16; positional map requires final-run verification
+2025_DJR_007	2025	liver	CCTTGGTAGCACGA	metadata/barcodes_2025.txt	reaction position A17; positional map requires final-run verification
+2025_DJR_009	2025	liver	CTGCCTGTGGCTAA	metadata/barcodes_2025.txt	reaction position A18; positional map requires final-run verification
+2025_DJR_010	2025	liver	ATATCGTACAGCAC	metadata/barcodes_2025.txt	reaction position A19; positional map requires final-run verification
+2025_DJR_011	2025	liver	ACACGTGATAGCAG	metadata/barcodes_2025.txt	reaction position A20; positional map requires final-run verification
+2025_DJR_012	2025	liver	AACAGTCAACTCAA	metadata/barcodes_2025.txt	reaction position A21; positional map requires final-run verification
+2025_DJR_013	2025	liver	TTACGCACGGTGGA	metadata/barcodes_2025.txt	reaction position A22; positional map requires final-run verification
+2025_DJR_015	2025	liver	CCATACACCACGGC	metadata/barcodes_2025.txt	reaction position A23; positional map requires final-run verification
+2025_DJR_016	2025	liver	CACACTCTCGTGCA	metadata/barcodes_2025.txt	reaction position A24; positional map requires final-run verification
+2025_DJR_017	2025	liver	ATCAGAGTCTAGCG	metadata/barcodes_2025.txt	reaction position C13; positional map requires final-run verification
+2025_DJR_018	2025	liver	CAACTGGCACAACG	metadata/barcodes_2025.txt	reaction position C14; positional map requires final-run verification
+2025_DJR_019	2025	liver	TACTGGCCGTACGC	metadata/barcodes_2025.txt	reaction position C15; positional map requires final-run verification
+2025_DJR_020	2025	liver	AATGGAACCGTGAG	metadata/barcodes_2025.txt	reaction position C16; positional map requires final-run verification
+2025_DJR_021	2025	liver	CCGCAACCAAGGCA	metadata/barcodes_2025.txt	reaction position C17; positional map requires final-run verification
+2025_DJR_022	2025	liver	ACTCCATATTCGGC	metadata/barcodes_2025.txt	reaction position C18; positional map requires final-run verification
+2025_DJR_023	2025	liver	CTTGCCGTATACCG	metadata/barcodes_2025.txt	reaction position C19; positional map requires final-run verification
+2025_DJR_026	2025	liver	TTACATTAGATGGC	metadata/barcodes_2025.txt	reaction position C20; positional map requires final-run verification
+2025_DJR_027	2025	liver	ACGACACAGTACGA	metadata/barcodes_2025.txt	reaction position C21; positional map requires final-run verification
+2025_DJR_029	2025	liver	ATACAGCTACTAGC	metadata/barcodes_2025.txt	reaction position C22; positional map requires final-run verification
+2025_DJR_030	2025	liver	TCTCACGAGTATAC	metadata/barcodes_2025.txt	reaction position C23; positional map requires final-run verification
+2025_DJR_031	2025	liver	ATCTAGTCATGCAG	metadata/barcodes_2025.txt	reaction position C24; positional map requires final-run verification
+2025_DJR_032	2025	liver	CAGCACGCTGCACA	metadata/barcodes_2025.txt	reaction position E13; positional map requires final-run verification
+2025_DJR_034	2025	liver	TACTCATAGAGTCG	metadata/barcodes_2025.txt	reaction position E14; positional map requires final-run verification
+2025_DJR_035	2025	liver	ATCGAGTGCACTGA	metadata/barcodes_2025.txt	reaction position E15; positional map requires final-run verification
+2025_DJR_036	2025	liver	ATGTGTCACTACGC	metadata/barcodes_2025.txt	reaction position E16; positional map requires final-run verification
+2025_DJR_037	2025	liver	AACCGTGACATTAC	metadata/barcodes_2025.txt	reaction position E17; positional map requires final-run verification
+2025_DJR_038	2025	liver	ACGTACTAGAGCGA	metadata/barcodes_2025.txt	reaction position E18; positional map requires final-run verification
+2025_DJR_040	2025	liver	CAGCACTGCACTAG	metadata/barcodes_2025.txt	reaction position E19; positional map requires final-run verification
+2025_DJR_041	2025	liver	AAGGCCGCAGGAGA	metadata/barcodes_2025.txt	reaction position E20; positional map requires final-run verification
+2025_DJR_042	2025	liver	ATCGCGTATCATGC	metadata/barcodes_2025.txt	reaction position E21; positional map requires final-run verification
+2025_DJR_043	2025	liver	AATCTTAAGAGGAC	metadata/barcodes_2025.txt	reaction position E22; positional map requires final-run verification
+2025_DJR_044	2025	liver	ACAGCTATACACGC	metadata/barcodes_2025.txt	reaction position E23; positional map requires final-run verification
+2025_DJR_045	2025	liver	TTGATTAATCTCGG	metadata/barcodes_2025.txt	reaction position E24; positional map requires final-run verification
+2025_DJR_046	2025	liver	ACAATACCGCCAAG	metadata/barcodes_2025.txt	reaction position G13; positional map requires final-run verification
+2025_DJR_047	2025	liver	CTTCATGGCTCCAC	metadata/barcodes_2025.txt	reaction position G14; positional map requires final-run verification
+2025_DJR_048	2025	liver	AACCTGAGGCAAGA	metadata/barcodes_2025.txt	reaction position G15; positional map requires final-run verification
+2025_DJR_049	2025	liver	AAGAACGGCCTGGC	metadata/barcodes_2025.txt	reaction position G16; positional map requires final-run verification
+2025_DJR_051	2025	liver	ACGTCAGCATCGAC	metadata/barcodes_2025.txt	reaction position G17; positional map requires final-run verification
+2025_DJR_052	2025	liver	TAAGCCTACACAGG	metadata/barcodes_2025.txt	reaction position G18; positional map requires final-run verification
+2025_DJR_053	2025	liver	CAAGTTGGAGAGGC	metadata/barcodes_2025.txt	reaction position G19; positional map requires final-run verification
+2025_DJR_054	2025	liver	AAGCCGAATCCTCC	metadata/barcodes_2025.txt	reaction position G20; positional map requires final-run verification
+2025_DJR_055	2025	liver	CAGACTGATATACA	metadata/barcodes_2025.txt	reaction position G21; positional map requires final-run verification
+2025_DJR_056	2025	liver	TATGCCATGCCTAC	metadata/barcodes_2025.txt	reaction position G22; positional map requires final-run verification
+2025_DJR_057	2025	liver	ACATCCTAATACCG	metadata/barcodes_2025.txt	reaction position G23; positional map requires final-run verification
+2025_DJR_058	2025	liver	CCTAGAGGATAGGC	metadata/barcodes_2025.txt	reaction position G24; positional map requires final-run verification
+2025_DJR_059	2025	liver	CCACACTCCAACCG	metadata/barcodes_2025.txt	reaction position I13; positional map requires final-run verification
+2025_DJR_060	2025	liver	ACGCTACGTCGTAG	metadata/barcodes_2025.txt	reaction position I14; positional map requires final-run verification
+2025_DJR_061	2025	liver	CCGTCCAACGGAAG	metadata/barcodes_2025.txt	reaction position I15; positional map requires final-run verification
+2025_DJR_062	2025	liver	ATATCGCACGTAGA	metadata/barcodes_2025.txt	reaction position I16; positional map requires final-run verification
+2025_DJR_063	2025	liver	TAACTATACCGCCG	metadata/barcodes_2025.txt	reaction position I17; positional map requires final-run verification
+2025_DJR_064	2025	liver	ATTAGTTGTCCAGA	metadata/barcodes_2025.txt	reaction position I18; positional map requires final-run verification
+2025_DJR_065	2025	liver	ATAACGGACCAACG	metadata/barcodes_2025.txt	reaction position I19; positional map requires final-run verification
+2025_DJR_066	2025	liver	CCTAAGAGAAGCGG	metadata/barcodes_2025.txt	reaction position I20; positional map requires final-run verification
+2025_DJR_067	2025	liver	CAACCGTCAACCGG	metadata/barcodes_2025.txt	reaction position I21; positional map requires final-run verification
+2025_DJR_068	2025	liver	AACAACAAGCCTCA	metadata/barcodes_2025.txt	reaction position I22; positional map requires final-run verification
+2025_DJR_069	2025	liver	ACTATAGTAGCACG	metadata/barcodes_2025.txt	reaction position I23; positional map requires final-run verification
+2025_DJR_070	2025	liver	AATGAATGGTCCGC	metadata/barcodes_2025.txt	reaction position I24; positional map requires final-run verification
+2025_DJR_071	2025	liver	ACACAGACAGTGCG	metadata/barcodes_2025.txt	reaction position K13; positional map requires final-run verification
+2025_DJR_072	2025	liver	CAACACAGGAAGCC	metadata/barcodes_2025.txt	reaction position A02; positional map requires final-run verification
+2025_DJR_073	2025	liver	CTCATTGAGTCGCA	metadata/barcodes_2025.txt	reaction position A03; positional map requires final-run verification
+2025_DJR_110	2025	liver	TTCTTACGATATCC	metadata/barcodes_2025.txt	reaction position A04; positional map requires final-run verification
+2025_DJR_111	2025	liver	CCATAGCGAGTAAG	metadata/barcodes_2025.txt	reaction position A05; positional map requires final-run verification
+2025_DJR_112	2025	liver	TTCACTCGCTCGCC	metadata/barcodes_2025.txt	reaction position A06; positional map requires final-run verification
+2025_DJR_113	2025	liver	CCGCCATATTAACG	metadata/barcodes_2025.txt	reaction position A07; positional map requires final-run verification
+2025_DJR_114	2025	liver	TTAACCATAGATCC	metadata/barcodes_2025.txt	reaction position A08; positional map requires final-run verification
+2025_DJR_115	2025	liver	AATAAGCGTCCTGC	metadata/barcodes_2025.txt	reaction position A09; positional map requires final-run verification
+2025_DJR_116	2025	liver	TTAAGCAAGTGTGG	metadata/barcodes_2025.txt	reaction position A10; positional map requires final-run verification
+2025_DJR_117	2025	liver	AAGGTCATATGCGC	metadata/barcodes_2025.txt	reaction position A11; positional map requires final-run verification
+2025_DJR_118	2025	liver	CAGTGGCTCTTAAG	metadata/barcodes_2025.txt	reaction position A12; positional map requires final-run verification
+2025_DJR_119	2025	liver	ACGGTCTCCTGAGG	metadata/barcodes_2025.txt	reaction position M13; positional map requires final-run verification
+2025_DJR_120	2025	liver	AACTATTCTACCAC	metadata/barcodes_2025.txt	reaction position M14; positional map requires final-run verification
+2025_DJR_121	2025	liver	AATCACACACCGAA	metadata/barcodes_2025.txt	reaction position M15; positional map requires final-run verification
+2025_DJR_147	2025	liver	ACTGGAAGCCACAA	metadata/barcodes_2025.txt	reaction position M16; positional map requires final-run verification
+2025_DJR_148	2025	liver	ATTGCATTAACCAC	metadata/barcodes_2025.txt	reaction position M17; positional map requires final-run verification
+2025_DJR_149	2025	liver	ACTACGCTGCATAC	metadata/barcodes_2025.txt	reaction position M18; positional map requires final-run verification
+2025_DJR_150	2025	liver	ATAGGAGAACTTGG	metadata/barcodes_2025.txt	reaction position M19; positional map requires final-run verification
+2025_DJR_152	2025	liver	TTCTTGAACTCTGG	metadata/barcodes_2025.txt	reaction position M20; positional map requires final-run verification
+2025_DJR_153	2025	liver	ATTGGTAACACAAC	metadata/barcodes_2025.txt	reaction position M21; positional map requires final-run verification
+2025_DJR_154	2025	liver	CCGTGTTAACCTGC	metadata/barcodes_2025.txt	reaction position M22; positional map requires final-run verification
+2025_DJR_155	2025	liver	TCTAAGGTGGTGAC	metadata/barcodes_2025.txt	reaction position M23; positional map requires final-run verification
+2025_DJR_156	2025	liver	ACCAAGGTTAGAAC	metadata/barcodes_2025.txt	reaction position M24; positional map requires final-run verification
+2025_DJR_157	2025	liver	TTAGAATTCCGAAG	metadata/barcodes_2025.txt	reaction position O13; positional map requires final-run verification
+2025_DJR_158	2025	liver	ACGACATCGCGCAC	metadata/barcodes_2025.txt	reaction position O14; positional map requires final-run verification
+2025_DJR_159	2025	liver	CCTGAAGCAGTAAC	metadata/barcodes_2025.txt	reaction position O15; positional map requires final-run verification
+2025_DJR_160	2025	liver	AATGTCGATACGAA	metadata/barcodes_2025.txt	reaction position O16; positional map requires final-run verification
+2025_DJR_161	2025	liver	ATGAAGTAACCAAG	metadata/barcodes_2025.txt	reaction position O17; positional map requires final-run verification
+2025_DJR_162	2025	liver	CATCGCACGTATGC	metadata/barcodes_2025.txt	reaction position O18; positional map requires final-run verification
+2025_DJR_163	2025	liver	TATGGCAAGCACGG	metadata/barcodes_2025.txt	reaction position O19; positional map requires final-run verification
+2025_DJR_165	2025	liver	AACAAGACCGTTAC	metadata/barcodes_2025.txt	reaction position O20; positional map requires final-run verification
+2025_DJR_166	2025	liver	ACATCTACGTCTCG	metadata/barcodes_2025.txt	reaction position O21; positional map requires final-run verification
+2025_DJR_167	2025	liver	TATGCTCAGATGCA	metadata/barcodes_2025.txt	reaction position O22; positional map requires final-run verification
+2025_DJR_168	2025	liver	CAGATGCTGACGCG	metadata/barcodes_2025.txt	reaction position O23; positional map requires final-run verification
+2025_DJR_169	2025	liver	TTCGAAGCCTCCGG	metadata/barcodes_2025.txt	reaction position O24; positional map requires final-run verification
+2025_DJR_170	2025	liver	CAGTTGAGATAGCC	metadata/barcodes_2025.txt	reaction position B01; positional map requires final-run verification
+2025_DJR_171	2025	liver	ACACTACTCGTGCA	metadata/barcodes_2025.txt	reaction position B02; positional map requires final-run verification
+2025_DJR_172	2025	liver	AACCAGAGAATGGC	metadata/barcodes_2025.txt	reaction position B03; positional map requires final-run verification
+2025_DJR_173	2025	liver	TCAGTGCGATCGCA	metadata/barcodes_2025.txt	reaction position B04; positional map requires final-run verification
+2025_DJR_174	2025	liver	AAGCATTCTGGCCG	metadata/barcodes_2025.txt	reaction position B05; positional map requires final-run verification
+2025_DJR_175	2025	liver	TACTAGACTACTCG	metadata/barcodes_2025.txt	reaction position B06; positional map requires final-run verification
+2025_DJR_176	2025	liver	CCAAGCAACAATCC	metadata/barcodes_2025.txt	reaction position B07; positional map requires final-run verification
+2025_DJR_178	2025	liver	CATAGCTGCGCTGC	metadata/barcodes_2025.txt	reaction position B08; positional map requires final-run verification
+2025_DJR_179	2025	liver	AATGGTATCTGCCG	metadata/barcodes_2025.txt	reaction position B09; positional map requires final-run verification
+2025_DJR_180	2025	liver	ATGAGGTTACTTCA	metadata/barcodes_2025.txt	reaction position B10; positional map requires final-run verification
+2025_DJR_181	2025	liver	AATTAATCACGTGC	metadata/barcodes_2025.txt	reaction position B11; positional map requires final-run verification
+2025_DJR_182	2025	liver	ACATCTCTACTGCG	metadata/barcodes_2025.txt	reaction position B12; positional map requires final-run verification
+2025_DJR_183	2025	liver	TTACCACAACCTAG	metadata/barcodes_2025.txt	reaction position D01; positional map requires final-run verification
+2025_DJR_184	2025	liver	ACCGGCCAATAACA	metadata/barcodes_2025.txt	reaction position D02; positional map requires final-run verification
+2025_DJR_185	2025	liver	CTCCACAAGAATGG	metadata/barcodes_2025.txt	reaction position D03; positional map requires final-run verification
+2025_DJR_186	2025	liver	CCAAGCGCCTAAGG	metadata/barcodes_2025.txt	reaction position D04; positional map requires final-run verification
+2025_DJR_187	2025	liver	TCGATATCACAAGC	metadata/barcodes_2025.txt	reaction position D05; positional map requires final-run verification
+2025_DJR_188	2025	liver	TCATGATAGCAGAG	metadata/barcodes_2025.txt	reaction position D06; positional map requires final-run verification
+2025_DJR_189	2025	liver	ACTGCACTTCCGAA	metadata/barcodes_2025.txt	reaction position D07; positional map requires final-run verification
+2025_DJR_190	2025	liver	CACTGCCGGTCAAC	metadata/barcodes_2025.txt	reaction position D08; positional map requires final-run verification
+2025_DJR_191	2025	liver	ATTCGCATTCCTAG	metadata/barcodes_2025.txt	reaction position D09; positional map requires final-run verification
+2025_DJR_192	2025	liver	CAATCTTGGCTTCA	metadata/barcodes_2025.txt	reaction position D10; positional map requires final-run verification
+2025_DJR_194	2025	liver	AACCAACTTGTTCC	metadata/barcodes_2025.txt	reaction position D11; positional map requires final-run verification
+2025_DJR_245	2025	liver	TAATGTGCAATTGC	metadata/barcodes_2025.txt	reaction position D12; positional map requires final-run verification
+2025_DJR_246	2025	liver	AAGGCGCTTCAACG	metadata/barcodes_2025.txt	reaction position F01; positional map requires final-run verification
+2025_DJR_247	2025	liver	AACAAGGTGTCCAA	metadata/barcodes_2025.txt	reaction position F02; positional map requires final-run verification
+2025_DJR_248	2025	liver	ACACGACAGCTCAC	metadata/barcodes_2025.txt	reaction position F03; positional map requires final-run verification
+2025_DJR_249	2025	liver	ACTAGACGCACACA	metadata/barcodes_2025.txt	reaction position F04; positional map requires final-run verification
+2025_DJR_251	2025	liver	CTGTAGGATAGGCC	metadata/barcodes_2025.txt	reaction position F05; positional map requires final-run verification
+2025_DJR_252	2025	liver	AAGTGAATACCAAC	metadata/barcodes_2025.txt	reaction position F06; positional map requires final-run verification
+2025_DJR_253	2025	liver	ATGTTAACTTCCGC	metadata/barcodes_2025.txt	reaction position F07; positional map requires final-run verification
+2025_DJR_254	2025	liver	CAGGCCATTAATCC	metadata/barcodes_2025.txt	reaction position F08; positional map requires final-run verification
+2025_DJR_255	2025	liver	ACGGCTTGGTTAAG	metadata/barcodes_2025.txt	reaction position F09; positional map requires final-run verification
+2025_DJR_256	2025	liver	TATGCAGTGCTACG	metadata/barcodes_2025.txt	reaction position F10; positional map requires final-run verification
+2025_DJR_257	2025	liver	ACGCATGTACAGAC	metadata/barcodes_2025.txt	reaction position F11; positional map requires final-run verification
+2025_DJR_258	2025	liver	CCTACATAAGCGAA	metadata/barcodes_2025.txt	reaction position F12; positional map requires final-run verification
+2025_DJR_260	2025	liver	TCAGCAGATACGCG	metadata/barcodes_2025.txt	reaction position H01; positional map requires final-run verification
+2025_DJR_261	2025	liver	CACAGCAGATACGA	metadata/barcodes_2025.txt	reaction position H02; positional map requires final-run verification
+2025_DJR_262	2025	liver	TAATGGCGGAATAG	metadata/barcodes_2025.txt	reaction position H03; positional map requires final-run verification
+2025_DJR_263	2025	liver	TAGACGACATATAC	metadata/barcodes_2025.txt	reaction position H04; positional map requires final-run verification
+2025_DJR_264	2025	liver	ACGATGCTCATCAC	metadata/barcodes_2025.txt	reaction position H05; positional map requires final-run verification
+2025_DJR_265	2025	liver	CCAACCATTCACCG	metadata/barcodes_2025.txt	reaction position H06; positional map requires final-run verification
+2025_DJR_266	2025	liver	TTCACGGCCTTGGA	metadata/barcodes_2025.txt	reaction position H07; positional map requires final-run verification
+2025_DJR_267	2025	liver	AACTTGGCCACAGG	metadata/barcodes_2025.txt	reaction position H08; positional map requires final-run verification
+2025_DJR_268	2025	liver	ATCGTTGAGGTTCC	metadata/barcodes_2025.txt	reaction position H09; positional map requires final-run verification
+2025_DJR_269	2025	liver	TTACCACTCTTGGC	metadata/barcodes_2025.txt	reaction position H10; positional map requires final-run verification
+2025_DJR_270	2025	liver	ATAGGAATTCTGCA	metadata/barcodes_2025.txt	reaction position H11; positional map requires final-run verification
+2025_DJR_271	2025	liver	ACACACACGAGTAG	metadata/barcodes_2025.txt	reaction position H12; positional map requires final-run verification
+2025_DJR_274	2025	liver	CATTAATCCTCCAG	metadata/barcodes_2025.txt	reaction position J01; positional map requires final-run verification
+2025_DJR_276	2025	liver	ACTGACTGAGCTCA	metadata/barcodes_2025.txt	reaction position J02; positional map requires final-run verification
+2025_DJR_277	2025	liver	ACCATGGAGGATGG	metadata/barcodes_2025.txt	reaction position J03; positional map requires final-run verification
+2025_DJR_280	2025	liver	ACAGACTGCTGTAC	metadata/barcodes_2025.txt	reaction position J04; positional map requires final-run verification
+2025_DJR_281	2025	liver	CCGATAGACAATAA	metadata/barcodes_2025.txt	reaction position J05; positional map requires final-run verification
+2025_DJR_283	2025	liver	ATAATGAATTGGCC	metadata/barcodes_2025.txt	reaction position J06; positional map requires final-run verification
+2025_DJR_286	2025	liver	AAGATTGCAACGCC	metadata/barcodes_2025.txt	reaction position J07; positional map requires final-run verification
+2025_DJR_287	2025	liver	CTCCAACCGCCACA	metadata/barcodes_2025.txt	reaction position J08; positional map requires final-run verification
+2025_DJR_288	2025	liver	AACAACCGCTAACC	metadata/barcodes_2025.txt	reaction position J09; positional map requires final-run verification
+2025_DJR_289	2025	liver	CTTGCGAGGCAGCA	metadata/barcodes_2025.txt	reaction position J10; positional map requires final-run verification
+2025_DJR_290	2025	liver	ACTCATGATGCTGA	metadata/barcodes_2025.txt	reaction position J11; positional map requires final-run verification
+2025_DJR_291	2025	liver	CAACTCGGCCTCCA	metadata/barcodes_2025.txt	reaction position J12; positional map requires final-run verification
+2025_DJR_292	2025	liver	TATGTGACTGTACG	metadata/barcodes_2025.txt	reaction position L01; positional map requires final-run verification
+2025_DJR_293	2025	liver	TTAAGGTCTTCTAG	metadata/barcodes_2025.txt	reaction position C02; positional map requires final-run verification
+2025_DJR_296	2025	liver	TACATACTGCACAC	metadata/barcodes_2025.txt	reaction position C03; positional map requires final-run verification
+2025_DJR_297	2025	liver	ATGCGTAGCTCACG	metadata/barcodes_2025.txt	reaction position C04; positional map requires final-run verification
+2025_DJR_298	2025	liver	AAGCCGTGATTCCG	metadata/barcodes_2025.txt	reaction position C05; positional map requires final-run verification
+2025_DJR_299	2025	liver	AACGGTACTGAAGA	metadata/barcodes_2025.txt	reaction position C06; positional map requires final-run verification
+2025_DJR_300	2025	liver	TTGCATTGTGCGAA	metadata/barcodes_2025.txt	reaction position C07; positional map requires final-run verification
+2025_DJR_301	2025	liver	TACGTAGCATATAG	metadata/barcodes_2025.txt	reaction position C08; positional map requires final-run verification
+2025_DJR_310	2025	liver	TCCTAGCGCCGCAA	metadata/barcodes_2025.txt	reaction position C09; positional map requires final-run verification
+2025_DJR_311	2025	liver	AATAGTCTCTTGGC	metadata/barcodes_2025.txt	reaction position C10; positional map requires final-run verification
+2025_DJR_312	2025	liver	ACAACAATGGAAGG	metadata/barcodes_2025.txt	reaction position C11; positional map requires final-run verification
+2025_DJR_313	2025	liver	ACGCGCTATCATCA	metadata/barcodes_2025.txt	reaction position C12; positional map requires final-run verification
+2025_DJR_314	2025	liver	ATCGTGATCACGAG	metadata/barcodes_2025.txt	reaction position N01; positional map requires final-run verification
+2025_DJR_315	2025	liver	AACCATTGCCGAGG	metadata/barcodes_2025.txt	reaction position N02; positional map requires final-run verification
+2025_DJR_316	2025	liver	ATATCTGTGATGAC	metadata/barcodes_2025.txt	reaction position N03; positional map requires final-run verification
+2025_DJR_317	2025	liver	AACTCATGACCTAG	metadata/barcodes_2025.txt	reaction position N04; positional map requires final-run verification
+2025_DJR_318	2025	liver	CAAGAGAATCCAAC	metadata/barcodes_2025.txt	reaction position N05; positional map requires final-run verification
+2025_DJR_319	2025	liver	ATAGAGTCGACGAC	metadata/barcodes_2025.txt	reaction position N06; positional map requires final-run verification
+2025_DJR_320	2025	liver	TAGAGCATGTCACG	metadata/barcodes_2025.txt	reaction position N07; positional map requires final-run verification
+2025_DJR_321	2025	liver	ACACACTGACTCAG	metadata/barcodes_2025.txt	reaction position N08; positional map requires final-run verification
+2025_DJR_322	2025	liver	AACAACCTTCCAAG	metadata/barcodes_2025.txt	reaction position N09; positional map requires final-run verification
+2025_DJR_323	2025	liver	CAACACAACGGCGG	metadata/barcodes_2025.txt	reaction position N10; positional map requires final-run verification
+2025_DJR_324	2025	liver	CACGACACTATCGA	metadata/barcodes_2025.txt	reaction position N11; positional map requires final-run verification
+2025_DJR_325	2025	liver	CACGTCATAGCTGA	metadata/barcodes_2025.txt	reaction position N12; positional map requires final-run verification
+2025_DJR_326	2025	liver	TTACATCTAGTCCA	metadata/barcodes_2025.txt	reaction position P01; positional map requires final-run verification
+2025_DJR_327	2025	liver	AAGGTCCGCACCGA	metadata/barcodes_2025.txt	reaction position P02; positional map requires final-run verification
+2025_DJR_328	2025	liver	TTCACCAATGGAGA	metadata/barcodes_2025.txt	reaction position P03; positional map requires final-run verification
+2025_DJR_329	2025	liver	ATGAGTCGTCACAG	metadata/barcodes_2025.txt	reaction position P04; positional map requires final-run verification
+2025_DJR_373	2025	liver	TACGACATCTGTAG	metadata/barcodes_2025.txt	reaction position P05; positional map requires final-run verification
+2025_DJR_374	2025	liver	ATGCGGATCTTGGA	metadata/barcodes_2025.txt	reaction position P06; positional map requires final-run verification
+2025_DJR_376	2025	liver	CAACCTCATCCGCG	metadata/barcodes_2025.txt	reaction position P07; positional map requires final-run verification
+2025_DJR_377	2025	liver	TTGGTGGCCTGTGC	metadata/barcodes_2025.txt	reaction position P08; positional map requires final-run verification
+2025_DJR_378	2025	liver	ATTAATCCTCGGAA	metadata/barcodes_2025.txt	reaction position P09; positional map requires final-run verification
+2025_DJR_379	2025	liver	CTCTACATCATCAG	metadata/barcodes_2025.txt	reaction position P10; positional map requires final-run verification
+2025_DJR_380	2025	liver	ACATAGTCATCTGA	metadata/barcodes_2025.txt	reaction position P11; positional map requires final-run verification
+2025_DJR_381	2025	liver	ATCTGGAAGCAACC	metadata/barcodes_2025.txt	reaction position P12; positional map requires final-run verification
+2025_DJR_382	2025	liver	AACAACGCCGGCCA	metadata/barcodes_2025.txt	reaction position B13; positional map requires final-run verification
+2025_DJR_383	2025	liver	ATTAACGTACGGCC	metadata/barcodes_2025.txt	reaction position B14; positional map requires final-run verification
+2025_DJR_384	2025	liver	ACAGCAGTATAGCA	metadata/barcodes_2025.txt	reaction position B15; positional map requires final-run verification
+2025_DJR_385	2025	liver	ATGCGTGCATGTAC	metadata/barcodes_2025.txt	reaction position B16; positional map requires final-run verification
+2025_DJR_386	2025	liver	TAGCTGAGCTGCAG	metadata/barcodes_2025.txt	reaction position B17; positional map requires final-run verification
+2025_DJR_387	2025	liver	CCTAGGATCTGGAG	metadata/barcodes_2025.txt	reaction position B18; positional map requires final-run verification
+2025_DJR_388	2025	liver	CATAGCTTACGAAC	metadata/barcodes_2025.txt	reaction position B19; positional map requires final-run verification
+2025_DJR_389	2025	liver	CTAGTAGCGTATCA	metadata/barcodes_2025.txt	reaction position B20; positional map requires final-run verification
+2025_DJR_390	2025	liver	ACACTCTGTAGAGC	metadata/barcodes_2025.txt	reaction position B21; positional map requires final-run verification
+2025_DJR_391	2025	liver	ATGATGTGTAGTAC	metadata/barcodes_2025.txt	reaction position B22; positional map requires final-run verification
+2025_DJR_392	2025	liver	AAGGAGGTTCTTAC	metadata/barcodes_2025.txt	reaction position B23; positional map requires final-run verification
+2025_DJR_393	2025	liver	ACAGTACTCTGCAG	metadata/barcodes_2025.txt	reaction position B24; positional map requires final-run verification
+2025_DJR_394	2025	liver	TTATGTCCACCACC	metadata/barcodes_2025.txt	reaction position D13; positional map requires final-run verification
+2025_DJR_396	2025	liver	TAGATCAAGCGGCC	metadata/barcodes_2025.txt	reaction position D14; positional map requires final-run verification
+2025_DJR_397	2025	liver	CCAATGTGCACGCC	metadata/barcodes_2025.txt	reaction position D15; positional map requires final-run verification
+2025_DJR_398	2025	liver	CCATGTGTCCAGCC	metadata/barcodes_2025.txt	reaction position D16; positional map requires final-run verification
+2025_DJR_399	2025	liver	CCTCGAGGTAGGAA	metadata/barcodes_2025.txt	reaction position D17; positional map requires final-run verification
+2025_DJR_400	2025	liver	AAGGAAGTGCGCCA	metadata/barcodes_2025.txt	reaction position D18; positional map requires final-run verification
+2025_DJR_402	2025	liver	TCTCTCGATCTGCA	metadata/barcodes_2025.txt	reaction position D19; positional map requires final-run verification
+2025_DJR_404	2025	liver	TCGTACAGTATCAC	metadata/barcodes_2025.txt	reaction position D20; positional map requires final-run verification
+2025_DJR_405	2025	liver	AACTCGCGTTGAAG	metadata/barcodes_2025.txt	reaction position D21; positional map requires final-run verification
+2025_DJR_406	2025	liver	CAGTATCTAGTAGA	metadata/barcodes_2025.txt	reaction position D22; positional map requires final-run verification
+2025_DJR_407	2025	liver	ACCGCAACTAGCCA	metadata/barcodes_2025.txt	reaction position D23; positional map requires final-run verification
+2025_DJR_408	2025	liver	AATAATGCGCTAAG	metadata/barcodes_2025.txt	reaction position D24; positional map requires final-run verification
+2025_DJR_409	2025	liver	CAACCACTGAACCA	metadata/barcodes_2025.txt	reaction position F13; positional map requires final-run verification
+2025_DJR_410	2025	liver	AATGCCTTGTAAGG	metadata/barcodes_2025.txt	reaction position F14; positional map requires final-run verification
+2025_DJR_411	2025	liver	CCAATAACAAGAGA	metadata/barcodes_2025.txt	reaction position F15; positional map requires final-run verification
+2025_DJR_412	2025	liver	ACGGTTCAACATAA	metadata/barcodes_2025.txt	reaction position F16; positional map requires final-run verification
+2025_DJR_413	2025	liver	AATCCTGGTACACG	metadata/barcodes_2025.txt	reaction position F17; positional map requires final-run verification
+2025_DJR_414	2025	liver	AAGCCGCACACAAG	metadata/barcodes_2025.txt	reaction position F18; positional map requires final-run verification
+2025_DJR_415	2025	liver	TATACTAGCTGACA	metadata/barcodes_2025.txt	reaction position F19; positional map requires final-run verification
+2025_DJR_416	2025	liver	ACAATTGAAGTGGA	metadata/barcodes_2025.txt	reaction position F20; positional map requires final-run verification
+2025_DJR_417	2025	liver	ATGAGGCGATCGAA	metadata/barcodes_2025.txt	reaction position F21; positional map requires final-run verification
+2025_DJR_418	2025	liver	CTAGATCTGTAGCG	metadata/barcodes_2025.txt	reaction position F22; positional map requires final-run verification
+2025_DJR_419	2025	liver	ATTAATGGCCTTCA	metadata/barcodes_2025.txt	reaction position F23; positional map requires final-run verification
+2025_DJR_420	2025	liver	ACGACAGCTACAGA	metadata/barcodes_2025.txt	reaction position F24; positional map requires final-run verification
+2025_DJR_421	2025	liver	AACAACTCGCACGG	metadata/barcodes_2025.txt	reaction position H13; positional map requires final-run verification
+2025_DJR_422	2025	liver	TCCACACGATTCGG	metadata/barcodes_2025.txt	reaction position H14; positional map requires final-run verification
+2025_DJR_423	2025	liver	ACTGAGTCTAGAGA	metadata/barcodes_2025.txt	reaction position H15; positional map requires final-run verification
+2025_DJR_424	2025	liver	TCTCGAGCTATACG	metadata/barcodes_2025.txt	reaction position H16; positional map requires final-run verification
+2025_DJR_425	2025	liver	CCTTATTGCGTTCC	metadata/barcodes_2025.txt	reaction position H17; positional map requires final-run verification
+2025_DJR_427	2025	liver	TACTACTCAGCAGA	metadata/barcodes_2025.txt	reaction position H18; positional map requires final-run verification
+2025_DJR_428	2025	liver	ATCCTCTAATAAGC	metadata/barcodes_2025.txt	reaction position H19; positional map requires final-run verification
+2025_DJR_431	2025	liver	AAGTAACTCGGCGC	metadata/barcodes_2025.txt	reaction position H20; positional map requires final-run verification
+2025_DJR_457	2025	liver	CAATAGATAAGGAG	metadata/barcodes_2025.txt	reaction position H21; positional map requires final-run verification
+2025_DJR_458	2025	liver	CCACCTTGATTGGC	metadata/barcodes_2025.txt	reaction position H22; positional map requires final-run verification
+2025_DJR_459	2025	liver	TAACAAGAAGGAGA	metadata/barcodes_2025.txt	reaction position H23; positional map requires final-run verification
+2025_DJR_461	2025	liver	CTATGTCGCTCAGA	metadata/barcodes_2025.txt	reaction position H24; positional map requires final-run verification
+2025_DJR_462	2025	liver	ATACGGAAGCCGAA	metadata/barcodes_2025.txt	reaction position J13; positional map requires final-run verification
+2025_DJR_463	2025	liver	ATAAGCCAAGGTAC	metadata/barcodes_2025.txt	reaction position J14; positional map requires final-run verification
+2025_DJR_464	2025	liver	CAGTCTTCCTAACC	metadata/barcodes_2025.txt	reaction position J15; positional map requires final-run verification
+2025_DJR_465	2025	liver	CCGCCAAGCTCCAA	metadata/barcodes_2025.txt	reaction position J16; positional map requires final-run verification
+2025_DJR_466	2025	liver	ATCACAGCGTCTAG	metadata/barcodes_2025.txt	reaction position J17; positional map requires final-run verification
+2025_DJR_467	2025	liver	TTGAATCAAGGCAG	metadata/barcodes_2025.txt	reaction position J18; positional map requires final-run verification
+2025_DJR_468	2025	liver	TTACAAGTGCTGAA	metadata/barcodes_2025.txt	reaction position J19; positional map requires final-run verification
+2025_DJR_469	2025	liver	CTGGATATCCACAA	metadata/barcodes_2025.txt	reaction position J20; positional map requires final-run verification
+2025_DJR_470	2025	liver	CCGTCTAAGAACCA	metadata/barcodes_2025.txt	reaction position J21; positional map requires final-run verification
+2025_DJR_471	2025	liver	CCTCAGATACAAGA	metadata/barcodes_2025.txt	reaction position J22; positional map requires final-run verification
+2025_DJR_472	2025	liver	AACCGGCTTCGCCA	metadata/barcodes_2025.txt	reaction position J23; positional map requires final-run verification
+2025_DJR_473	2025	liver	CAAGAAGTTAAGAC	metadata/barcodes_2025.txt	reaction position J24; positional map requires final-run verification
+2025_DJR_475	2025	liver	CTATCGTGCTAGCG	metadata/barcodes_2025.txt	reaction position L13; positional map requires final-run verification
+2025_DJR_476	2025	liver	CTCGAACACCGTGG	metadata/barcodes_2025.txt	reaction position L14; positional map requires final-run verification
+2025_DJR_478	2025	liver	TTAGGTGTCTAGAA	metadata/barcodes_2025.txt	reaction position L15; positional map requires final-run verification
+2025_DJR_479	2025	liver	ACCGAACGGTTGCA	metadata/barcodes_2025.txt	reaction position L16; positional map requires final-run verification
+2025_DJR_481	2025	liver	CACGTGACGCACAG	metadata/barcodes_2025.txt	reaction position L17; positional map requires final-run verification
+2025_DJR_482	2025	liver	AACCAACGGCCGAC	metadata/barcodes_2025.txt	reaction position L18; positional map requires final-run verification
+2025_DJR_483	2025	liver	TCCATGACCAGCGC	metadata/barcodes_2025.txt	reaction position L19; positional map requires final-run verification
+2025_DJR_484	2025	liver	CATTGGAACACACG	metadata/barcodes_2025.txt	reaction position L20; positional map requires final-run verification
+2025_DJR_485	2025	liver	ACACACGAGCAGCG	metadata/barcodes_2025.txt	reaction position L21; positional map requires final-run verification
+2025_DJR_486	2025	liver	CTCGTAATCGGCCG	metadata/barcodes_2025.txt	reaction position L22; positional map requires final-run verification
+2025_DJR_487	2025	liver	TACGTCACACCACC	metadata/barcodes_2025.txt	reaction position L23; positional map requires final-run verification
+2025_DJR_488	2025	liver	CCTATTCACATAGG	metadata/barcodes_2025.txt	reaction position L24; positional map requires final-run verification
