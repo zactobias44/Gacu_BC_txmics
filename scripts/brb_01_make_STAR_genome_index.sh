@@ -2,6 +2,7 @@
 #SBATCH --job-name=brb_star_index
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=1
+#SBATCH --mem=50G
 #SBATCH --time=23:59:00
 set -euo pipefail
 if [[ -n "${SLURM_SUBMIT_DIR:-}" && -f "$SLURM_SUBMIT_DIR/config/brb_pipeline_config.sh" ]]; then
@@ -17,4 +18,4 @@ require_brb_file "$GENOME_FASTA"; require_brb_file "$GENOME_GTF"
 mkdir -p "$STAR_INDEX"
 "$STAR" --runThreadN "$BRB_CPUS_INDEX" --runMode genomeGenerate \
     --genomeDir "$STAR_INDEX" --genomeFastaFiles "$GENOME_FASTA" \
-    --sjdbGTFfile "$GENOME_GTF"
+    --sjdbGTFfile "$GENOME_GTF" --genomeSAindexNbases 13

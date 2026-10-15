@@ -3,6 +3,7 @@
 #SBATCH --array=1-4
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=16
+#SBATCH --mem=80G
 #SBATCH --time=2-00:00:00
 #SBATCH --qos=unlim
 set -euo pipefail

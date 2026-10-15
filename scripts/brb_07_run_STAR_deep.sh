@@ -2,7 +2,8 @@
 #SBATCH --job-name=brb_star_deep
 #SBATCH --array=1-4
 #SBATCH --ntasks=1
-#SBATCH --cpus-per-task=40
+#SBATCH --cpus-per-task=36
+#SBATCH --mem=180G
 #SBATCH --time=4-00:00:00
 #SBATCH --qos=unlim
 set -euo pipefail
@@ -27,5 +28,5 @@ concat_manifest_paths "$r1s" "$work/R1.fastq.gz"; concat_manifest_paths "$r2s" "
     --soloUMIdedup NoDedup 1MM_Directional --soloCellFilter None --soloCBwhitelist "$wl" \
     --soloBarcodeReadLength 1 --soloFeatures Gene --outSAMattributes NH HI nM AS CR UR CB UB GX GN sS sQ sM \
     --outFilterMultimapNmax 1 --readFilesCommand zcat --outSAMtype BAM SortedByCoordinate \
-    --outFileNamePrefix "$STAR_OUTPUT_ROOT/${prefix}_deep_" --limitBAMsortRAM 500000000000 \
+    --outFileNamePrefix "$STAR_OUTPUT_ROOT/${prefix}_deep_" --limitBAMsortRAM 160000000000 \
     --readFilesIn "$work/R2.fastq.gz" "$work/R1.fastq.gz"
