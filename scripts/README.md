@@ -12,7 +12,7 @@ deduplicated STARsolo matrices. FastReadCounter remains the legacy
 non-UMI-deduplicated cross-check.
 
 Poseidon is configured as the default in `config/brb_pipeline_config.sh`,
-including the established Expanse reads, VortexFS scratch, sibling genome, and
+including repository-local reads, VortexFS scratch, sibling genome, and
 software locations. Thus the normal Poseidon invocation is simply
 `bash scripts/brb_00_validate_inputs.sh` followed by `bash scripts/brb_submit.sh`.
 To move to Hydra, change `GACU_SITE` in the config and edit the Hydra defaults

@@ -11,7 +11,7 @@ externally supplied WGS genotypes for admixture and relatedness.
 ## Environment and paths
 
 - Poseidon is the configured default site.
-- Poseidon reads: `/expanse/lustre/projects/csd932/ztobias/BRBseq/reads`.
+- Poseidon/Hydra reads: repository-local `reads/`.
 - Poseidon scratch: `/vortexfs1/scratch/ztobias/Gaculeatus/Gacu_BC_txmics`.
 - Hydra is supported through the site defaults in `config/brb_pipeline_config.sh`.
 - Reference inputs belong in `genome/`; STAR indices are generated there and are not tracked.

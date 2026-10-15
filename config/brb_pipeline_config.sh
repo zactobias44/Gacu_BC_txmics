@@ -21,7 +21,7 @@ case "$GACU_SITE" in
         DEFAULT_MODULES="${GACU_HYDRA_MODULES:-}"
         ;;
     poseidon)
-        DEFAULT_READS_ROOT="${GACU_POSEIDON_READS_ROOT:-/expanse/lustre/projects/csd932/ztobias/BRBseq/reads}"
+        DEFAULT_READS_ROOT="${GACU_POSEIDON_READS_ROOT:-$BRB_REPO_ROOT/reads}"
         DEFAULT_SCRATCH_ROOT="${GACU_POSEIDON_SCRATCH_ROOT:-/vortexfs1/scratch/ztobias/Gaculeatus/Gacu_BC_txmics}"
         DEFAULT_MODULES="${GACU_POSEIDON_MODULES:-bio htslib bcftools samtools jdk/16.0.1}"
         ;;
