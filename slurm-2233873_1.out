@@ -1,0 +1,10 @@
+	/user/ztobias/2024_Gacu_BRBseq/software/STAR-2.7.11b/source/STAR --runMode alignReads --runThreadN 24 --outSAMmapqUnique 60 --outSAMunmapped Within --soloStrand Forward --quantMode GeneCounts --outBAMsortingThreadN 24 --genomeDir /scratch/ztobias/Gacu_BC_txmics/genome/4STAR_one_feature --soloType CB_UMI_Simple --soloCBstart 1 --soloCBlen 14 --soloUMIstart 15 --soloUMIlen 14 --soloUMIdedup NoDedup 1MM_Directional --soloCellFilter None --soloCBwhitelist /scratch/ztobias/Gacu_BC_txmics/metadata/barcodes_2024.txt --soloBarcodeReadLength 1 --soloFeatures Gene --outSAMattributes NH HI nM AS CR UR CB UB GX GN sS sQ sM --outFilterMultimapNmax 1 --readFilesCommand zcat --outSAMtype BAM SortedByCoordinate --outFileNamePrefix /vortexfs1/scratch/ztobias/Gaculeatus/Gacu_BC_txmics/brbseq/star/gill_2024_deep_1f_ --limitBAMsortRAM 160000000000 --readFilesIn /vortexfs1/scratch/ztobias/Gaculeatus/Gacu_BC_txmics/star/gill_2024_deep_1f/R2.fastq.gz /vortexfs1/scratch/ztobias/Gaculeatus/Gacu_BC_txmics/star/gill_2024_deep_1f/R1.fastq.gz
+	STAR version: 2.7.11b   compiled: 2024-10-08T15:18:16-0400 poseidon-l2:/vortexfs1/home/ztobias/STAR-2.7.11b/source
+Oct 15 20:10:45 ..... started STAR run
+Oct 15 20:10:45 ..... loading genome
+Oct 15 20:10:52 ..... started mapping
+Oct 15 22:10:15 ..... finished mapping
+Oct 15 22:10:16 ..... started Solo counting
+Oct 16 10:45:14 ..... finished Solo counting
+Oct 16 10:45:14 ..... started sorting BAM
+Oct 16 11:36:46 ..... finished successfully
