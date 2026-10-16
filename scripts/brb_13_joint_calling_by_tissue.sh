@@ -8,6 +8,7 @@
 #SBATCH --mem=180G
 #SBATCH --time=2-00:00:00
 #SBATCH --qos=unlim
+#SBATCH --output=../logs/brb_joint_tissue_%A_%a.out
 set -euo pipefail
 if [[ -n "${SLURM_SUBMIT_DIR:-}" && -f "$SLURM_SUBMIT_DIR/config/brb_pipeline_config.sh" ]]; then
     SCRIPT_DIR="$SLURM_SUBMIT_DIR/scripts"

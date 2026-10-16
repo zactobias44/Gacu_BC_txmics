@@ -6,6 +6,7 @@
 #SBATCH --mem=180G
 #SBATCH --time=4-00:00:00
 #SBATCH --qos=unlim
+#SBATCH --output=../logs/brb_star_deep_%A_%a.out
 set -euo pipefail
 if [[ -n "${SLURM_SUBMIT_DIR:-}" && -f "$SLURM_SUBMIT_DIR/config/brb_pipeline_config.sh" ]]; then
     SCRIPT_DIR="$SLURM_SUBMIT_DIR/scripts"
@@ -26,7 +27,7 @@ concat_manifest_paths "$r1s" "$work/R1.fastq.gz"; concat_manifest_paths "$r2s" "
     --outBAMsortingThreadN "$BRB_CPUS_DEEP" --genomeDir "$STAR_INDEX" \
     --soloType CB_UMI_Simple --soloCBstart 1 --soloCBlen 14 --soloUMIstart 15 --soloUMIlen 14 \
     --soloUMIdedup NoDedup 1MM_Directional --soloCellFilter None --soloCBwhitelist "$wl" \
-    --soloBarcodeReadLength 1 --soloFeatures Gene --outSAMattributes NH HI nM AS CR UR CB UB GX GN sS sQ sM \
+    --soloBarcodeReadLength 0 --soloFeatures Gene --outSAMattributes NH HI nM AS CR UR CB UB GX GN sS sQ sM \
     --outFilterMultimapNmax 1 --readFilesCommand zcat --outSAMtype BAM SortedByCoordinate \
     --outFileNamePrefix "$STAR_OUTPUT_ROOT/${prefix}_deep_" --limitBAMsortRAM 160000000000 \
     --readFilesIn "$work/R2.fastq.gz" "$work/R1.fastq.gz"

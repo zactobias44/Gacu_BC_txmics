@@ -6,6 +6,7 @@
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=40G
 #SBATCH --time=12:00:00
+#SBATCH --output=../logs/brb_split_bams_%A_%a.out
 set -euo pipefail
 if [[ -n "${SLURM_SUBMIT_DIR:-}" && -f "$SLURM_SUBMIT_DIR/config/brb_pipeline_config.sh" ]]; then
     SCRIPT_DIR="$SLURM_SUBMIT_DIR/scripts"
