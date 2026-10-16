@@ -22,7 +22,7 @@ case "$GACU_SITE" in
         ;;
     poseidon)
         DEFAULT_READS_ROOT="${GACU_POSEIDON_READS_ROOT:-$BRB_REPO_ROOT/reads}"
-        DEFAULT_SCRATCH_ROOT="${GACU_POSEIDON_SCRATCH_ROOT:-/vortexfs1/scratch/ztobias/Gaculeatus/Gacu_BC_txmics}"
+        DEFAULT_SCRATCH_ROOT="${GACU_POSEIDON_SCRATCH_ROOT:-$BRB_REPO_ROOT/work}"
         DEFAULT_MODULES="${GACU_POSEIDON_MODULES:-bio htslib bcftools samtools jdk/16.0.1}"
         ;;
     local)

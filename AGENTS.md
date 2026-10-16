@@ -12,7 +12,7 @@ externally supplied WGS genotypes for admixture and relatedness.
 
 - Poseidon is the configured default site.
 - Poseidon/Hydra reads: repository-local `reads/`.
-- Poseidon scratch: `/vortexfs1/scratch/ztobias/Gaculeatus/Gacu_BC_txmics`.
+- Pipeline scratch and generated outputs: repository-local `work/`.
 - Hydra is supported through the site defaults in `config/brb_pipeline_config.sh`.
 - Reference inputs belong in `genome/`; STAR indices are generated there and are not tracked.
 

@@ -3,7 +3,7 @@ set -euo pipefail
 repo_root="$(git rev-parse --show-toplevel 2>/dev/null || pwd)"
 out_dir="$repo_root/.codex_manifest"
 out_file="$out_dir/repo_manifest.tsv"
-scratch_root="/vortexfs1/scratch/ztobias/Gaculeatus/Gacu_BC_txmics"
+scratch_root="$repo_root/work"
 mkdir -p "$out_dir"
 
 if find "$repo_root" -maxdepth 0 -printf '' >/dev/null 2>&1; then
