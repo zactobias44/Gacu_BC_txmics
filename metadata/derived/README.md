@@ -6,7 +6,7 @@ BRBseq/mRNAseq metadata. It is deliberately a tracking table, not a final
 analysis filter.
 
 `sample_tracking_notes.tsv` records known identity problems, historical
-exclusions, admixture flags, library redo/re-extraction flags, and sample-level
+exclusions, ancestry flags, library redo/re-extraction flags, and sample-level
 notes that should be checked before final manifests are generated.
 
 Important conventions:

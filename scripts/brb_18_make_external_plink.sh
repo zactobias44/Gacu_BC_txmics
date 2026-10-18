@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Convert a user-supplied, already-harmonized VCF into the PLINK prefix used
-# by the admixture and relatedness runners. Sample renaming is intentionally
+# for downstream relatedness. Sample renaming is intentionally
 # outside this generic step.
 set -euo pipefail
 if [[ -n "${SLURM_SUBMIT_DIR:-}" && -f "$SLURM_SUBMIT_DIR/config/brb_pipeline_config.sh" ]]; then

@@ -20,8 +20,8 @@ there. No partition is hard-coded; pass site-specific `sbatch` options when
 submitting.
 
 Run `brb_00_validate_inputs.sh`, then submit individual stages or use
-`brb_submit.sh`. The WGS/admixture/relatedness scripts intentionally accept
+`brb_submit.sh`. The WGS/relatedness scripts intentionally accept
 external inputs rather than assuming a repository. Set `GACU_WGS_VCF` first;
 after the sample naming scheme is finalized, provide sample maps and use the
-harmonized PLINK prefixes through `GACU_ADMIXTURE_BED_PREFIX` and
+harmonized PLINK prefixes through `GACU_RELATEDNESS_BED_PREFIX` and
 `GACU_RELATEDNESS_BED_PREFIX`.

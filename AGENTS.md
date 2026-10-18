@@ -6,7 +6,7 @@ This repository contains the BRBseq workflow for British Columbia stickleback
 collections and will later contain the conventional mRNA-seq workflow. The
 active pipeline covers STAR indexing/mapping, FastReadCounter counts,
 barcode-level BAM splitting, BRBseq variant calling, and later integration with
-externally supplied WGS genotypes for admixture and relatedness.
+externally supplied WGS genotypes for relatedness.
 
 ## Environment and paths
 
@@ -31,7 +31,7 @@ externally supplied WGS genotypes for admixture and relatedness.
 - FastReadCounter remains the non-UMI-deduplicated cross-check.
 - 2024/2025 run structure is defined in `metadata/brb_*_runs.tsv`.
 - 2025 positional barcode mappings require final Davis Core verification where noted.
-- WGS/admixture/relatedness inputs remain configurable; do not assume the old WGS repository or sample naming scheme.
+- WGS/relatedness inputs remain configurable; do not assume the old WGS repository or sample naming scheme.
 
 ## Manifest workflow
 
@@ -46,6 +46,6 @@ FASTQs, BAMs, VCFs, matrices, software, or scratch outputs. Use
 ## Safe operating rules
 
 - Run `scripts/brb_00_validate_inputs.sh` before expensive jobs.
-- Do not launch heavy Slurm, STAR, variant-calling, PLINK, or admixture jobs without explicit user direction.
+- Do not launch heavy Slurm, STAR, variant-calling, or PLINK jobs without explicit user direction.
 - Preserve metadata notes about questionable samples and barcode assignments.
 - Prefer small, reviewable edits and retain the numbered pipeline structure.
