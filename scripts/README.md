@@ -20,8 +20,21 @@ there. No partition is hard-coded; pass site-specific `sbatch` options when
 submitting.
 
 Run `brb_00_validate_inputs.sh`, then submit individual stages or use
-`brb_submit.sh`. The WGS/relatedness scripts intentionally accept
-external inputs rather than assuming a repository. Set `GACU_WGS_VCF` first;
-after the sample naming scheme is finalized, provide sample maps and use the
-harmonized PLINK prefixes through `GACU_RELATEDNESS_BED_PREFIX` and
-`GACU_RELATEDNESS_BED_PREFIX`.
+`brb_submit.sh`. The downstream WGS/QC branch is intentionally separate from
+the expression pipeline:
+
+```text
+brb_15_prepare_external_wgs_inputs.sh  (21 chromosome tasks)
+    -> brb_16_make_tissue_panels.sh    (21 gill + 21 liver tasks)
+    -> brb_17_make_plink_panels.sh     (five tasks: two combined, WGS-only, gill-only, liver-only)
+    -> brb_18_relatedness.sh            (one gill + one liver task)
+    -> brb_19_run_admixture.sh          (three separate optional structure-QC tasks)
+```
+
+The external WGS defaults point to the expanded filtered VCF directory and
+retain every `2024_DJR*` and `2025_DJR*` WGS sample. The mapping table assigns
+`_D` to WGS, `_G` to gill BRB, and `_L` to liver BRB. Each tissue panel is
+intersected with WGS at shared variant sites, converted to PLINK, filtered,
+and LD-pruned before relatedness. Admixture is run separately on the WGS-only,
+gill-BRB-only, and liver-BRB-only panels, so no WGS and BRB sample types are
+concatenated for the admixture input.

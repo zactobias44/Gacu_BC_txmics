@@ -71,6 +71,7 @@ FAST_READ_COUNTER="${GACU_FAST_READ_COUNTER:-$GACU_SOFTWARE_ROOT/FastReadCounter
 SAMTOOLS="${GACU_SAMTOOLS_BIN:-samtools}"
 BCFTOOLS="${GACU_BCFTOOLS_BIN:-bcftools}"
 PLINK="${GACU_PLINK_BIN:-plink}"
+ADMIXTURE="${GACU_ADMIXTURE_BIN:-admixture}"
 
 SCRATCH_ROOT="$GACU_SCRATCH_ROOT"
 BRB_OUTPUT_ROOT="${GACU_BRB_OUTPUT_ROOT:-$BRB_REPO_ROOT/outputs}"
@@ -80,6 +81,13 @@ COUNTS_ROOT="$BRB_OUTPUT_ROOT/matrix"
 SPLIT_BAM_ROOT="$BRB_OUTPUT_ROOT/bams"
 VARIANT_ROOT="$BRB_OUTPUT_ROOT/variants"
 GENOTYPE_ROOT="$BRB_OUTPUT_ROOT/genotypes"
+WGS_SUBSET_ROOT="$GENOTYPE_ROOT/wgs_djr"
+RELATEDNESS_ROOT="$GENOTYPE_ROOT/relatedness"
+PLINK_ROOT="$GENOTYPE_ROOT/plink"
+SAMPLE_SOURCE_MAP="$BRB_REPO_ROOT/metadata/derived/sample_source_mapping.tsv"
+GACU_WGS_VCF_DIR="${GACU_WGS_VCF_DIR:-/scratch/ztobias/BC_stickle_expanded_WGS/gatk_out/aculeatus_expanded}"
+GACU_WGS_VCF_PATTERN="${GACU_WGS_VCF_PATTERN:-chr%s.expanded.aculeatus.variant.filtered.vcf.gz}"
+GACU_ADMIXTURE_KS="${GACU_ADMIXTURE_KS:-8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28}"
 LOG_ROOT="${GACU_LOG_ROOT:-$BRB_REPO_ROOT/logs/brbseq}"
 
 SHALLOW_CONFIG="$BRB_REPO_ROOT/metadata/brb_shallow_runs.tsv"
@@ -107,7 +115,8 @@ load_brb_modules() {
 
 mkdir_brb_outputs() {
     mkdir -p "$STAR_WORK_ROOT" "$STAR_OUTPUT_ROOT" "$COUNTS_ROOT" \
-        "$SPLIT_BAM_ROOT" "$VARIANT_ROOT" "$GENOTYPE_ROOT" "$LOG_ROOT"
+        "$SPLIT_BAM_ROOT" "$VARIANT_ROOT" "$GENOTYPE_ROOT" \
+        "$WGS_SUBSET_ROOT" "$RELATEDNESS_ROOT" "$PLINK_ROOT" "$LOG_ROOT"
 }
 
 require_brb_file() {

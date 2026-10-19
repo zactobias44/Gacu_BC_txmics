@@ -1,4 +1,10 @@
 #!/usr/bin/env bash
+#SBATCH --job-name=brb_concat_vcfs
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=2
+#SBATCH --mem=32G
+#SBATCH --time=12:00:00
+#SBATCH --output=../logs/brb_concat_vcfs_%j.out
 set -euo pipefail
 if [[ -n "${SLURM_SUBMIT_DIR:-}" && -f "$SLURM_SUBMIT_DIR/config/brb_pipeline_config.sh" ]]; then
     SCRIPT_DIR="$SLURM_SUBMIT_DIR/scripts"
