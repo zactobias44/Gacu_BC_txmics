@@ -54,8 +54,16 @@ def main():
                 "year": str(year),
                 "population": "",
                 "site_type": "",
+                "site_type_source": "",
                 "site_name": "",
                 "ecotype": "",
+                "field_population": "",
+                "field_ecotype": "",
+                "dna_population": "",
+                "dna_ecotype": "",
+                "rna_population": "",
+                "rna_ecotype": "",
+                "source_system": "",
                 "field_sex": "",
                 "dna_sex": "",
                 "true_sex": "",
@@ -100,7 +108,10 @@ def main():
             continue
         rec = record(sid, 2024)
         rec["population"] = clean(row.get("population"))
+        rec["dna_population"] = clean(row.get("population"))
         rec["ecotype"] = clean(row.get("ecotype"))
+        rec["dna_ecotype"] = clean(row.get("ecotype"))
+        rec["source_system"] = clean(row.get("system"))
         rec["dna_sex"] = clean(row.get("sex"))
         rec["wgs_status"] = "sequenced" if clean(row.get("sequenced?")) == "1" else "not_sequenced"
         add_unique([rec["source_records"]], "2024_BC_DNA_extractions.csv")
@@ -114,7 +125,18 @@ def main():
         if not sid:
             continue
         rec = record(sid, 2024)
+        rec["field_population"] = clean(row.get("lake"))
+        rec["field_ecotype"] = clean(row.get("ecotype"))
         rec["population"] = rec["population"] or clean(row.get("lake"))
+        rec["site_name"] = rec["site_name"] or clean(row.get("lake"))
+        if not rec["site_type"]:
+            ecotype = rec["ecotype"] or clean(row.get("ecotype"))
+            if ecotype in {"benthic", "limnetic", "lake"}:
+                rec["site_type"] = "lake"
+                rec["site_type_source"] = "inferred from 2024 ecotype"
+            elif ecotype == "marine":
+                rec["site_type"] = "marine"
+                rec["site_type_source"] = "inferred from 2024 ecotype"
         rec["ecotype"] = rec["ecotype"] or clean(row.get("ecotype"))
         rec["field_sex"] = clean(row.get("sex"))
         add_unique([rec["source_records"]], "sample_list_2024.csv")
@@ -129,6 +151,10 @@ def main():
         rec = record(sid, 2024)
         rec["population"] = rec["population"] or clean(row.get("population"))
         rec["ecotype"] = rec["ecotype"] or clean(row.get("ecotype"))
+        rec["rna_population"] = clean(row.get("population"))
+        rec["rna_ecotype"] = clean(row.get("ecotype"))
+        rec["source_system"] = rec["source_system"] or clean(row.get("system"))
+        rec["site_name"] = rec["site_name"] or clean(row.get("population"))
         rec["field_sex"] = rec["field_sex"] or clean(row.get("sex"))
         rec["source_records"] = ";".join(dict.fromkeys([x for x in [rec["source_records"], "2024_BC_RNA_extractions.csv"] if x]))
         if tissue == "gill":
@@ -168,7 +194,9 @@ def main():
         rec = record(sid, 2025)
         rec["population"] = clean(row.get("Pair Name"))
         rec["site_type"] = clean(row.get("Site Type"))
+        rec["site_type_source"] = "2025 Site Type column"
         rec["site_name"] = clean(row.get("Site Name"))
+        rec["source_system"] = "2025_collection_metadata"
         rec["field_sex"] = clean(row.get("Sex"))
         rec["source_records"] = "BC Spring 2025 Collections and Molecular Metadata Sheet 1.csv"
         if clean(row.get("do liver BRB prep?")) == "1":
