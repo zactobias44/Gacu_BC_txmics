@@ -28,7 +28,7 @@ brb_15_prepare_external_wgs_inputs.sh  (21 chromosome tasks)
     -> brb_16_make_tissue_panels.sh    (21 gill + 21 liver tasks)
     -> brb_17_make_plink_panels.sh     (five tasks: two combined, WGS-only, gill-only, liver-only)
     -> brb_18_relatedness.sh            (one gill + one liver task)
-    -> brb_19_run_admixture.sh          (three separate optional structure-QC tasks)
+    -> brb_19_run_admixture.sh          (63 separate panel/K structure-QC tasks)
 ```
 
 The external WGS defaults point to the expanded filtered VCF directory and
