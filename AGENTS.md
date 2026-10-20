@@ -28,7 +28,8 @@ externally supplied WGS genotypes for relatedness.
 
 - Shallow STAR remains gene-level and uses `NoDedup`.
 - Deep STAR emits both conventional and UMI-deduplicated STARsolo matrices using `NoDedup 1MM_Directional`.
-- FastReadCounter remains the non-UMI-deduplicated cross-check.
+- Deep FastReadCounter emits both non-UMI counts (`--umi-dedup none`) and
+  exact UMI-deduplicated counts (`--umi-dedup exact`).
 - 2024/2025 run structure is defined in `metadata/brb_*_runs.tsv`.
 - 2025 positional barcode mappings require final Davis Core verification where noted.
 - WGS/relatedness inputs remain configurable; do not assume the old WGS repository or sample naming scheme.

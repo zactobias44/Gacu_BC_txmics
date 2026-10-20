@@ -12,7 +12,7 @@ deduplicated STARsolo matrices. Deep FastReadCounter now runs in parallel in
 both modes: the original `*_deep_fastreadcounter` and
 `*_deep_1f_fastreadcounter` directories use `--umi-dedup none`, while the
 parallel `*_deep_umi_fastreadcounter` and `*_deep_1f_umi_fastreadcounter`
-directories use `--umi-dedup 1MM_Directional`.
+    directories use FastReadCounter's supported `--umi-dedup exact` mode.
 
 Poseidon is configured as the default in `config/brb_pipeline_config.sh`,
 including repository-local reads, repository-local `outputs/`, sibling genome, and
