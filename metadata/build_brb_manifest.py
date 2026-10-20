@@ -7,8 +7,10 @@ supplies the sequence at that position.  The barcode sets differ by kit
 version: 2024 uses V5B and 2025 uses V5D.
 
 The 2024 RNA extraction sheet is the authoritative source for executable
-sample/tissue records.  Its V5B well/barcode assignments are validated against
-the local V5B position table.
+sample/tissue records. Its V5B well/barcode assignments are validated against
+the local V5B position table. For 2025, the final liquid-handler pooling files
+are the additional gate: prepared-but-not-pooled positions are not executable
+manifest records.
 """
 
 import csv
@@ -59,6 +61,39 @@ def read_positioned_barcodes(path):
     return mapping
 
 
+def read_gill_pool(path):
+    """Return the reaction positions with nonzero final gill pooling volume."""
+    pooled = {}
+    with path.open(newline="", encoding="utf-8-sig") as handle:
+        for record in csv.DictReader(handle):
+            position = norm_pos(record.get("gill.rxn.plate.pos_nopad"))
+            volume = (record.get("ul_to_pool") or "").strip()
+            if position and volume and float(volume) > 0:
+                pooled[position] = volume
+    return pooled
+
+
+def read_liver_pool(path):
+    """Return source reaction positions with nonzero final liver pooling volume."""
+    pooled = {}
+    with path.open(newline="", encoding="utf-8-sig") as handle:
+        rows = list(csv.reader(handle))
+    header_index = next(
+        (i for i, row in enumerate(rows) if row and row[0].strip() == "Barcode ID"),
+        None,
+    )
+    if header_index is None:
+        raise SystemExit(f"Could not find the liquid-handler header in {path}")
+    for row in rows[header_index + 1 :]:
+        if len(row) <= 5:
+            continue
+        position = norm_pos(row[2])
+        volume = row[5].strip()
+        if position and volume and float(volume) > 0:
+            pooled[position] = volume
+    return pooled
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--check-only", action="store_true")
@@ -76,6 +111,10 @@ def main():
     barcode_by_pos_2025 = read_positioned_barcodes(
         META / "barcodes_v5D_384_brb.txt"
     )
+    final_pool_by_tissue_2025 = {
+        "gill": read_gill_pool(META / "2025_gill_pooling.csv"),
+        "liver": read_liver_pool(META / "2025_liver_pool_final.csv"),
+    }
     source_2024 = META / "2024_BC_RNA_extractions.csv"
     with source_2024.open(newline="", encoding="utf-8-sig") as handle:
         for record in csv.DictReader(handle):
@@ -129,9 +168,13 @@ def main():
                 ("gill", "do gill BRB prep?", "gill rxn plate pos"),
                 ("liver", "do liver BRB prep?", "liver rxn plate pos"),
             ):
-                if (record.get(flag) or "").strip() != "1":
-                    continue
                 position = norm_pos(record.get(position_key))
+                pool_volume = final_pool_by_tissue_2025[tissue].get(position)
+                if pool_volume is None:
+                    # A BRB-prep record is not necessarily a final sequencing
+                    # pool member.  The shallow-sequencing decision and the
+                    # liquid-handler configuration are authoritative here.
+                    continue
                 barcode = barcode_by_pos_2025.get(position, "")
                 if not barcode:
                     # Keep the sample in the broader tracking metadata, but do
@@ -144,13 +187,18 @@ def main():
                     "tissue": tissue,
                     "barcode": barcode,
                     "barcode_source": "metadata/barcodes_v5D_384_brb.txt",
-                    "mapping_note": f"reaction position {position}; direct V5D position-to-barcode map",
+                    "mapping_note": (
+                        f"reaction position {position}; direct V5D position-to-barcode map; "
+                        f"final {tissue} pooling volume {pool_volume} uL"
+                    ),
                 })
 
     rows.sort(key=lambda x: (x["year"], x["tissue"], x["sample_id"]))
     with out.open("w", newline="", encoding="utf-8") as handle:
         fields = ["sample_id", "year", "tissue", "barcode", "barcode_source", "mapping_note"]
-        writer = csv.DictWriter(handle, fieldnames=fields, delimiter="\t")
+        writer = csv.DictWriter(
+            handle, fieldnames=fields, delimiter="\t", lineterminator="\n"
+        )
         writer.writeheader()
         writer.writerows(rows)
 

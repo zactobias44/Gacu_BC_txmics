@@ -749,528 +749,522 @@ sample_id	year	tissue	barcode	barcode_source	mapping_note
 2024_DJR_433	2024	liver	CCGCAATATGGCAA	2024_Gacu_BRBseq/metadata/2024_BC_RNA_extractions.csv + metadata/barcodes_v5B_384_brb.txt	V5B well P22; RNA extraction metadata; validated against V5B position map
 2024_DJR_434	2024	liver	CAACAGGAGGCTCC	2024_Gacu_BRBseq/metadata/2024_BC_RNA_extractions.csv + metadata/barcodes_v5B_384_brb.txt	V5B well P23; RNA extraction metadata; validated against V5B position map
 2024_DJR_435	2024	liver	CAAGGCCTCAAGGA	2024_Gacu_BRBseq/metadata/2024_BC_RNA_extractions.csv + metadata/barcodes_v5B_384_brb.txt	V5B well P24; RNA extraction metadata; validated against V5B position map
-2025_DJR_003	2025	gill	CCGCCATATTAACG	metadata/barcodes_v5D_384_brb.txt	reaction position A13; direct V5D position-to-barcode map
-2025_DJR_004	2025	gill	CCGGAACACAAGGC	metadata/barcodes_v5D_384_brb.txt	reaction position A14; direct V5D position-to-barcode map
-2025_DJR_005	2025	gill	TTAACCATAGATCC	metadata/barcodes_v5D_384_brb.txt	reaction position A15; direct V5D position-to-barcode map
-2025_DJR_006	2025	gill	AAGAACTCTTCTCC	metadata/barcodes_v5D_384_brb.txt	reaction position A16; direct V5D position-to-barcode map
-2025_DJR_007	2025	gill	AATAAGCGTCCTGC	metadata/barcodes_v5D_384_brb.txt	reaction position A17; direct V5D position-to-barcode map
-2025_DJR_009	2025	gill	CAATCCGCCAATCA	metadata/barcodes_v5D_384_brb.txt	reaction position A18; direct V5D position-to-barcode map
-2025_DJR_010	2025	gill	TTAAGCAAGTGTGG	metadata/barcodes_v5D_384_brb.txt	reaction position A19; direct V5D position-to-barcode map
-2025_DJR_011	2025	gill	AACCAACAGTGCCG	metadata/barcodes_v5D_384_brb.txt	reaction position A20; direct V5D position-to-barcode map
-2025_DJR_012	2025	gill	AAGGTCATATGCGC	metadata/barcodes_v5D_384_brb.txt	reaction position A21; direct V5D position-to-barcode map
-2025_DJR_013	2025	gill	CTGTTAGCCGCGGA	metadata/barcodes_v5D_384_brb.txt	reaction position A22; direct V5D position-to-barcode map
-2025_DJR_015	2025	gill	CAGTGGCTCTTAAG	metadata/barcodes_v5D_384_brb.txt	reaction position A23; direct V5D position-to-barcode map
-2025_DJR_016	2025	gill	AATGGACAGGCCAA	metadata/barcodes_v5D_384_brb.txt	reaction position A24; direct V5D position-to-barcode map
-2025_DJR_017	2025	gill	ATATCGTACAGCAC	metadata/barcodes_v5D_384_brb.txt	reaction position C13; direct V5D position-to-barcode map
-2025_DJR_018	2025	gill	CAGCACTGCACTAG	metadata/barcodes_v5D_384_brb.txt	reaction position C14; direct V5D position-to-barcode map
-2025_DJR_019	2025	gill	ACACGTGATAGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position C15; direct V5D position-to-barcode map
-2025_DJR_020	2025	gill	AAGGCCGCAGGAGA	metadata/barcodes_v5D_384_brb.txt	reaction position C16; direct V5D position-to-barcode map
-2025_DJR_021	2025	gill	AACAGTCAACTCAA	metadata/barcodes_v5D_384_brb.txt	reaction position C17; direct V5D position-to-barcode map
-2025_DJR_022	2025	gill	ATCGCGTATCATGC	metadata/barcodes_v5D_384_brb.txt	reaction position C18; direct V5D position-to-barcode map
-2025_DJR_023	2025	gill	TTACGCACGGTGGA	metadata/barcodes_v5D_384_brb.txt	reaction position C19; direct V5D position-to-barcode map
-2025_DJR_026	2025	gill	AATCTTAAGAGGAC	metadata/barcodes_v5D_384_brb.txt	reaction position C20; direct V5D position-to-barcode map
-2025_DJR_027	2025	gill	CCATACACCACGGC	metadata/barcodes_v5D_384_brb.txt	reaction position C21; direct V5D position-to-barcode map
-2025_DJR_029	2025	gill	ACAGCTATACACGC	metadata/barcodes_v5D_384_brb.txt	reaction position C22; direct V5D position-to-barcode map
-2025_DJR_030	2025	gill	CACACTCTCGTGCA	metadata/barcodes_v5D_384_brb.txt	reaction position C23; direct V5D position-to-barcode map
-2025_DJR_031	2025	gill	TTGATTAATCTCGG	metadata/barcodes_v5D_384_brb.txt	reaction position C24; direct V5D position-to-barcode map
-2025_DJR_032	2025	gill	CCAAGCAACAATCC	metadata/barcodes_v5D_384_brb.txt	reaction position E13; direct V5D position-to-barcode map
-2025_DJR_034	2025	gill	ATGTTAACTTCCGC	metadata/barcodes_v5D_384_brb.txt	reaction position E14; direct V5D position-to-barcode map
-2025_DJR_035	2025	gill	CATAGCTGCGCTGC	metadata/barcodes_v5D_384_brb.txt	reaction position E15; direct V5D position-to-barcode map
-2025_DJR_036	2025	gill	CAGGCCATTAATCC	metadata/barcodes_v5D_384_brb.txt	reaction position E16; direct V5D position-to-barcode map
-2025_DJR_037	2025	gill	AATGGTATCTGCCG	metadata/barcodes_v5D_384_brb.txt	reaction position E17; direct V5D position-to-barcode map
-2025_DJR_038	2025	gill	ACGGCTTGGTTAAG	metadata/barcodes_v5D_384_brb.txt	reaction position E18; direct V5D position-to-barcode map
-2025_DJR_040	2025	gill	ATGAGGTTACTTCA	metadata/barcodes_v5D_384_brb.txt	reaction position E19; direct V5D position-to-barcode map
-2025_DJR_041	2025	gill	TATGCAGTGCTACG	metadata/barcodes_v5D_384_brb.txt	reaction position E20; direct V5D position-to-barcode map
-2025_DJR_042	2025	gill	AATTAATCACGTGC	metadata/barcodes_v5D_384_brb.txt	reaction position E21; direct V5D position-to-barcode map
-2025_DJR_043	2025	gill	ACGCATGTACAGAC	metadata/barcodes_v5D_384_brb.txt	reaction position E22; direct V5D position-to-barcode map
-2025_DJR_044	2025	gill	ACATCTCTACTGCG	metadata/barcodes_v5D_384_brb.txt	reaction position E23; direct V5D position-to-barcode map
-2025_DJR_045	2025	gill	CCTACATAAGCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position E24; direct V5D position-to-barcode map
-2025_DJR_046	2025	gill	CATAGCTTACGAAC	metadata/barcodes_v5D_384_brb.txt	reaction position G13; direct V5D position-to-barcode map
-2025_DJR_047	2025	gill	TATACTAGCTGACA	metadata/barcodes_v5D_384_brb.txt	reaction position G14; direct V5D position-to-barcode map
-2025_DJR_048	2025	gill	CTAGTAGCGTATCA	metadata/barcodes_v5D_384_brb.txt	reaction position G15; direct V5D position-to-barcode map
-2025_DJR_049	2025	gill	ACAATTGAAGTGGA	metadata/barcodes_v5D_384_brb.txt	reaction position G16; direct V5D position-to-barcode map
-2025_DJR_051	2025	gill	ACACTCTGTAGAGC	metadata/barcodes_v5D_384_brb.txt	reaction position G17; direct V5D position-to-barcode map
-2025_DJR_052	2025	gill	ATGAGGCGATCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position G18; direct V5D position-to-barcode map
-2025_DJR_053	2025	gill	ATGATGTGTAGTAC	metadata/barcodes_v5D_384_brb.txt	reaction position G19; direct V5D position-to-barcode map
-2025_DJR_054	2025	gill	CTAGATCTGTAGCG	metadata/barcodes_v5D_384_brb.txt	reaction position G20; direct V5D position-to-barcode map
-2025_DJR_055	2025	gill	AAGGAGGTTCTTAC	metadata/barcodes_v5D_384_brb.txt	reaction position G21; direct V5D position-to-barcode map
-2025_DJR_056	2025	gill	ATTAATGGCCTTCA	metadata/barcodes_v5D_384_brb.txt	reaction position G22; direct V5D position-to-barcode map
-2025_DJR_057	2025	gill	ACAGTACTCTGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position G23; direct V5D position-to-barcode map
-2025_DJR_058	2025	gill	ACGACAGCTACAGA	metadata/barcodes_v5D_384_brb.txt	reaction position G24; direct V5D position-to-barcode map
-2025_DJR_059	2025	gill	TTGCATTGTGCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position I13; direct V5D position-to-barcode map
-2025_DJR_060	2025	gill	ACGAGATGTGAGCG	metadata/barcodes_v5D_384_brb.txt	reaction position I14; direct V5D position-to-barcode map
-2025_DJR_061	2025	gill	TACGTAGCATATAG	metadata/barcodes_v5D_384_brb.txt	reaction position I15; direct V5D position-to-barcode map
-2025_DJR_062	2025	gill	CTTCCTTCGCGTGA	metadata/barcodes_v5D_384_brb.txt	reaction position I16; direct V5D position-to-barcode map
-2025_DJR_063	2025	gill	TCCTAGCGCCGCAA	metadata/barcodes_v5D_384_brb.txt	reaction position I17; direct V5D position-to-barcode map
-2025_DJR_064	2025	gill	CAGTGATCGTGCGA	metadata/barcodes_v5D_384_brb.txt	reaction position I18; direct V5D position-to-barcode map
-2025_DJR_065	2025	gill	AATAGTCTCTTGGC	metadata/barcodes_v5D_384_brb.txt	reaction position I19; direct V5D position-to-barcode map
-2025_DJR_066	2025	gill	CTATATGACGACGA	metadata/barcodes_v5D_384_brb.txt	reaction position I20; direct V5D position-to-barcode map
-2025_DJR_067	2025	gill	ACAACAATGGAAGG	metadata/barcodes_v5D_384_brb.txt	reaction position I21; direct V5D position-to-barcode map
-2025_DJR_068	2025	gill	ACACGAGTCTCTAC	metadata/barcodes_v5D_384_brb.txt	reaction position I22; direct V5D position-to-barcode map
-2025_DJR_069	2025	gill	ACGCGCTATCATCA	metadata/barcodes_v5D_384_brb.txt	reaction position I23; direct V5D position-to-barcode map
-2025_DJR_070	2025	gill	TTCGTATGGTGTAA	metadata/barcodes_v5D_384_brb.txt	reaction position I24; direct V5D position-to-barcode map
-2025_DJR_071	2025	gill	CTTGCCGTATACCG	metadata/barcodes_v5D_384_brb.txt	reaction position K13; direct V5D position-to-barcode map
-2025_DJR_072	2025	gill	CAAGTTGGAGAGGC	metadata/barcodes_v5D_384_brb.txt	reaction position K14; direct V5D position-to-barcode map
-2025_DJR_073	2025	gill	TTACATTAGATGGC	metadata/barcodes_v5D_384_brb.txt	reaction position K15; direct V5D position-to-barcode map
-2025_DJR_110	2025	gill	AAGCCGAATCCTCC	metadata/barcodes_v5D_384_brb.txt	reaction position K16; direct V5D position-to-barcode map
-2025_DJR_111	2025	gill	ACGACACAGTACGA	metadata/barcodes_v5D_384_brb.txt	reaction position K17; direct V5D position-to-barcode map
-2025_DJR_112	2025	gill	CAGACTGATATACA	metadata/barcodes_v5D_384_brb.txt	reaction position K18; direct V5D position-to-barcode map
-2025_DJR_113	2025	gill	ATACAGCTACTAGC	metadata/barcodes_v5D_384_brb.txt	reaction position K19; direct V5D position-to-barcode map
-2025_DJR_114	2025	gill	TATGCCATGCCTAC	metadata/barcodes_v5D_384_brb.txt	reaction position K20; direct V5D position-to-barcode map
-2025_DJR_115	2025	gill	TCTCACGAGTATAC	metadata/barcodes_v5D_384_brb.txt	reaction position K21; direct V5D position-to-barcode map
-2025_DJR_116	2025	gill	ACATCCTAATACCG	metadata/barcodes_v5D_384_brb.txt	reaction position K22; direct V5D position-to-barcode map
-2025_DJR_117	2025	gill	ATCTAGTCATGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position K23; direct V5D position-to-barcode map
-2025_DJR_118	2025	gill	CCTAGAGGATAGGC	metadata/barcodes_v5D_384_brb.txt	reaction position K24; direct V5D position-to-barcode map
-2025_DJR_119	2025	gill	ACTGCACTTCCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position M13; direct V5D position-to-barcode map
-2025_DJR_120	2025	gill	TTCACGGCCTTGGA	metadata/barcodes_v5D_384_brb.txt	reaction position M14; direct V5D position-to-barcode map
-2025_DJR_121	2025	gill	CACTGCCGGTCAAC	metadata/barcodes_v5D_384_brb.txt	reaction position M15; direct V5D position-to-barcode map
-2025_DJR_147	2025	gill	AACTTGGCCACAGG	metadata/barcodes_v5D_384_brb.txt	reaction position M16; direct V5D position-to-barcode map
-2025_DJR_148	2025	gill	ATTCGCATTCCTAG	metadata/barcodes_v5D_384_brb.txt	reaction position M17; direct V5D position-to-barcode map
-2025_DJR_149	2025	gill	ATCGTTGAGGTTCC	metadata/barcodes_v5D_384_brb.txt	reaction position M18; direct V5D position-to-barcode map
-2025_DJR_150	2025	gill	CAATCTTGGCTTCA	metadata/barcodes_v5D_384_brb.txt	reaction position M19; direct V5D position-to-barcode map
-2025_DJR_152	2025	gill	TTACCACTCTTGGC	metadata/barcodes_v5D_384_brb.txt	reaction position M20; direct V5D position-to-barcode map
-2025_DJR_153	2025	gill	AACCAACTTGTTCC	metadata/barcodes_v5D_384_brb.txt	reaction position M21; direct V5D position-to-barcode map
-2025_DJR_154	2025	gill	ATAGGAATTCTGCA	metadata/barcodes_v5D_384_brb.txt	reaction position M22; direct V5D position-to-barcode map
-2025_DJR_155	2025	gill	TAATGTGCAATTGC	metadata/barcodes_v5D_384_brb.txt	reaction position M23; direct V5D position-to-barcode map
-2025_DJR_156	2025	gill	ACACACACGAGTAG	metadata/barcodes_v5D_384_brb.txt	reaction position M24; direct V5D position-to-barcode map
-2025_DJR_157	2025	gill	TCTCTCGATCTGCA	metadata/barcodes_v5D_384_brb.txt	reaction position O13; direct V5D position-to-barcode map
-2025_DJR_158	2025	gill	ATCCTCTAATAAGC	metadata/barcodes_v5D_384_brb.txt	reaction position O14; direct V5D position-to-barcode map
-2025_DJR_159	2025	gill	TCGTACAGTATCAC	metadata/barcodes_v5D_384_brb.txt	reaction position O15; direct V5D position-to-barcode map
-2025_DJR_160	2025	gill	AAGTAACTCGGCGC	metadata/barcodes_v5D_384_brb.txt	reaction position O16; direct V5D position-to-barcode map
-2025_DJR_161	2025	gill	AACTCGCGTTGAAG	metadata/barcodes_v5D_384_brb.txt	reaction position O17; direct V5D position-to-barcode map
-2025_DJR_162	2025	gill	CAATAGATAAGGAG	metadata/barcodes_v5D_384_brb.txt	reaction position O18; direct V5D position-to-barcode map
-2025_DJR_163	2025	gill	CAGTATCTAGTAGA	metadata/barcodes_v5D_384_brb.txt	reaction position O19; direct V5D position-to-barcode map
-2025_DJR_165	2025	gill	CCACCTTGATTGGC	metadata/barcodes_v5D_384_brb.txt	reaction position O20; direct V5D position-to-barcode map
-2025_DJR_166	2025	gill	ACCGCAACTAGCCA	metadata/barcodes_v5D_384_brb.txt	reaction position O21; direct V5D position-to-barcode map
-2025_DJR_167	2025	gill	TAACAAGAAGGAGA	metadata/barcodes_v5D_384_brb.txt	reaction position O22; direct V5D position-to-barcode map
-2025_DJR_168	2025	gill	AATAATGCGCTAAG	metadata/barcodes_v5D_384_brb.txt	reaction position O23; direct V5D position-to-barcode map
-2025_DJR_169	2025	gill	CTATGTCGCTCAGA	metadata/barcodes_v5D_384_brb.txt	reaction position O24; direct V5D position-to-barcode map
-2025_DJR_171	2025	gill	TTCGGACTACCTCA	metadata/barcodes_v5D_384_brb.txt	reaction position B01; direct V5D position-to-barcode map
-2025_DJR_173	2025	gill	ACTCTGAGATATCA	metadata/barcodes_v5D_384_brb.txt	reaction position B02; direct V5D position-to-barcode map
-2025_DJR_174	2025	gill	TAACTCAACGAGCA	metadata/barcodes_v5D_384_brb.txt	reaction position B03; direct V5D position-to-barcode map
-2025_DJR_175	2025	gill	ATACGCAGCGACAG	metadata/barcodes_v5D_384_brb.txt	reaction position B04; direct V5D position-to-barcode map
-2025_DJR_177	2025	gill	TCGTTAGTTAGCCG	metadata/barcodes_v5D_384_brb.txt	reaction position B05; direct V5D position-to-barcode map
-2025_DJR_178	2025	gill	ACAGCACGACTAGA	metadata/barcodes_v5D_384_brb.txt	reaction position B06; direct V5D position-to-barcode map
-2025_DJR_180	2025	gill	CAACATTAACAAGC	metadata/barcodes_v5D_384_brb.txt	reaction position B07; direct V5D position-to-barcode map
-2025_DJR_181	2025	gill	CTAATCCACTCAAC	metadata/barcodes_v5D_384_brb.txt	reaction position B08; direct V5D position-to-barcode map
-2025_DJR_182	2025	gill	ACAGTTGACCTAAC	metadata/barcodes_v5D_384_brb.txt	reaction position B09; direct V5D position-to-barcode map
-2025_DJR_183	2025	gill	CCTAATCTCACCAA	metadata/barcodes_v5D_384_brb.txt	reaction position B10; direct V5D position-to-barcode map
-2025_DJR_184	2025	gill	ATTAGACCGGTAAC	metadata/barcodes_v5D_384_brb.txt	reaction position B11; direct V5D position-to-barcode map
-2025_DJR_185	2025	gill	ACTTGTGGCAATGC	metadata/barcodes_v5D_384_brb.txt	reaction position B12; direct V5D position-to-barcode map
-2025_DJR_189	2025	gill	ACGGTCTCCTGAGG	metadata/barcodes_v5D_384_brb.txt	reaction position D02; direct V5D position-to-barcode map
-2025_DJR_191	2025	gill	ACGCTACGTCGTAG	metadata/barcodes_v5D_384_brb.txt	reaction position D03; direct V5D position-to-barcode map
-2025_DJR_192	2025	gill	AACTATTCTACCAC	metadata/barcodes_v5D_384_brb.txt	reaction position D04; direct V5D position-to-barcode map
-2025_DJR_193	2025	gill	CCGTCCAACGGAAG	metadata/barcodes_v5D_384_brb.txt	reaction position D05; direct V5D position-to-barcode map
-2025_DJR_194	2025	gill	AATCACACACCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position D06; direct V5D position-to-barcode map
-2025_DJR_195	2025	gill	ATATCGCACGTAGA	metadata/barcodes_v5D_384_brb.txt	reaction position D07; direct V5D position-to-barcode map
-2025_DJR_196	2025	gill	ACTGGAAGCCACAA	metadata/barcodes_v5D_384_brb.txt	reaction position D08; direct V5D position-to-barcode map
-2025_DJR_245	2025	gill	TAACTATACCGCCG	metadata/barcodes_v5D_384_brb.txt	reaction position D09; direct V5D position-to-barcode map
-2025_DJR_246	2025	gill	ATTGCATTAACCAC	metadata/barcodes_v5D_384_brb.txt	reaction position D10; direct V5D position-to-barcode map
-2025_DJR_247	2025	gill	ATTAGTTGTCCAGA	metadata/barcodes_v5D_384_brb.txt	reaction position D11; direct V5D position-to-barcode map
-2025_DJR_248	2025	gill	ACTACGCTGCATAC	metadata/barcodes_v5D_384_brb.txt	reaction position D12; direct V5D position-to-barcode map
-2025_DJR_249	2025	gill	CATTAATCCTCCAG	metadata/barcodes_v5D_384_brb.txt	reaction position F01; direct V5D position-to-barcode map
-2025_DJR_251	2025	gill	ATCGTGATCACGAG	metadata/barcodes_v5D_384_brb.txt	reaction position F02; direct V5D position-to-barcode map
-2025_DJR_252	2025	gill	ACTGACTGAGCTCA	metadata/barcodes_v5D_384_brb.txt	reaction position F03; direct V5D position-to-barcode map
-2025_DJR_253	2025	gill	AACCATTGCCGAGG	metadata/barcodes_v5D_384_brb.txt	reaction position F04; direct V5D position-to-barcode map
-2025_DJR_254	2025	gill	ACCATGGAGGATGG	metadata/barcodes_v5D_384_brb.txt	reaction position F05; direct V5D position-to-barcode map
-2025_DJR_255	2025	gill	ATATCTGTGATGAC	metadata/barcodes_v5D_384_brb.txt	reaction position F06; direct V5D position-to-barcode map
-2025_DJR_256	2025	gill	ACAGACTGCTGTAC	metadata/barcodes_v5D_384_brb.txt	reaction position F07; direct V5D position-to-barcode map
-2025_DJR_257	2025	gill	AACTCATGACCTAG	metadata/barcodes_v5D_384_brb.txt	reaction position F08; direct V5D position-to-barcode map
-2025_DJR_258	2025	gill	CCGATAGACAATAA	metadata/barcodes_v5D_384_brb.txt	reaction position F09; direct V5D position-to-barcode map
-2025_DJR_260	2025	gill	CAAGAGAATCCAAC	metadata/barcodes_v5D_384_brb.txt	reaction position F10; direct V5D position-to-barcode map
-2025_DJR_261	2025	gill	ATAATGAATTGGCC	metadata/barcodes_v5D_384_brb.txt	reaction position F11; direct V5D position-to-barcode map
-2025_DJR_262	2025	gill	ATAGAGTCGACGAC	metadata/barcodes_v5D_384_brb.txt	reaction position F12; direct V5D position-to-barcode map
-2025_DJR_263	2025	gill	ATACGGAAGCCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position H01; direct V5D position-to-barcode map
-2025_DJR_264	2025	gill	ATCAGTCTAGTACG	metadata/barcodes_v5D_384_brb.txt	reaction position H02; direct V5D position-to-barcode map
-2025_DJR_265	2025	gill	ATAAGCCAAGGTAC	metadata/barcodes_v5D_384_brb.txt	reaction position H03; direct V5D position-to-barcode map
-2025_DJR_266	2025	gill	ATCACAGTGATACA	metadata/barcodes_v5D_384_brb.txt	reaction position H04; direct V5D position-to-barcode map
-2025_DJR_267	2025	gill	CAGTCTTCCTAACC	metadata/barcodes_v5D_384_brb.txt	reaction position H05; direct V5D position-to-barcode map
-2025_DJR_268	2025	gill	ATAGACATGTCTGA	metadata/barcodes_v5D_384_brb.txt	reaction position H06; direct V5D position-to-barcode map
-2025_DJR_269	2025	gill	CCGCCAAGCTCCAA	metadata/barcodes_v5D_384_brb.txt	reaction position H07; direct V5D position-to-barcode map
-2025_DJR_270	2025	gill	ATGAACAACACCAA	metadata/barcodes_v5D_384_brb.txt	reaction position H08; direct V5D position-to-barcode map
-2025_DJR_271	2025	gill	ATCACAGCGTCTAG	metadata/barcodes_v5D_384_brb.txt	reaction position H09; direct V5D position-to-barcode map
-2025_DJR_272	2025	gill	ACCATCCAGGTCCA	metadata/barcodes_v5D_384_brb.txt	reaction position H10; direct V5D position-to-barcode map
-2025_DJR_274	2025	gill	TTGAATCAAGGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position H11; direct V5D position-to-barcode map
-2025_DJR_276	2025	gill	CAACCAAGAATAAC	metadata/barcodes_v5D_384_brb.txt	reaction position H12; direct V5D position-to-barcode map
-2025_DJR_277	2025	gill	ATGGCTTCACCTGG	metadata/barcodes_v5D_384_brb.txt	reaction position J01; direct V5D position-to-barcode map
-2025_DJR_280	2025	gill	AACCTCACGGTGCC	metadata/barcodes_v5D_384_brb.txt	reaction position J02; direct V5D position-to-barcode map
-2025_DJR_281	2025	gill	ACTCGGATGGTTGG	metadata/barcodes_v5D_384_brb.txt	reaction position J03; direct V5D position-to-barcode map
-2025_DJR_283	2025	gill	AACTCGGTTGTGAA	metadata/barcodes_v5D_384_brb.txt	reaction position J04; direct V5D position-to-barcode map
-2025_DJR_286	2025	gill	CCTTACGGATGGCG	metadata/barcodes_v5D_384_brb.txt	reaction position J05; direct V5D position-to-barcode map
-2025_DJR_287	2025	gill	CCTAACTAATATGG	metadata/barcodes_v5D_384_brb.txt	reaction position J06; direct V5D position-to-barcode map
-2025_DJR_288	2025	gill	ACAATTCGGAACCG	metadata/barcodes_v5D_384_brb.txt	reaction position J07; direct V5D position-to-barcode map
-2025_DJR_289	2025	gill	CACTGACATCGTAC	metadata/barcodes_v5D_384_brb.txt	reaction position J08; direct V5D position-to-barcode map
-2025_DJR_290	2025	gill	AAGCCGCCGTTGAC	metadata/barcodes_v5D_384_brb.txt	reaction position J09; direct V5D position-to-barcode map
-2025_DJR_291	2025	gill	ATGTGCGGAACAGA	metadata/barcodes_v5D_384_brb.txt	reaction position J10; direct V5D position-to-barcode map
-2025_DJR_292	2025	gill	AAGCCTGCCGAGAG	metadata/barcodes_v5D_384_brb.txt	reaction position J11; direct V5D position-to-barcode map
-2025_DJR_293	2025	gill	CAGGCATTCCTTAA	metadata/barcodes_v5D_384_brb.txt	reaction position J12; direct V5D position-to-barcode map
-2025_DJR_296	2025	gill	ACACAGACAGTGCG	metadata/barcodes_v5D_384_brb.txt	reaction position L01; direct V5D position-to-barcode map
-2025_DJR_297	2025	gill	TTAGAATTCCGAAG	metadata/barcodes_v5D_384_brb.txt	reaction position L02; direct V5D position-to-barcode map
-2025_DJR_298	2025	gill	CTGTCGAGATCTGA	metadata/barcodes_v5D_384_brb.txt	reaction position L03; direct V5D position-to-barcode map
-2025_DJR_299	2025	gill	ACGACATCGCGCAC	metadata/barcodes_v5D_384_brb.txt	reaction position L04; direct V5D position-to-barcode map
-2025_DJR_300	2025	gill	AACCTCATCTTCAA	metadata/barcodes_v5D_384_brb.txt	reaction position L05; direct V5D position-to-barcode map
-2025_DJR_301	2025	gill	CCTGAAGCAGTAAC	metadata/barcodes_v5D_384_brb.txt	reaction position L06; direct V5D position-to-barcode map
-2025_DJR_310	2025	gill	ACTATAGCTATGAC	metadata/barcodes_v5D_384_brb.txt	reaction position L07; direct V5D position-to-barcode map
-2025_DJR_311	2025	gill	AATGTCGATACGAA	metadata/barcodes_v5D_384_brb.txt	reaction position L08; direct V5D position-to-barcode map
-2025_DJR_312	2025	gill	TCTATAGAGTCGAG	metadata/barcodes_v5D_384_brb.txt	reaction position L09; direct V5D position-to-barcode map
-2025_DJR_313	2025	gill	ATGAAGTAACCAAG	metadata/barcodes_v5D_384_brb.txt	reaction position L10; direct V5D position-to-barcode map
-2025_DJR_314	2025	gill	TACGCACTGTCAGA	metadata/barcodes_v5D_384_brb.txt	reaction position L11; direct V5D position-to-barcode map
-2025_DJR_315	2025	gill	CATCGCACGTATGC	metadata/barcodes_v5D_384_brb.txt	reaction position L12; direct V5D position-to-barcode map
-2025_DJR_316	2025	gill	TATGTGACTGTACG	metadata/barcodes_v5D_384_brb.txt	reaction position N01; direct V5D position-to-barcode map
-2025_DJR_317	2025	gill	TTACATCTAGTCCA	metadata/barcodes_v5D_384_brb.txt	reaction position N02; direct V5D position-to-barcode map
-2025_DJR_318	2025	gill	TCACTGCTGACTAC	metadata/barcodes_v5D_384_brb.txt	reaction position N03; direct V5D position-to-barcode map
-2025_DJR_319	2025	gill	AAGGTCCGCACCGA	metadata/barcodes_v5D_384_brb.txt	reaction position N04; direct V5D position-to-barcode map
-2025_DJR_320	2025	gill	CTCGCTGATAGCAC	metadata/barcodes_v5D_384_brb.txt	reaction position N05; direct V5D position-to-barcode map
-2025_DJR_321	2025	gill	TTCACCAATGGAGA	metadata/barcodes_v5D_384_brb.txt	reaction position N06; direct V5D position-to-barcode map
-2025_DJR_322	2025	gill	ACAGTCATACGACA	metadata/barcodes_v5D_384_brb.txt	reaction position N07; direct V5D position-to-barcode map
-2025_DJR_323	2025	gill	ATGAGTCGTCACAG	metadata/barcodes_v5D_384_brb.txt	reaction position N08; direct V5D position-to-barcode map
-2025_DJR_324	2025	gill	CCGTTACCTACAAC	metadata/barcodes_v5D_384_brb.txt	reaction position N09; direct V5D position-to-barcode map
-2025_DJR_325	2025	gill	TACGACATCTGTAG	metadata/barcodes_v5D_384_brb.txt	reaction position N10; direct V5D position-to-barcode map
-2025_DJR_326	2025	gill	CAATGAATTCAAGG	metadata/barcodes_v5D_384_brb.txt	reaction position N11; direct V5D position-to-barcode map
-2025_DJR_327	2025	gill	ATGCGGATCTTGGA	metadata/barcodes_v5D_384_brb.txt	reaction position N12; direct V5D position-to-barcode map
-2025_DJR_328	2025	gill	CTATCGTGCTAGCG	metadata/barcodes_v5D_384_brb.txt	reaction position P01; direct V5D position-to-barcode map
-2025_DJR_329	2025	gill	ATGGAGCGGATCAA	metadata/barcodes_v5D_384_brb.txt	reaction position P02; direct V5D position-to-barcode map
-2025_DJR_373	2025	gill	CTCGAACACCGTGG	metadata/barcodes_v5D_384_brb.txt	reaction position P03; direct V5D position-to-barcode map
-2025_DJR_374	2025	gill	CAGCGACTACGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position P04; direct V5D position-to-barcode map
-2025_DJR_376	2025	gill	TTAGGTGTCTAGAA	metadata/barcodes_v5D_384_brb.txt	reaction position P05; direct V5D position-to-barcode map
-2025_DJR_377	2025	gill	TATTCCTACCATAG	metadata/barcodes_v5D_384_brb.txt	reaction position P06; direct V5D position-to-barcode map
-2025_DJR_378	2025	gill	ACCGAACGGTTGCA	metadata/barcodes_v5D_384_brb.txt	reaction position P07; direct V5D position-to-barcode map
-2025_DJR_379	2025	gill	ATCACTATGCATCG	metadata/barcodes_v5D_384_brb.txt	reaction position P08; direct V5D position-to-barcode map
-2025_DJR_380	2025	gill	CACGTGACGCACAG	metadata/barcodes_v5D_384_brb.txt	reaction position P09; direct V5D position-to-barcode map
-2025_DJR_381	2025	gill	CTGATAGTGTGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position P10; direct V5D position-to-barcode map
-2025_DJR_382	2025	gill	AACCAACGGCCGAC	metadata/barcodes_v5D_384_brb.txt	reaction position P11; direct V5D position-to-barcode map
-2025_DJR_383	2025	gill	AATTGCGAATATCC	metadata/barcodes_v5D_384_brb.txt	reaction position P12; direct V5D position-to-barcode map
-2025_DJR_384	2025	gill	CAAGACTCCATAAC	metadata/barcodes_v5D_384_brb.txt	reaction position B13; direct V5D position-to-barcode map
-2025_DJR_385	2025	gill	CAACAGGAGGCTCC	metadata/barcodes_v5D_384_brb.txt	reaction position B14; direct V5D position-to-barcode map
-2025_DJR_386	2025	gill	CATGAGTCACTACA	metadata/barcodes_v5D_384_brb.txt	reaction position B15; direct V5D position-to-barcode map
-2025_DJR_387	2025	gill	TAGACGTGGACCAG	metadata/barcodes_v5D_384_brb.txt	reaction position B16; direct V5D position-to-barcode map
-2025_DJR_388	2025	gill	AACCGCCATTCTAA	metadata/barcodes_v5D_384_brb.txt	reaction position B17; direct V5D position-to-barcode map
-2025_DJR_389	2025	gill	ACAGAGACGCATCA	metadata/barcodes_v5D_384_brb.txt	reaction position B18; direct V5D position-to-barcode map
-2025_DJR_390	2025	gill	ATACCTAAGATCCG	metadata/barcodes_v5D_384_brb.txt	reaction position B19; direct V5D position-to-barcode map
-2025_DJR_391	2025	gill	AACTTCCATAAGCC	metadata/barcodes_v5D_384_brb.txt	reaction position B20; direct V5D position-to-barcode map
-2025_DJR_392	2025	gill	ATCGTACATCTACG	metadata/barcodes_v5D_384_brb.txt	reaction position B21; direct V5D position-to-barcode map
-2025_DJR_393	2025	gill	CTGCCATGGACTGC	metadata/barcodes_v5D_384_brb.txt	reaction position B22; direct V5D position-to-barcode map
-2025_DJR_394	2025	gill	TAGACAGATCTCAC	metadata/barcodes_v5D_384_brb.txt	reaction position B23; direct V5D position-to-barcode map
-2025_DJR_396	2025	gill	ATTCACCAACTTCG	metadata/barcodes_v5D_384_brb.txt	reaction position B24; direct V5D position-to-barcode map
-2025_DJR_397	2025	gill	ATAACGGACCAACG	metadata/barcodes_v5D_384_brb.txt	reaction position D13; direct V5D position-to-barcode map
-2025_DJR_398	2025	gill	ATAGGAGAACTTGG	metadata/barcodes_v5D_384_brb.txt	reaction position D14; direct V5D position-to-barcode map
-2025_DJR_399	2025	gill	CCTAAGAGAAGCGG	metadata/barcodes_v5D_384_brb.txt	reaction position D15; direct V5D position-to-barcode map
-2025_DJR_400	2025	gill	TTCTTGAACTCTGG	metadata/barcodes_v5D_384_brb.txt	reaction position D16; direct V5D position-to-barcode map
-2025_DJR_402	2025	gill	CAACCGTCAACCGG	metadata/barcodes_v5D_384_brb.txt	reaction position D17; direct V5D position-to-barcode map
-2025_DJR_404	2025	gill	ATTGGTAACACAAC	metadata/barcodes_v5D_384_brb.txt	reaction position D18; direct V5D position-to-barcode map
-2025_DJR_405	2025	gill	AACAACAAGCCTCA	metadata/barcodes_v5D_384_brb.txt	reaction position D19; direct V5D position-to-barcode map
-2025_DJR_406	2025	gill	CCGTGTTAACCTGC	metadata/barcodes_v5D_384_brb.txt	reaction position D20; direct V5D position-to-barcode map
-2025_DJR_407	2025	gill	ACTATAGTAGCACG	metadata/barcodes_v5D_384_brb.txt	reaction position D21; direct V5D position-to-barcode map
-2025_DJR_408	2025	gill	TCTAAGGTGGTGAC	metadata/barcodes_v5D_384_brb.txt	reaction position D22; direct V5D position-to-barcode map
-2025_DJR_409	2025	gill	AATGAATGGTCCGC	metadata/barcodes_v5D_384_brb.txt	reaction position D23; direct V5D position-to-barcode map
-2025_DJR_410	2025	gill	ACCAAGGTTAGAAC	metadata/barcodes_v5D_384_brb.txt	reaction position D24; direct V5D position-to-barcode map
-2025_DJR_411	2025	gill	AAGATTGCAACGCC	metadata/barcodes_v5D_384_brb.txt	reaction position F13; direct V5D position-to-barcode map
-2025_DJR_412	2025	gill	TAGAGCATGTCACG	metadata/barcodes_v5D_384_brb.txt	reaction position F14; direct V5D position-to-barcode map
-2025_DJR_413	2025	gill	CTCCAACCGCCACA	metadata/barcodes_v5D_384_brb.txt	reaction position F15; direct V5D position-to-barcode map
-2025_DJR_414	2025	gill	ACACACTGACTCAG	metadata/barcodes_v5D_384_brb.txt	reaction position F16; direct V5D position-to-barcode map
-2025_DJR_415	2025	gill	AACAACCGCTAACC	metadata/barcodes_v5D_384_brb.txt	reaction position F17; direct V5D position-to-barcode map
-2025_DJR_416	2025	gill	AACAACCTTCCAAG	metadata/barcodes_v5D_384_brb.txt	reaction position F18; direct V5D position-to-barcode map
-2025_DJR_417	2025	gill	CTTGCGAGGCAGCA	metadata/barcodes_v5D_384_brb.txt	reaction position F19; direct V5D position-to-barcode map
-2025_DJR_418	2025	gill	CAACACAACGGCGG	metadata/barcodes_v5D_384_brb.txt	reaction position F20; direct V5D position-to-barcode map
-2025_DJR_419	2025	gill	ACTCATGATGCTGA	metadata/barcodes_v5D_384_brb.txt	reaction position F21; direct V5D position-to-barcode map
-2025_DJR_420	2025	gill	CACGACACTATCGA	metadata/barcodes_v5D_384_brb.txt	reaction position F22; direct V5D position-to-barcode map
-2025_DJR_421	2025	gill	CAACTCGGCCTCCA	metadata/barcodes_v5D_384_brb.txt	reaction position F23; direct V5D position-to-barcode map
-2025_DJR_422	2025	gill	CACGTCATAGCTGA	metadata/barcodes_v5D_384_brb.txt	reaction position F24; direct V5D position-to-barcode map
-2025_DJR_423	2025	gill	TTACAAGTGCTGAA	metadata/barcodes_v5D_384_brb.txt	reaction position H13; direct V5D position-to-barcode map
-2025_DJR_424	2025	gill	CCAACAAGAACTCG	metadata/barcodes_v5D_384_brb.txt	reaction position H14; direct V5D position-to-barcode map
-2025_DJR_425	2025	gill	CTGGATATCCACAA	metadata/barcodes_v5D_384_brb.txt	reaction position H15; direct V5D position-to-barcode map
-2025_DJR_427	2025	gill	ACTCCTGCGGTTAC	metadata/barcodes_v5D_384_brb.txt	reaction position H16; direct V5D position-to-barcode map
-2025_DJR_428	2025	gill	CCGTCTAAGAACCA	metadata/barcodes_v5D_384_brb.txt	reaction position H17; direct V5D position-to-barcode map
-2025_DJR_431	2025	gill	TAACGAATCTCCGG	metadata/barcodes_v5D_384_brb.txt	reaction position H18; direct V5D position-to-barcode map
-2025_DJR_457	2025	gill	CCTCAGATACAAGA	metadata/barcodes_v5D_384_brb.txt	reaction position H19; direct V5D position-to-barcode map
-2025_DJR_458	2025	gill	ATCTCTGACTATCA	metadata/barcodes_v5D_384_brb.txt	reaction position H20; direct V5D position-to-barcode map
-2025_DJR_459	2025	gill	AACCGGCTTCGCCA	metadata/barcodes_v5D_384_brb.txt	reaction position H21; direct V5D position-to-barcode map
-2025_DJR_461	2025	gill	AAGTAGTACATTCG	metadata/barcodes_v5D_384_brb.txt	reaction position H22; direct V5D position-to-barcode map
-2025_DJR_462	2025	gill	CAAGAAGTTAAGAC	metadata/barcodes_v5D_384_brb.txt	reaction position H23; direct V5D position-to-barcode map
-2025_DJR_463	2025	gill	CCAATAAGTTAGCA	metadata/barcodes_v5D_384_brb.txt	reaction position H24; direct V5D position-to-barcode map
-2025_DJR_464	2025	gill	TCTCGTTAAGACCA	metadata/barcodes_v5D_384_brb.txt	reaction position J13; direct V5D position-to-barcode map
-2025_DJR_465	2025	gill	AAGTTGGAGGCGCA	metadata/barcodes_v5D_384_brb.txt	reaction position J14; direct V5D position-to-barcode map
-2025_DJR_466	2025	gill	ACCGTTGGCGGTGA	metadata/barcodes_v5D_384_brb.txt	reaction position J15; direct V5D position-to-barcode map
-2025_DJR_467	2025	gill	ACAGCAGACGATGC	metadata/barcodes_v5D_384_brb.txt	reaction position J16; direct V5D position-to-barcode map
-2025_DJR_468	2025	gill	CACACACTATGACG	metadata/barcodes_v5D_384_brb.txt	reaction position J17; direct V5D position-to-barcode map
-2025_DJR_469	2025	gill	CTAACTCCGATAGA	metadata/barcodes_v5D_384_brb.txt	reaction position J18; direct V5D position-to-barcode map
-2025_DJR_470	2025	gill	AACATAACTCCTGG	metadata/barcodes_v5D_384_brb.txt	reaction position J19; direct V5D position-to-barcode map
-2025_DJR_471	2025	gill	CCTCCTAATGACGG	metadata/barcodes_v5D_384_brb.txt	reaction position J20; direct V5D position-to-barcode map
-2025_DJR_472	2025	gill	ATTAGGTGGTGAAG	metadata/barcodes_v5D_384_brb.txt	reaction position J21; direct V5D position-to-barcode map
-2025_DJR_473	2025	gill	ATGATGCTGTCAGC	metadata/barcodes_v5D_384_brb.txt	reaction position J22; direct V5D position-to-barcode map
-2025_DJR_475	2025	gill	CTACCTTCCTCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position J23; direct V5D position-to-barcode map
-2025_DJR_476	2025	gill	CAGTACGTCAGACG	metadata/barcodes_v5D_384_brb.txt	reaction position J24; direct V5D position-to-barcode map
-2025_DJR_478	2025	gill	ACAGTACCTTAACC	metadata/barcodes_v5D_384_brb.txt	reaction position L13; direct V5D position-to-barcode map
-2025_DJR_479	2025	gill	TATGGCAAGCACGG	metadata/barcodes_v5D_384_brb.txt	reaction position L14; direct V5D position-to-barcode map
-2025_DJR_481	2025	gill	TTAAGACATATGCC	metadata/barcodes_v5D_384_brb.txt	reaction position L15; direct V5D position-to-barcode map
-2025_DJR_482	2025	gill	AACAAGACCGTTAC	metadata/barcodes_v5D_384_brb.txt	reaction position L16; direct V5D position-to-barcode map
-2025_DJR_483	2025	gill	TATTAACTGGATGG	metadata/barcodes_v5D_384_brb.txt	reaction position L17; direct V5D position-to-barcode map
-2025_DJR_484	2025	gill	ACATCTACGTCTCG	metadata/barcodes_v5D_384_brb.txt	reaction position L18; direct V5D position-to-barcode map
-2025_DJR_485	2025	gill	CCTGATACACGTAA	metadata/barcodes_v5D_384_brb.txt	reaction position L19; direct V5D position-to-barcode map
-2025_DJR_486	2025	gill	TATGCTCAGATGCA	metadata/barcodes_v5D_384_brb.txt	reaction position L20; direct V5D position-to-barcode map
-2025_DJR_487	2025	gill	AAGGTGGAACACGG	metadata/barcodes_v5D_384_brb.txt	reaction position L21; direct V5D position-to-barcode map
-2025_DJR_488	2025	gill	CAGATGCTGACGCG	metadata/barcodes_v5D_384_brb.txt	reaction position L22; direct V5D position-to-barcode map
-2025_DJR_003	2025	liver	CCGCCATATTAACG	metadata/barcodes_v5D_384_brb.txt	reaction position A13; direct V5D position-to-barcode map
-2025_DJR_004	2025	liver	CCGGAACACAAGGC	metadata/barcodes_v5D_384_brb.txt	reaction position A14; direct V5D position-to-barcode map
-2025_DJR_005	2025	liver	TTAACCATAGATCC	metadata/barcodes_v5D_384_brb.txt	reaction position A15; direct V5D position-to-barcode map
-2025_DJR_006	2025	liver	AAGAACTCTTCTCC	metadata/barcodes_v5D_384_brb.txt	reaction position A16; direct V5D position-to-barcode map
-2025_DJR_007	2025	liver	AATAAGCGTCCTGC	metadata/barcodes_v5D_384_brb.txt	reaction position A17; direct V5D position-to-barcode map
-2025_DJR_009	2025	liver	CAATCCGCCAATCA	metadata/barcodes_v5D_384_brb.txt	reaction position A18; direct V5D position-to-barcode map
-2025_DJR_010	2025	liver	TTAAGCAAGTGTGG	metadata/barcodes_v5D_384_brb.txt	reaction position A19; direct V5D position-to-barcode map
-2025_DJR_011	2025	liver	AACCAACAGTGCCG	metadata/barcodes_v5D_384_brb.txt	reaction position A20; direct V5D position-to-barcode map
-2025_DJR_012	2025	liver	AAGGTCATATGCGC	metadata/barcodes_v5D_384_brb.txt	reaction position A21; direct V5D position-to-barcode map
-2025_DJR_013	2025	liver	CTGTTAGCCGCGGA	metadata/barcodes_v5D_384_brb.txt	reaction position A22; direct V5D position-to-barcode map
-2025_DJR_015	2025	liver	CAGTGGCTCTTAAG	metadata/barcodes_v5D_384_brb.txt	reaction position A23; direct V5D position-to-barcode map
-2025_DJR_016	2025	liver	AATGGACAGGCCAA	metadata/barcodes_v5D_384_brb.txt	reaction position A24; direct V5D position-to-barcode map
-2025_DJR_017	2025	liver	ATATCGTACAGCAC	metadata/barcodes_v5D_384_brb.txt	reaction position C13; direct V5D position-to-barcode map
-2025_DJR_018	2025	liver	CAGCACTGCACTAG	metadata/barcodes_v5D_384_brb.txt	reaction position C14; direct V5D position-to-barcode map
-2025_DJR_019	2025	liver	ACACGTGATAGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position C15; direct V5D position-to-barcode map
-2025_DJR_020	2025	liver	AAGGCCGCAGGAGA	metadata/barcodes_v5D_384_brb.txt	reaction position C16; direct V5D position-to-barcode map
-2025_DJR_021	2025	liver	AACAGTCAACTCAA	metadata/barcodes_v5D_384_brb.txt	reaction position C17; direct V5D position-to-barcode map
-2025_DJR_022	2025	liver	ATCGCGTATCATGC	metadata/barcodes_v5D_384_brb.txt	reaction position C18; direct V5D position-to-barcode map
-2025_DJR_023	2025	liver	TTACGCACGGTGGA	metadata/barcodes_v5D_384_brb.txt	reaction position C19; direct V5D position-to-barcode map
-2025_DJR_026	2025	liver	AATCTTAAGAGGAC	metadata/barcodes_v5D_384_brb.txt	reaction position C20; direct V5D position-to-barcode map
-2025_DJR_027	2025	liver	CCATACACCACGGC	metadata/barcodes_v5D_384_brb.txt	reaction position C21; direct V5D position-to-barcode map
-2025_DJR_029	2025	liver	ACAGCTATACACGC	metadata/barcodes_v5D_384_brb.txt	reaction position C22; direct V5D position-to-barcode map
-2025_DJR_030	2025	liver	CACACTCTCGTGCA	metadata/barcodes_v5D_384_brb.txt	reaction position C23; direct V5D position-to-barcode map
-2025_DJR_031	2025	liver	TTGATTAATCTCGG	metadata/barcodes_v5D_384_brb.txt	reaction position C24; direct V5D position-to-barcode map
-2025_DJR_032	2025	liver	CCAAGCAACAATCC	metadata/barcodes_v5D_384_brb.txt	reaction position E13; direct V5D position-to-barcode map
-2025_DJR_034	2025	liver	ATGTTAACTTCCGC	metadata/barcodes_v5D_384_brb.txt	reaction position E14; direct V5D position-to-barcode map
-2025_DJR_035	2025	liver	CATAGCTGCGCTGC	metadata/barcodes_v5D_384_brb.txt	reaction position E15; direct V5D position-to-barcode map
-2025_DJR_036	2025	liver	CAGGCCATTAATCC	metadata/barcodes_v5D_384_brb.txt	reaction position E16; direct V5D position-to-barcode map
-2025_DJR_037	2025	liver	AATGGTATCTGCCG	metadata/barcodes_v5D_384_brb.txt	reaction position E17; direct V5D position-to-barcode map
-2025_DJR_038	2025	liver	ACGGCTTGGTTAAG	metadata/barcodes_v5D_384_brb.txt	reaction position E18; direct V5D position-to-barcode map
-2025_DJR_040	2025	liver	ATGAGGTTACTTCA	metadata/barcodes_v5D_384_brb.txt	reaction position E19; direct V5D position-to-barcode map
-2025_DJR_041	2025	liver	TATGCAGTGCTACG	metadata/barcodes_v5D_384_brb.txt	reaction position E20; direct V5D position-to-barcode map
-2025_DJR_042	2025	liver	AATTAATCACGTGC	metadata/barcodes_v5D_384_brb.txt	reaction position E21; direct V5D position-to-barcode map
-2025_DJR_043	2025	liver	ACGCATGTACAGAC	metadata/barcodes_v5D_384_brb.txt	reaction position E22; direct V5D position-to-barcode map
-2025_DJR_044	2025	liver	ACATCTCTACTGCG	metadata/barcodes_v5D_384_brb.txt	reaction position E23; direct V5D position-to-barcode map
-2025_DJR_045	2025	liver	CCTACATAAGCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position E24; direct V5D position-to-barcode map
-2025_DJR_046	2025	liver	CATAGCTTACGAAC	metadata/barcodes_v5D_384_brb.txt	reaction position G13; direct V5D position-to-barcode map
-2025_DJR_047	2025	liver	TATACTAGCTGACA	metadata/barcodes_v5D_384_brb.txt	reaction position G14; direct V5D position-to-barcode map
-2025_DJR_048	2025	liver	CTAGTAGCGTATCA	metadata/barcodes_v5D_384_brb.txt	reaction position G15; direct V5D position-to-barcode map
-2025_DJR_049	2025	liver	ACAATTGAAGTGGA	metadata/barcodes_v5D_384_brb.txt	reaction position G16; direct V5D position-to-barcode map
-2025_DJR_051	2025	liver	ACACTCTGTAGAGC	metadata/barcodes_v5D_384_brb.txt	reaction position G17; direct V5D position-to-barcode map
-2025_DJR_052	2025	liver	ATGAGGCGATCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position G18; direct V5D position-to-barcode map
-2025_DJR_053	2025	liver	ATGATGTGTAGTAC	metadata/barcodes_v5D_384_brb.txt	reaction position G19; direct V5D position-to-barcode map
-2025_DJR_054	2025	liver	CTAGATCTGTAGCG	metadata/barcodes_v5D_384_brb.txt	reaction position G20; direct V5D position-to-barcode map
-2025_DJR_055	2025	liver	AAGGAGGTTCTTAC	metadata/barcodes_v5D_384_brb.txt	reaction position G21; direct V5D position-to-barcode map
-2025_DJR_056	2025	liver	ATTAATGGCCTTCA	metadata/barcodes_v5D_384_brb.txt	reaction position G22; direct V5D position-to-barcode map
-2025_DJR_057	2025	liver	ACAGTACTCTGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position G23; direct V5D position-to-barcode map
-2025_DJR_058	2025	liver	ACGACAGCTACAGA	metadata/barcodes_v5D_384_brb.txt	reaction position G24; direct V5D position-to-barcode map
-2025_DJR_059	2025	liver	TTGCATTGTGCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position I13; direct V5D position-to-barcode map
-2025_DJR_060	2025	liver	ACGAGATGTGAGCG	metadata/barcodes_v5D_384_brb.txt	reaction position I14; direct V5D position-to-barcode map
-2025_DJR_061	2025	liver	TACGTAGCATATAG	metadata/barcodes_v5D_384_brb.txt	reaction position I15; direct V5D position-to-barcode map
-2025_DJR_062	2025	liver	CTTCCTTCGCGTGA	metadata/barcodes_v5D_384_brb.txt	reaction position I16; direct V5D position-to-barcode map
-2025_DJR_063	2025	liver	TCCTAGCGCCGCAA	metadata/barcodes_v5D_384_brb.txt	reaction position I17; direct V5D position-to-barcode map
-2025_DJR_064	2025	liver	CAGTGATCGTGCGA	metadata/barcodes_v5D_384_brb.txt	reaction position I18; direct V5D position-to-barcode map
-2025_DJR_065	2025	liver	AATAGTCTCTTGGC	metadata/barcodes_v5D_384_brb.txt	reaction position I19; direct V5D position-to-barcode map
-2025_DJR_066	2025	liver	CTATATGACGACGA	metadata/barcodes_v5D_384_brb.txt	reaction position I20; direct V5D position-to-barcode map
-2025_DJR_067	2025	liver	ACAACAATGGAAGG	metadata/barcodes_v5D_384_brb.txt	reaction position I21; direct V5D position-to-barcode map
-2025_DJR_068	2025	liver	ACACGAGTCTCTAC	metadata/barcodes_v5D_384_brb.txt	reaction position I22; direct V5D position-to-barcode map
-2025_DJR_069	2025	liver	ACGCGCTATCATCA	metadata/barcodes_v5D_384_brb.txt	reaction position I23; direct V5D position-to-barcode map
-2025_DJR_070	2025	liver	TTCGTATGGTGTAA	metadata/barcodes_v5D_384_brb.txt	reaction position I24; direct V5D position-to-barcode map
-2025_DJR_071	2025	liver	CTTGCCGTATACCG	metadata/barcodes_v5D_384_brb.txt	reaction position K13; direct V5D position-to-barcode map
-2025_DJR_072	2025	liver	TTAGATGCGCTCCG	metadata/barcodes_v5D_384_brb.txt	reaction position A02; direct V5D position-to-barcode map
-2025_DJR_073	2025	liver	CAACACAGGAAGCC	metadata/barcodes_v5D_384_brb.txt	reaction position A03; direct V5D position-to-barcode map
-2025_DJR_110	2025	liver	ATAGATACTGAGAG	metadata/barcodes_v5D_384_brb.txt	reaction position A04; direct V5D position-to-barcode map
-2025_DJR_111	2025	liver	CTCATTGAGTCGCA	metadata/barcodes_v5D_384_brb.txt	reaction position A05; direct V5D position-to-barcode map
-2025_DJR_112	2025	liver	CTCAAGCTAAGCCA	metadata/barcodes_v5D_384_brb.txt	reaction position A06; direct V5D position-to-barcode map
-2025_DJR_113	2025	liver	TTCTTACGATATCC	metadata/barcodes_v5D_384_brb.txt	reaction position A07; direct V5D position-to-barcode map
-2025_DJR_114	2025	liver	CAAGAATACGTGGA	metadata/barcodes_v5D_384_brb.txt	reaction position A08; direct V5D position-to-barcode map
-2025_DJR_115	2025	liver	CCATAGCGAGTAAG	metadata/barcodes_v5D_384_brb.txt	reaction position A09; direct V5D position-to-barcode map
-2025_DJR_116	2025	liver	ATAGTAGATGCAGA	metadata/barcodes_v5D_384_brb.txt	reaction position A10; direct V5D position-to-barcode map
-2025_DJR_117	2025	liver	TTCACTCGCTCGCC	metadata/barcodes_v5D_384_brb.txt	reaction position A11; direct V5D position-to-barcode map
-2025_DJR_118	2025	liver	AACGTTAAGTCCGA	metadata/barcodes_v5D_384_brb.txt	reaction position A12; direct V5D position-to-barcode map
-2025_DJR_119	2025	liver	ACTGCACTTCCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position M13; direct V5D position-to-barcode map
-2025_DJR_120	2025	liver	TTCACGGCCTTGGA	metadata/barcodes_v5D_384_brb.txt	reaction position M14; direct V5D position-to-barcode map
-2025_DJR_121	2025	liver	CACTGCCGGTCAAC	metadata/barcodes_v5D_384_brb.txt	reaction position M15; direct V5D position-to-barcode map
-2025_DJR_147	2025	liver	AACTTGGCCACAGG	metadata/barcodes_v5D_384_brb.txt	reaction position M16; direct V5D position-to-barcode map
-2025_DJR_148	2025	liver	ATTCGCATTCCTAG	metadata/barcodes_v5D_384_brb.txt	reaction position M17; direct V5D position-to-barcode map
-2025_DJR_149	2025	liver	ATCGTTGAGGTTCC	metadata/barcodes_v5D_384_brb.txt	reaction position M18; direct V5D position-to-barcode map
-2025_DJR_150	2025	liver	CAATCTTGGCTTCA	metadata/barcodes_v5D_384_brb.txt	reaction position M19; direct V5D position-to-barcode map
-2025_DJR_152	2025	liver	TTACCACTCTTGGC	metadata/barcodes_v5D_384_brb.txt	reaction position M20; direct V5D position-to-barcode map
-2025_DJR_153	2025	liver	AACCAACTTGTTCC	metadata/barcodes_v5D_384_brb.txt	reaction position M21; direct V5D position-to-barcode map
-2025_DJR_154	2025	liver	ATAGGAATTCTGCA	metadata/barcodes_v5D_384_brb.txt	reaction position M22; direct V5D position-to-barcode map
-2025_DJR_155	2025	liver	TAATGTGCAATTGC	metadata/barcodes_v5D_384_brb.txt	reaction position M23; direct V5D position-to-barcode map
-2025_DJR_156	2025	liver	ACACACACGAGTAG	metadata/barcodes_v5D_384_brb.txt	reaction position M24; direct V5D position-to-barcode map
-2025_DJR_157	2025	liver	TCTCTCGATCTGCA	metadata/barcodes_v5D_384_brb.txt	reaction position O13; direct V5D position-to-barcode map
-2025_DJR_158	2025	liver	ATCCTCTAATAAGC	metadata/barcodes_v5D_384_brb.txt	reaction position O14; direct V5D position-to-barcode map
-2025_DJR_159	2025	liver	TCGTACAGTATCAC	metadata/barcodes_v5D_384_brb.txt	reaction position O15; direct V5D position-to-barcode map
-2025_DJR_160	2025	liver	AAGTAACTCGGCGC	metadata/barcodes_v5D_384_brb.txt	reaction position O16; direct V5D position-to-barcode map
-2025_DJR_161	2025	liver	AACTCGCGTTGAAG	metadata/barcodes_v5D_384_brb.txt	reaction position O17; direct V5D position-to-barcode map
-2025_DJR_162	2025	liver	CAATAGATAAGGAG	metadata/barcodes_v5D_384_brb.txt	reaction position O18; direct V5D position-to-barcode map
-2025_DJR_163	2025	liver	CAGTATCTAGTAGA	metadata/barcodes_v5D_384_brb.txt	reaction position O19; direct V5D position-to-barcode map
-2025_DJR_165	2025	liver	CCACCTTGATTGGC	metadata/barcodes_v5D_384_brb.txt	reaction position O20; direct V5D position-to-barcode map
-2025_DJR_166	2025	liver	ACCGCAACTAGCCA	metadata/barcodes_v5D_384_brb.txt	reaction position O21; direct V5D position-to-barcode map
-2025_DJR_167	2025	liver	TAACAAGAAGGAGA	metadata/barcodes_v5D_384_brb.txt	reaction position O22; direct V5D position-to-barcode map
-2025_DJR_168	2025	liver	AATAATGCGCTAAG	metadata/barcodes_v5D_384_brb.txt	reaction position O23; direct V5D position-to-barcode map
-2025_DJR_169	2025	liver	CTATGTCGCTCAGA	metadata/barcodes_v5D_384_brb.txt	reaction position O24; direct V5D position-to-barcode map
-2025_DJR_170	2025	liver	TTCGGACTACCTCA	metadata/barcodes_v5D_384_brb.txt	reaction position B01; direct V5D position-to-barcode map
-2025_DJR_171	2025	liver	ACTCTGAGATATCA	metadata/barcodes_v5D_384_brb.txt	reaction position B02; direct V5D position-to-barcode map
-2025_DJR_172	2025	liver	TAACTCAACGAGCA	metadata/barcodes_v5D_384_brb.txt	reaction position B03; direct V5D position-to-barcode map
-2025_DJR_173	2025	liver	ATACGCAGCGACAG	metadata/barcodes_v5D_384_brb.txt	reaction position B04; direct V5D position-to-barcode map
-2025_DJR_174	2025	liver	TCGTTAGTTAGCCG	metadata/barcodes_v5D_384_brb.txt	reaction position B05; direct V5D position-to-barcode map
-2025_DJR_175	2025	liver	ACAGCACGACTAGA	metadata/barcodes_v5D_384_brb.txt	reaction position B06; direct V5D position-to-barcode map
-2025_DJR_176	2025	liver	CAACATTAACAAGC	metadata/barcodes_v5D_384_brb.txt	reaction position B07; direct V5D position-to-barcode map
-2025_DJR_178	2025	liver	CTAATCCACTCAAC	metadata/barcodes_v5D_384_brb.txt	reaction position B08; direct V5D position-to-barcode map
-2025_DJR_179	2025	liver	ACAGTTGACCTAAC	metadata/barcodes_v5D_384_brb.txt	reaction position B09; direct V5D position-to-barcode map
-2025_DJR_180	2025	liver	CCTAATCTCACCAA	metadata/barcodes_v5D_384_brb.txt	reaction position B10; direct V5D position-to-barcode map
-2025_DJR_181	2025	liver	ATTAGACCGGTAAC	metadata/barcodes_v5D_384_brb.txt	reaction position B11; direct V5D position-to-barcode map
-2025_DJR_182	2025	liver	ACTTGTGGCAATGC	metadata/barcodes_v5D_384_brb.txt	reaction position B12; direct V5D position-to-barcode map
-2025_DJR_183	2025	liver	CCACACTCCAACCG	metadata/barcodes_v5D_384_brb.txt	reaction position D01; direct V5D position-to-barcode map
-2025_DJR_184	2025	liver	ACGGTCTCCTGAGG	metadata/barcodes_v5D_384_brb.txt	reaction position D02; direct V5D position-to-barcode map
-2025_DJR_185	2025	liver	ACGCTACGTCGTAG	metadata/barcodes_v5D_384_brb.txt	reaction position D03; direct V5D position-to-barcode map
-2025_DJR_186	2025	liver	AACTATTCTACCAC	metadata/barcodes_v5D_384_brb.txt	reaction position D04; direct V5D position-to-barcode map
-2025_DJR_187	2025	liver	CCGTCCAACGGAAG	metadata/barcodes_v5D_384_brb.txt	reaction position D05; direct V5D position-to-barcode map
-2025_DJR_188	2025	liver	AATCACACACCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position D06; direct V5D position-to-barcode map
-2025_DJR_189	2025	liver	ATATCGCACGTAGA	metadata/barcodes_v5D_384_brb.txt	reaction position D07; direct V5D position-to-barcode map
-2025_DJR_190	2025	liver	ACTGGAAGCCACAA	metadata/barcodes_v5D_384_brb.txt	reaction position D08; direct V5D position-to-barcode map
-2025_DJR_191	2025	liver	TAACTATACCGCCG	metadata/barcodes_v5D_384_brb.txt	reaction position D09; direct V5D position-to-barcode map
-2025_DJR_192	2025	liver	ATTGCATTAACCAC	metadata/barcodes_v5D_384_brb.txt	reaction position D10; direct V5D position-to-barcode map
-2025_DJR_194	2025	liver	ATTAGTTGTCCAGA	metadata/barcodes_v5D_384_brb.txt	reaction position D11; direct V5D position-to-barcode map
-2025_DJR_245	2025	liver	ACTACGCTGCATAC	metadata/barcodes_v5D_384_brb.txt	reaction position D12; direct V5D position-to-barcode map
-2025_DJR_246	2025	liver	CATTAATCCTCCAG	metadata/barcodes_v5D_384_brb.txt	reaction position F01; direct V5D position-to-barcode map
-2025_DJR_247	2025	liver	ATCGTGATCACGAG	metadata/barcodes_v5D_384_brb.txt	reaction position F02; direct V5D position-to-barcode map
-2025_DJR_248	2025	liver	ACTGACTGAGCTCA	metadata/barcodes_v5D_384_brb.txt	reaction position F03; direct V5D position-to-barcode map
-2025_DJR_249	2025	liver	AACCATTGCCGAGG	metadata/barcodes_v5D_384_brb.txt	reaction position F04; direct V5D position-to-barcode map
-2025_DJR_251	2025	liver	ACCATGGAGGATGG	metadata/barcodes_v5D_384_brb.txt	reaction position F05; direct V5D position-to-barcode map
-2025_DJR_252	2025	liver	ATATCTGTGATGAC	metadata/barcodes_v5D_384_brb.txt	reaction position F06; direct V5D position-to-barcode map
-2025_DJR_253	2025	liver	ACAGACTGCTGTAC	metadata/barcodes_v5D_384_brb.txt	reaction position F07; direct V5D position-to-barcode map
-2025_DJR_254	2025	liver	AACTCATGACCTAG	metadata/barcodes_v5D_384_brb.txt	reaction position F08; direct V5D position-to-barcode map
-2025_DJR_255	2025	liver	CCGATAGACAATAA	metadata/barcodes_v5D_384_brb.txt	reaction position F09; direct V5D position-to-barcode map
-2025_DJR_256	2025	liver	CAAGAGAATCCAAC	metadata/barcodes_v5D_384_brb.txt	reaction position F10; direct V5D position-to-barcode map
-2025_DJR_257	2025	liver	ATAATGAATTGGCC	metadata/barcodes_v5D_384_brb.txt	reaction position F11; direct V5D position-to-barcode map
-2025_DJR_258	2025	liver	ATAGAGTCGACGAC	metadata/barcodes_v5D_384_brb.txt	reaction position F12; direct V5D position-to-barcode map
-2025_DJR_260	2025	liver	ATACGGAAGCCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position H01; direct V5D position-to-barcode map
-2025_DJR_261	2025	liver	ATCAGTCTAGTACG	metadata/barcodes_v5D_384_brb.txt	reaction position H02; direct V5D position-to-barcode map
-2025_DJR_262	2025	liver	ATAAGCCAAGGTAC	metadata/barcodes_v5D_384_brb.txt	reaction position H03; direct V5D position-to-barcode map
-2025_DJR_263	2025	liver	ATCACAGTGATACA	metadata/barcodes_v5D_384_brb.txt	reaction position H04; direct V5D position-to-barcode map
-2025_DJR_264	2025	liver	CAGTCTTCCTAACC	metadata/barcodes_v5D_384_brb.txt	reaction position H05; direct V5D position-to-barcode map
-2025_DJR_265	2025	liver	ATAGACATGTCTGA	metadata/barcodes_v5D_384_brb.txt	reaction position H06; direct V5D position-to-barcode map
-2025_DJR_266	2025	liver	CCGCCAAGCTCCAA	metadata/barcodes_v5D_384_brb.txt	reaction position H07; direct V5D position-to-barcode map
-2025_DJR_267	2025	liver	ATGAACAACACCAA	metadata/barcodes_v5D_384_brb.txt	reaction position H08; direct V5D position-to-barcode map
-2025_DJR_268	2025	liver	ATCACAGCGTCTAG	metadata/barcodes_v5D_384_brb.txt	reaction position H09; direct V5D position-to-barcode map
-2025_DJR_269	2025	liver	ACCATCCAGGTCCA	metadata/barcodes_v5D_384_brb.txt	reaction position H10; direct V5D position-to-barcode map
-2025_DJR_270	2025	liver	TTGAATCAAGGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position H11; direct V5D position-to-barcode map
-2025_DJR_271	2025	liver	CAACCAAGAATAAC	metadata/barcodes_v5D_384_brb.txt	reaction position H12; direct V5D position-to-barcode map
-2025_DJR_274	2025	liver	ATGGCTTCACCTGG	metadata/barcodes_v5D_384_brb.txt	reaction position J01; direct V5D position-to-barcode map
-2025_DJR_276	2025	liver	AACCTCACGGTGCC	metadata/barcodes_v5D_384_brb.txt	reaction position J02; direct V5D position-to-barcode map
-2025_DJR_277	2025	liver	ACTCGGATGGTTGG	metadata/barcodes_v5D_384_brb.txt	reaction position J03; direct V5D position-to-barcode map
-2025_DJR_280	2025	liver	AACTCGGTTGTGAA	metadata/barcodes_v5D_384_brb.txt	reaction position J04; direct V5D position-to-barcode map
-2025_DJR_281	2025	liver	CCTTACGGATGGCG	metadata/barcodes_v5D_384_brb.txt	reaction position J05; direct V5D position-to-barcode map
-2025_DJR_283	2025	liver	CCTAACTAATATGG	metadata/barcodes_v5D_384_brb.txt	reaction position J06; direct V5D position-to-barcode map
-2025_DJR_286	2025	liver	ACAATTCGGAACCG	metadata/barcodes_v5D_384_brb.txt	reaction position J07; direct V5D position-to-barcode map
-2025_DJR_287	2025	liver	CACTGACATCGTAC	metadata/barcodes_v5D_384_brb.txt	reaction position J08; direct V5D position-to-barcode map
-2025_DJR_288	2025	liver	AAGCCGCCGTTGAC	metadata/barcodes_v5D_384_brb.txt	reaction position J09; direct V5D position-to-barcode map
-2025_DJR_289	2025	liver	ATGTGCGGAACAGA	metadata/barcodes_v5D_384_brb.txt	reaction position J10; direct V5D position-to-barcode map
-2025_DJR_290	2025	liver	AAGCCTGCCGAGAG	metadata/barcodes_v5D_384_brb.txt	reaction position J11; direct V5D position-to-barcode map
-2025_DJR_291	2025	liver	CAGGCATTCCTTAA	metadata/barcodes_v5D_384_brb.txt	reaction position J12; direct V5D position-to-barcode map
-2025_DJR_292	2025	liver	ACACAGACAGTGCG	metadata/barcodes_v5D_384_brb.txt	reaction position L01; direct V5D position-to-barcode map
-2025_DJR_293	2025	liver	CAGCACGCTGCACA	metadata/barcodes_v5D_384_brb.txt	reaction position C02; direct V5D position-to-barcode map
-2025_DJR_296	2025	liver	TTGCCAATCGGTAG	metadata/barcodes_v5D_384_brb.txt	reaction position C03; direct V5D position-to-barcode map
-2025_DJR_297	2025	liver	TACTCATAGAGTCG	metadata/barcodes_v5D_384_brb.txt	reaction position C04; direct V5D position-to-barcode map
-2025_DJR_298	2025	liver	ACAGCTGCTGTACA	metadata/barcodes_v5D_384_brb.txt	reaction position C05; direct V5D position-to-barcode map
-2025_DJR_299	2025	liver	ATCGAGTGCACTGA	metadata/barcodes_v5D_384_brb.txt	reaction position C06; direct V5D position-to-barcode map
-2025_DJR_300	2025	liver	CTGACCTGTAAGCA	metadata/barcodes_v5D_384_brb.txt	reaction position C07; direct V5D position-to-barcode map
-2025_DJR_301	2025	liver	ATGTGTCACTACGC	metadata/barcodes_v5D_384_brb.txt	reaction position C08; direct V5D position-to-barcode map
-2025_DJR_310	2025	liver	CCTTGGTAGCACGA	metadata/barcodes_v5D_384_brb.txt	reaction position C09; direct V5D position-to-barcode map
-2025_DJR_311	2025	liver	AACCGTGACATTAC	metadata/barcodes_v5D_384_brb.txt	reaction position C10; direct V5D position-to-barcode map
-2025_DJR_312	2025	liver	CTGCCTGTGGCTAA	metadata/barcodes_v5D_384_brb.txt	reaction position C11; direct V5D position-to-barcode map
-2025_DJR_313	2025	liver	ACGTACTAGAGCGA	metadata/barcodes_v5D_384_brb.txt	reaction position C12; direct V5D position-to-barcode map
-2025_DJR_314	2025	liver	TATGTGACTGTACG	metadata/barcodes_v5D_384_brb.txt	reaction position N01; direct V5D position-to-barcode map
-2025_DJR_315	2025	liver	TTACATCTAGTCCA	metadata/barcodes_v5D_384_brb.txt	reaction position N02; direct V5D position-to-barcode map
-2025_DJR_316	2025	liver	TCACTGCTGACTAC	metadata/barcodes_v5D_384_brb.txt	reaction position N03; direct V5D position-to-barcode map
-2025_DJR_317	2025	liver	AAGGTCCGCACCGA	metadata/barcodes_v5D_384_brb.txt	reaction position N04; direct V5D position-to-barcode map
-2025_DJR_318	2025	liver	CTCGCTGATAGCAC	metadata/barcodes_v5D_384_brb.txt	reaction position N05; direct V5D position-to-barcode map
-2025_DJR_319	2025	liver	TTCACCAATGGAGA	metadata/barcodes_v5D_384_brb.txt	reaction position N06; direct V5D position-to-barcode map
-2025_DJR_320	2025	liver	ACAGTCATACGACA	metadata/barcodes_v5D_384_brb.txt	reaction position N07; direct V5D position-to-barcode map
-2025_DJR_321	2025	liver	ATGAGTCGTCACAG	metadata/barcodes_v5D_384_brb.txt	reaction position N08; direct V5D position-to-barcode map
-2025_DJR_322	2025	liver	CCGTTACCTACAAC	metadata/barcodes_v5D_384_brb.txt	reaction position N09; direct V5D position-to-barcode map
-2025_DJR_323	2025	liver	TACGACATCTGTAG	metadata/barcodes_v5D_384_brb.txt	reaction position N10; direct V5D position-to-barcode map
-2025_DJR_324	2025	liver	CAATGAATTCAAGG	metadata/barcodes_v5D_384_brb.txt	reaction position N11; direct V5D position-to-barcode map
-2025_DJR_325	2025	liver	ATGCGGATCTTGGA	metadata/barcodes_v5D_384_brb.txt	reaction position N12; direct V5D position-to-barcode map
-2025_DJR_326	2025	liver	CTATCGTGCTAGCG	metadata/barcodes_v5D_384_brb.txt	reaction position P01; direct V5D position-to-barcode map
-2025_DJR_327	2025	liver	ATGGAGCGGATCAA	metadata/barcodes_v5D_384_brb.txt	reaction position P02; direct V5D position-to-barcode map
-2025_DJR_328	2025	liver	CTCGAACACCGTGG	metadata/barcodes_v5D_384_brb.txt	reaction position P03; direct V5D position-to-barcode map
-2025_DJR_329	2025	liver	CAGCGACTACGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position P04; direct V5D position-to-barcode map
-2025_DJR_373	2025	liver	TTAGGTGTCTAGAA	metadata/barcodes_v5D_384_brb.txt	reaction position P05; direct V5D position-to-barcode map
-2025_DJR_374	2025	liver	TATTCCTACCATAG	metadata/barcodes_v5D_384_brb.txt	reaction position P06; direct V5D position-to-barcode map
-2025_DJR_376	2025	liver	ACCGAACGGTTGCA	metadata/barcodes_v5D_384_brb.txt	reaction position P07; direct V5D position-to-barcode map
-2025_DJR_377	2025	liver	ATCACTATGCATCG	metadata/barcodes_v5D_384_brb.txt	reaction position P08; direct V5D position-to-barcode map
-2025_DJR_378	2025	liver	CACGTGACGCACAG	metadata/barcodes_v5D_384_brb.txt	reaction position P09; direct V5D position-to-barcode map
-2025_DJR_379	2025	liver	CTGATAGTGTGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position P10; direct V5D position-to-barcode map
-2025_DJR_380	2025	liver	AACCAACGGCCGAC	metadata/barcodes_v5D_384_brb.txt	reaction position P11; direct V5D position-to-barcode map
-2025_DJR_381	2025	liver	AATTGCGAATATCC	metadata/barcodes_v5D_384_brb.txt	reaction position P12; direct V5D position-to-barcode map
-2025_DJR_382	2025	liver	CAAGACTCCATAAC	metadata/barcodes_v5D_384_brb.txt	reaction position B13; direct V5D position-to-barcode map
-2025_DJR_383	2025	liver	CAACAGGAGGCTCC	metadata/barcodes_v5D_384_brb.txt	reaction position B14; direct V5D position-to-barcode map
-2025_DJR_384	2025	liver	CATGAGTCACTACA	metadata/barcodes_v5D_384_brb.txt	reaction position B15; direct V5D position-to-barcode map
-2025_DJR_385	2025	liver	TAGACGTGGACCAG	metadata/barcodes_v5D_384_brb.txt	reaction position B16; direct V5D position-to-barcode map
-2025_DJR_386	2025	liver	AACCGCCATTCTAA	metadata/barcodes_v5D_384_brb.txt	reaction position B17; direct V5D position-to-barcode map
-2025_DJR_387	2025	liver	ACAGAGACGCATCA	metadata/barcodes_v5D_384_brb.txt	reaction position B18; direct V5D position-to-barcode map
-2025_DJR_388	2025	liver	ATACCTAAGATCCG	metadata/barcodes_v5D_384_brb.txt	reaction position B19; direct V5D position-to-barcode map
-2025_DJR_389	2025	liver	AACTTCCATAAGCC	metadata/barcodes_v5D_384_brb.txt	reaction position B20; direct V5D position-to-barcode map
-2025_DJR_390	2025	liver	ATCGTACATCTACG	metadata/barcodes_v5D_384_brb.txt	reaction position B21; direct V5D position-to-barcode map
-2025_DJR_391	2025	liver	CTGCCATGGACTGC	metadata/barcodes_v5D_384_brb.txt	reaction position B22; direct V5D position-to-barcode map
-2025_DJR_392	2025	liver	TAGACAGATCTCAC	metadata/barcodes_v5D_384_brb.txt	reaction position B23; direct V5D position-to-barcode map
-2025_DJR_393	2025	liver	ATTCACCAACTTCG	metadata/barcodes_v5D_384_brb.txt	reaction position B24; direct V5D position-to-barcode map
-2025_DJR_394	2025	liver	ATAACGGACCAACG	metadata/barcodes_v5D_384_brb.txt	reaction position D13; direct V5D position-to-barcode map
-2025_DJR_396	2025	liver	ATAGGAGAACTTGG	metadata/barcodes_v5D_384_brb.txt	reaction position D14; direct V5D position-to-barcode map
-2025_DJR_397	2025	liver	CCTAAGAGAAGCGG	metadata/barcodes_v5D_384_brb.txt	reaction position D15; direct V5D position-to-barcode map
-2025_DJR_398	2025	liver	TTCTTGAACTCTGG	metadata/barcodes_v5D_384_brb.txt	reaction position D16; direct V5D position-to-barcode map
-2025_DJR_399	2025	liver	CAACCGTCAACCGG	metadata/barcodes_v5D_384_brb.txt	reaction position D17; direct V5D position-to-barcode map
-2025_DJR_400	2025	liver	ATTGGTAACACAAC	metadata/barcodes_v5D_384_brb.txt	reaction position D18; direct V5D position-to-barcode map
-2025_DJR_402	2025	liver	AACAACAAGCCTCA	metadata/barcodes_v5D_384_brb.txt	reaction position D19; direct V5D position-to-barcode map
-2025_DJR_404	2025	liver	CCGTGTTAACCTGC	metadata/barcodes_v5D_384_brb.txt	reaction position D20; direct V5D position-to-barcode map
-2025_DJR_405	2025	liver	ACTATAGTAGCACG	metadata/barcodes_v5D_384_brb.txt	reaction position D21; direct V5D position-to-barcode map
-2025_DJR_406	2025	liver	TCTAAGGTGGTGAC	metadata/barcodes_v5D_384_brb.txt	reaction position D22; direct V5D position-to-barcode map
-2025_DJR_407	2025	liver	AATGAATGGTCCGC	metadata/barcodes_v5D_384_brb.txt	reaction position D23; direct V5D position-to-barcode map
-2025_DJR_408	2025	liver	ACCAAGGTTAGAAC	metadata/barcodes_v5D_384_brb.txt	reaction position D24; direct V5D position-to-barcode map
-2025_DJR_409	2025	liver	AAGATTGCAACGCC	metadata/barcodes_v5D_384_brb.txt	reaction position F13; direct V5D position-to-barcode map
-2025_DJR_410	2025	liver	TAGAGCATGTCACG	metadata/barcodes_v5D_384_brb.txt	reaction position F14; direct V5D position-to-barcode map
-2025_DJR_411	2025	liver	CTCCAACCGCCACA	metadata/barcodes_v5D_384_brb.txt	reaction position F15; direct V5D position-to-barcode map
-2025_DJR_412	2025	liver	ACACACTGACTCAG	metadata/barcodes_v5D_384_brb.txt	reaction position F16; direct V5D position-to-barcode map
-2025_DJR_413	2025	liver	AACAACCGCTAACC	metadata/barcodes_v5D_384_brb.txt	reaction position F17; direct V5D position-to-barcode map
-2025_DJR_414	2025	liver	AACAACCTTCCAAG	metadata/barcodes_v5D_384_brb.txt	reaction position F18; direct V5D position-to-barcode map
-2025_DJR_415	2025	liver	CTTGCGAGGCAGCA	metadata/barcodes_v5D_384_brb.txt	reaction position F19; direct V5D position-to-barcode map
-2025_DJR_416	2025	liver	CAACACAACGGCGG	metadata/barcodes_v5D_384_brb.txt	reaction position F20; direct V5D position-to-barcode map
-2025_DJR_417	2025	liver	ACTCATGATGCTGA	metadata/barcodes_v5D_384_brb.txt	reaction position F21; direct V5D position-to-barcode map
-2025_DJR_418	2025	liver	CACGACACTATCGA	metadata/barcodes_v5D_384_brb.txt	reaction position F22; direct V5D position-to-barcode map
-2025_DJR_419	2025	liver	CAACTCGGCCTCCA	metadata/barcodes_v5D_384_brb.txt	reaction position F23; direct V5D position-to-barcode map
-2025_DJR_420	2025	liver	CACGTCATAGCTGA	metadata/barcodes_v5D_384_brb.txt	reaction position F24; direct V5D position-to-barcode map
-2025_DJR_421	2025	liver	TTACAAGTGCTGAA	metadata/barcodes_v5D_384_brb.txt	reaction position H13; direct V5D position-to-barcode map
-2025_DJR_422	2025	liver	CCAACAAGAACTCG	metadata/barcodes_v5D_384_brb.txt	reaction position H14; direct V5D position-to-barcode map
-2025_DJR_423	2025	liver	CTGGATATCCACAA	metadata/barcodes_v5D_384_brb.txt	reaction position H15; direct V5D position-to-barcode map
-2025_DJR_424	2025	liver	ACTCCTGCGGTTAC	metadata/barcodes_v5D_384_brb.txt	reaction position H16; direct V5D position-to-barcode map
-2025_DJR_425	2025	liver	CCGTCTAAGAACCA	metadata/barcodes_v5D_384_brb.txt	reaction position H17; direct V5D position-to-barcode map
-2025_DJR_427	2025	liver	TAACGAATCTCCGG	metadata/barcodes_v5D_384_brb.txt	reaction position H18; direct V5D position-to-barcode map
-2025_DJR_428	2025	liver	CCTCAGATACAAGA	metadata/barcodes_v5D_384_brb.txt	reaction position H19; direct V5D position-to-barcode map
-2025_DJR_431	2025	liver	ATCTCTGACTATCA	metadata/barcodes_v5D_384_brb.txt	reaction position H20; direct V5D position-to-barcode map
-2025_DJR_457	2025	liver	AACCGGCTTCGCCA	metadata/barcodes_v5D_384_brb.txt	reaction position H21; direct V5D position-to-barcode map
-2025_DJR_458	2025	liver	AAGTAGTACATTCG	metadata/barcodes_v5D_384_brb.txt	reaction position H22; direct V5D position-to-barcode map
-2025_DJR_459	2025	liver	CAAGAAGTTAAGAC	metadata/barcodes_v5D_384_brb.txt	reaction position H23; direct V5D position-to-barcode map
-2025_DJR_461	2025	liver	CCAATAAGTTAGCA	metadata/barcodes_v5D_384_brb.txt	reaction position H24; direct V5D position-to-barcode map
-2025_DJR_462	2025	liver	TCTCGTTAAGACCA	metadata/barcodes_v5D_384_brb.txt	reaction position J13; direct V5D position-to-barcode map
-2025_DJR_463	2025	liver	AAGTTGGAGGCGCA	metadata/barcodes_v5D_384_brb.txt	reaction position J14; direct V5D position-to-barcode map
-2025_DJR_464	2025	liver	ACCGTTGGCGGTGA	metadata/barcodes_v5D_384_brb.txt	reaction position J15; direct V5D position-to-barcode map
-2025_DJR_465	2025	liver	ACAGCAGACGATGC	metadata/barcodes_v5D_384_brb.txt	reaction position J16; direct V5D position-to-barcode map
-2025_DJR_466	2025	liver	CACACACTATGACG	metadata/barcodes_v5D_384_brb.txt	reaction position J17; direct V5D position-to-barcode map
-2025_DJR_467	2025	liver	CTAACTCCGATAGA	metadata/barcodes_v5D_384_brb.txt	reaction position J18; direct V5D position-to-barcode map
-2025_DJR_468	2025	liver	AACATAACTCCTGG	metadata/barcodes_v5D_384_brb.txt	reaction position J19; direct V5D position-to-barcode map
-2025_DJR_469	2025	liver	CCTCCTAATGACGG	metadata/barcodes_v5D_384_brb.txt	reaction position J20; direct V5D position-to-barcode map
-2025_DJR_470	2025	liver	ATTAGGTGGTGAAG	metadata/barcodes_v5D_384_brb.txt	reaction position J21; direct V5D position-to-barcode map
-2025_DJR_471	2025	liver	ATGATGCTGTCAGC	metadata/barcodes_v5D_384_brb.txt	reaction position J22; direct V5D position-to-barcode map
-2025_DJR_472	2025	liver	CTACCTTCCTCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position J23; direct V5D position-to-barcode map
-2025_DJR_473	2025	liver	CAGTACGTCAGACG	metadata/barcodes_v5D_384_brb.txt	reaction position J24; direct V5D position-to-barcode map
-2025_DJR_475	2025	liver	ACAGTACCTTAACC	metadata/barcodes_v5D_384_brb.txt	reaction position L13; direct V5D position-to-barcode map
-2025_DJR_476	2025	liver	TATGGCAAGCACGG	metadata/barcodes_v5D_384_brb.txt	reaction position L14; direct V5D position-to-barcode map
-2025_DJR_478	2025	liver	TTAAGACATATGCC	metadata/barcodes_v5D_384_brb.txt	reaction position L15; direct V5D position-to-barcode map
-2025_DJR_479	2025	liver	AACAAGACCGTTAC	metadata/barcodes_v5D_384_brb.txt	reaction position L16; direct V5D position-to-barcode map
-2025_DJR_481	2025	liver	TATTAACTGGATGG	metadata/barcodes_v5D_384_brb.txt	reaction position L17; direct V5D position-to-barcode map
-2025_DJR_482	2025	liver	ACATCTACGTCTCG	metadata/barcodes_v5D_384_brb.txt	reaction position L18; direct V5D position-to-barcode map
-2025_DJR_483	2025	liver	CCTGATACACGTAA	metadata/barcodes_v5D_384_brb.txt	reaction position L19; direct V5D position-to-barcode map
-2025_DJR_484	2025	liver	TATGCTCAGATGCA	metadata/barcodes_v5D_384_brb.txt	reaction position L20; direct V5D position-to-barcode map
-2025_DJR_485	2025	liver	AAGGTGGAACACGG	metadata/barcodes_v5D_384_brb.txt	reaction position L21; direct V5D position-to-barcode map
-2025_DJR_486	2025	liver	CAGATGCTGACGCG	metadata/barcodes_v5D_384_brb.txt	reaction position L22; direct V5D position-to-barcode map
-2025_DJR_487	2025	liver	ACATGGAGGAGAAC	metadata/barcodes_v5D_384_brb.txt	reaction position L23; direct V5D position-to-barcode map
-2025_DJR_488	2025	liver	TTCGAAGCCTCCGG	metadata/barcodes_v5D_384_brb.txt	reaction position L24; direct V5D position-to-barcode map
+2025_DJR_003	2025	gill	CCGCCATATTAACG	metadata/barcodes_v5D_384_brb.txt	reaction position A13; direct V5D position-to-barcode map; final gill pooling volume 2.44 uL
+2025_DJR_004	2025	gill	CCGGAACACAAGGC	metadata/barcodes_v5D_384_brb.txt	reaction position A14; direct V5D position-to-barcode map; final gill pooling volume 2.61 uL
+2025_DJR_005	2025	gill	TTAACCATAGATCC	metadata/barcodes_v5D_384_brb.txt	reaction position A15; direct V5D position-to-barcode map; final gill pooling volume 3.07 uL
+2025_DJR_006	2025	gill	AAGAACTCTTCTCC	metadata/barcodes_v5D_384_brb.txt	reaction position A16; direct V5D position-to-barcode map; final gill pooling volume 1.91 uL
+2025_DJR_007	2025	gill	AATAAGCGTCCTGC	metadata/barcodes_v5D_384_brb.txt	reaction position A17; direct V5D position-to-barcode map; final gill pooling volume 3.55 uL
+2025_DJR_009	2025	gill	CAATCCGCCAATCA	metadata/barcodes_v5D_384_brb.txt	reaction position A18; direct V5D position-to-barcode map; final gill pooling volume 3.79 uL
+2025_DJR_010	2025	gill	TTAAGCAAGTGTGG	metadata/barcodes_v5D_384_brb.txt	reaction position A19; direct V5D position-to-barcode map; final gill pooling volume 3.44 uL
+2025_DJR_011	2025	gill	AACCAACAGTGCCG	metadata/barcodes_v5D_384_brb.txt	reaction position A20; direct V5D position-to-barcode map; final gill pooling volume 1.98 uL
+2025_DJR_012	2025	gill	AAGGTCATATGCGC	metadata/barcodes_v5D_384_brb.txt	reaction position A21; direct V5D position-to-barcode map; final gill pooling volume 2.34 uL
+2025_DJR_013	2025	gill	CTGTTAGCCGCGGA	metadata/barcodes_v5D_384_brb.txt	reaction position A22; direct V5D position-to-barcode map; final gill pooling volume 2.81 uL
+2025_DJR_015	2025	gill	CAGTGGCTCTTAAG	metadata/barcodes_v5D_384_brb.txt	reaction position A23; direct V5D position-to-barcode map; final gill pooling volume 2.19 uL
+2025_DJR_016	2025	gill	AATGGACAGGCCAA	metadata/barcodes_v5D_384_brb.txt	reaction position A24; direct V5D position-to-barcode map; final gill pooling volume 2.09 uL
+2025_DJR_017	2025	gill	ATATCGTACAGCAC	metadata/barcodes_v5D_384_brb.txt	reaction position C13; direct V5D position-to-barcode map; final gill pooling volume 3.75 uL
+2025_DJR_018	2025	gill	CAGCACTGCACTAG	metadata/barcodes_v5D_384_brb.txt	reaction position C14; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_019	2025	gill	ACACGTGATAGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position C15; direct V5D position-to-barcode map; final gill pooling volume 2.07 uL
+2025_DJR_020	2025	gill	AAGGCCGCAGGAGA	metadata/barcodes_v5D_384_brb.txt	reaction position C16; direct V5D position-to-barcode map; final gill pooling volume 1.87 uL
+2025_DJR_021	2025	gill	AACAGTCAACTCAA	metadata/barcodes_v5D_384_brb.txt	reaction position C17; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_022	2025	gill	ATCGCGTATCATGC	metadata/barcodes_v5D_384_brb.txt	reaction position C18; direct V5D position-to-barcode map; final gill pooling volume 3.47 uL
+2025_DJR_023	2025	gill	TTACGCACGGTGGA	metadata/barcodes_v5D_384_brb.txt	reaction position C19; direct V5D position-to-barcode map; final gill pooling volume 3.58 uL
+2025_DJR_026	2025	gill	AATCTTAAGAGGAC	metadata/barcodes_v5D_384_brb.txt	reaction position C20; direct V5D position-to-barcode map; final gill pooling volume 4.7 uL
+2025_DJR_027	2025	gill	CCATACACCACGGC	metadata/barcodes_v5D_384_brb.txt	reaction position C21; direct V5D position-to-barcode map; final gill pooling volume 2.32 uL
+2025_DJR_029	2025	gill	ACAGCTATACACGC	metadata/barcodes_v5D_384_brb.txt	reaction position C22; direct V5D position-to-barcode map; final gill pooling volume 2.71 uL
+2025_DJR_030	2025	gill	CACACTCTCGTGCA	metadata/barcodes_v5D_384_brb.txt	reaction position C23; direct V5D position-to-barcode map; final gill pooling volume 4.78 uL
+2025_DJR_031	2025	gill	TTGATTAATCTCGG	metadata/barcodes_v5D_384_brb.txt	reaction position C24; direct V5D position-to-barcode map; final gill pooling volume 1.97 uL
+2025_DJR_032	2025	gill	CCAAGCAACAATCC	metadata/barcodes_v5D_384_brb.txt	reaction position E13; direct V5D position-to-barcode map; final gill pooling volume 2.24 uL
+2025_DJR_034	2025	gill	ATGTTAACTTCCGC	metadata/barcodes_v5D_384_brb.txt	reaction position E14; direct V5D position-to-barcode map; final gill pooling volume 2.62 uL
+2025_DJR_035	2025	gill	CATAGCTGCGCTGC	metadata/barcodes_v5D_384_brb.txt	reaction position E15; direct V5D position-to-barcode map; final gill pooling volume 2.97 uL
+2025_DJR_036	2025	gill	CAGGCCATTAATCC	metadata/barcodes_v5D_384_brb.txt	reaction position E16; direct V5D position-to-barcode map; final gill pooling volume 2.66 uL
+2025_DJR_037	2025	gill	AATGGTATCTGCCG	metadata/barcodes_v5D_384_brb.txt	reaction position E17; direct V5D position-to-barcode map; final gill pooling volume 2.81 uL
+2025_DJR_038	2025	gill	ACGGCTTGGTTAAG	metadata/barcodes_v5D_384_brb.txt	reaction position E18; direct V5D position-to-barcode map; final gill pooling volume 3.01 uL
+2025_DJR_040	2025	gill	ATGAGGTTACTTCA	metadata/barcodes_v5D_384_brb.txt	reaction position E19; direct V5D position-to-barcode map; final gill pooling volume 3.49 uL
+2025_DJR_041	2025	gill	TATGCAGTGCTACG	metadata/barcodes_v5D_384_brb.txt	reaction position E20; direct V5D position-to-barcode map; final gill pooling volume 2.33 uL
+2025_DJR_042	2025	gill	AATTAATCACGTGC	metadata/barcodes_v5D_384_brb.txt	reaction position E21; direct V5D position-to-barcode map; final gill pooling volume 2.61 uL
+2025_DJR_043	2025	gill	ACGCATGTACAGAC	metadata/barcodes_v5D_384_brb.txt	reaction position E22; direct V5D position-to-barcode map; final gill pooling volume 3.54 uL
+2025_DJR_044	2025	gill	ACATCTCTACTGCG	metadata/barcodes_v5D_384_brb.txt	reaction position E23; direct V5D position-to-barcode map; final gill pooling volume 1.78 uL
+2025_DJR_045	2025	gill	CCTACATAAGCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position E24; direct V5D position-to-barcode map; final gill pooling volume 3.12 uL
+2025_DJR_046	2025	gill	CATAGCTTACGAAC	metadata/barcodes_v5D_384_brb.txt	reaction position G13; direct V5D position-to-barcode map; final gill pooling volume 1.82 uL
+2025_DJR_047	2025	gill	TATACTAGCTGACA	metadata/barcodes_v5D_384_brb.txt	reaction position G14; direct V5D position-to-barcode map; final gill pooling volume 2.3 uL
+2025_DJR_048	2025	gill	CTAGTAGCGTATCA	metadata/barcodes_v5D_384_brb.txt	reaction position G15; direct V5D position-to-barcode map; final gill pooling volume 2.77 uL
+2025_DJR_049	2025	gill	ACAATTGAAGTGGA	metadata/barcodes_v5D_384_brb.txt	reaction position G16; direct V5D position-to-barcode map; final gill pooling volume 2.38 uL
+2025_DJR_051	2025	gill	ACACTCTGTAGAGC	metadata/barcodes_v5D_384_brb.txt	reaction position G17; direct V5D position-to-barcode map; final gill pooling volume 2.03 uL
+2025_DJR_052	2025	gill	ATGAGGCGATCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position G18; direct V5D position-to-barcode map; final gill pooling volume 1.12 uL
+2025_DJR_053	2025	gill	ATGATGTGTAGTAC	metadata/barcodes_v5D_384_brb.txt	reaction position G19; direct V5D position-to-barcode map; final gill pooling volume 4.73 uL
+2025_DJR_054	2025	gill	CTAGATCTGTAGCG	metadata/barcodes_v5D_384_brb.txt	reaction position G20; direct V5D position-to-barcode map; final gill pooling volume 2.04 uL
+2025_DJR_055	2025	gill	AAGGAGGTTCTTAC	metadata/barcodes_v5D_384_brb.txt	reaction position G21; direct V5D position-to-barcode map; final gill pooling volume 1.85 uL
+2025_DJR_056	2025	gill	ATTAATGGCCTTCA	metadata/barcodes_v5D_384_brb.txt	reaction position G22; direct V5D position-to-barcode map; final gill pooling volume 4.7 uL
+2025_DJR_057	2025	gill	ACAGTACTCTGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position G23; direct V5D position-to-barcode map; final gill pooling volume 4.2 uL
+2025_DJR_058	2025	gill	ACGACAGCTACAGA	metadata/barcodes_v5D_384_brb.txt	reaction position G24; direct V5D position-to-barcode map; final gill pooling volume 2.57 uL
+2025_DJR_059	2025	gill	TTGCATTGTGCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position I13; direct V5D position-to-barcode map; final gill pooling volume 1.65 uL
+2025_DJR_060	2025	gill	ACGAGATGTGAGCG	metadata/barcodes_v5D_384_brb.txt	reaction position I14; direct V5D position-to-barcode map; final gill pooling volume 2.65 uL
+2025_DJR_061	2025	gill	TACGTAGCATATAG	metadata/barcodes_v5D_384_brb.txt	reaction position I15; direct V5D position-to-barcode map; final gill pooling volume 2.34 uL
+2025_DJR_062	2025	gill	CTTCCTTCGCGTGA	metadata/barcodes_v5D_384_brb.txt	reaction position I16; direct V5D position-to-barcode map; final gill pooling volume 2.22 uL
+2025_DJR_063	2025	gill	TCCTAGCGCCGCAA	metadata/barcodes_v5D_384_brb.txt	reaction position I17; direct V5D position-to-barcode map; final gill pooling volume 2.6 uL
+2025_DJR_064	2025	gill	CAGTGATCGTGCGA	metadata/barcodes_v5D_384_brb.txt	reaction position I18; direct V5D position-to-barcode map; final gill pooling volume 2.09 uL
+2025_DJR_065	2025	gill	AATAGTCTCTTGGC	metadata/barcodes_v5D_384_brb.txt	reaction position I19; direct V5D position-to-barcode map; final gill pooling volume 2.11 uL
+2025_DJR_066	2025	gill	CTATATGACGACGA	metadata/barcodes_v5D_384_brb.txt	reaction position I20; direct V5D position-to-barcode map; final gill pooling volume 2.5 uL
+2025_DJR_067	2025	gill	ACAACAATGGAAGG	metadata/barcodes_v5D_384_brb.txt	reaction position I21; direct V5D position-to-barcode map; final gill pooling volume 2.34 uL
+2025_DJR_068	2025	gill	ACACGAGTCTCTAC	metadata/barcodes_v5D_384_brb.txt	reaction position I22; direct V5D position-to-barcode map; final gill pooling volume 2.95 uL
+2025_DJR_069	2025	gill	ACGCGCTATCATCA	metadata/barcodes_v5D_384_brb.txt	reaction position I23; direct V5D position-to-barcode map; final gill pooling volume 1.54 uL
+2025_DJR_070	2025	gill	TTCGTATGGTGTAA	metadata/barcodes_v5D_384_brb.txt	reaction position I24; direct V5D position-to-barcode map; final gill pooling volume 3.37 uL
+2025_DJR_071	2025	gill	CTTGCCGTATACCG	metadata/barcodes_v5D_384_brb.txt	reaction position K13; direct V5D position-to-barcode map; final gill pooling volume 2.16 uL
+2025_DJR_072	2025	gill	CAAGTTGGAGAGGC	metadata/barcodes_v5D_384_brb.txt	reaction position K14; direct V5D position-to-barcode map; final gill pooling volume 3.01 uL
+2025_DJR_073	2025	gill	TTACATTAGATGGC	metadata/barcodes_v5D_384_brb.txt	reaction position K15; direct V5D position-to-barcode map; final gill pooling volume 2.49 uL
+2025_DJR_110	2025	gill	AAGCCGAATCCTCC	metadata/barcodes_v5D_384_brb.txt	reaction position K16; direct V5D position-to-barcode map; final gill pooling volume 1.52 uL
+2025_DJR_111	2025	gill	ACGACACAGTACGA	metadata/barcodes_v5D_384_brb.txt	reaction position K17; direct V5D position-to-barcode map; final gill pooling volume 2.43 uL
+2025_DJR_112	2025	gill	CAGACTGATATACA	metadata/barcodes_v5D_384_brb.txt	reaction position K18; direct V5D position-to-barcode map; final gill pooling volume 2.19 uL
+2025_DJR_113	2025	gill	ATACAGCTACTAGC	metadata/barcodes_v5D_384_brb.txt	reaction position K19; direct V5D position-to-barcode map; final gill pooling volume 1.95 uL
+2025_DJR_114	2025	gill	TATGCCATGCCTAC	metadata/barcodes_v5D_384_brb.txt	reaction position K20; direct V5D position-to-barcode map; final gill pooling volume 2.41 uL
+2025_DJR_115	2025	gill	TCTCACGAGTATAC	metadata/barcodes_v5D_384_brb.txt	reaction position K21; direct V5D position-to-barcode map; final gill pooling volume 1.87 uL
+2025_DJR_116	2025	gill	ACATCCTAATACCG	metadata/barcodes_v5D_384_brb.txt	reaction position K22; direct V5D position-to-barcode map; final gill pooling volume 2.92 uL
+2025_DJR_117	2025	gill	ATCTAGTCATGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position K23; direct V5D position-to-barcode map; final gill pooling volume 2.34 uL
+2025_DJR_118	2025	gill	CCTAGAGGATAGGC	metadata/barcodes_v5D_384_brb.txt	reaction position K24; direct V5D position-to-barcode map; final gill pooling volume 2.02 uL
+2025_DJR_119	2025	gill	ACTGCACTTCCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position M13; direct V5D position-to-barcode map; final gill pooling volume 1.99 uL
+2025_DJR_120	2025	gill	TTCACGGCCTTGGA	metadata/barcodes_v5D_384_brb.txt	reaction position M14; direct V5D position-to-barcode map; final gill pooling volume 2.14 uL
+2025_DJR_121	2025	gill	CACTGCCGGTCAAC	metadata/barcodes_v5D_384_brb.txt	reaction position M15; direct V5D position-to-barcode map; final gill pooling volume 2.17 uL
+2025_DJR_147	2025	gill	AACTTGGCCACAGG	metadata/barcodes_v5D_384_brb.txt	reaction position M16; direct V5D position-to-barcode map; final gill pooling volume 1.75 uL
+2025_DJR_148	2025	gill	ATTCGCATTCCTAG	metadata/barcodes_v5D_384_brb.txt	reaction position M17; direct V5D position-to-barcode map; final gill pooling volume 4.26 uL
+2025_DJR_149	2025	gill	ATCGTTGAGGTTCC	metadata/barcodes_v5D_384_brb.txt	reaction position M18; direct V5D position-to-barcode map; final gill pooling volume 2.3 uL
+2025_DJR_150	2025	gill	CAATCTTGGCTTCA	metadata/barcodes_v5D_384_brb.txt	reaction position M19; direct V5D position-to-barcode map; final gill pooling volume 2.39 uL
+2025_DJR_152	2025	gill	TTACCACTCTTGGC	metadata/barcodes_v5D_384_brb.txt	reaction position M20; direct V5D position-to-barcode map; final gill pooling volume 2.2 uL
+2025_DJR_153	2025	gill	AACCAACTTGTTCC	metadata/barcodes_v5D_384_brb.txt	reaction position M21; direct V5D position-to-barcode map; final gill pooling volume 2.17 uL
+2025_DJR_154	2025	gill	ATAGGAATTCTGCA	metadata/barcodes_v5D_384_brb.txt	reaction position M22; direct V5D position-to-barcode map; final gill pooling volume 2.89 uL
+2025_DJR_155	2025	gill	TAATGTGCAATTGC	metadata/barcodes_v5D_384_brb.txt	reaction position M23; direct V5D position-to-barcode map; final gill pooling volume 2.02 uL
+2025_DJR_156	2025	gill	ACACACACGAGTAG	metadata/barcodes_v5D_384_brb.txt	reaction position M24; direct V5D position-to-barcode map; final gill pooling volume 2.14 uL
+2025_DJR_157	2025	gill	TCTCTCGATCTGCA	metadata/barcodes_v5D_384_brb.txt	reaction position O13; direct V5D position-to-barcode map; final gill pooling volume 1.97 uL
+2025_DJR_158	2025	gill	ATCCTCTAATAAGC	metadata/barcodes_v5D_384_brb.txt	reaction position O14; direct V5D position-to-barcode map; final gill pooling volume 3.43 uL
+2025_DJR_159	2025	gill	TCGTACAGTATCAC	metadata/barcodes_v5D_384_brb.txt	reaction position O15; direct V5D position-to-barcode map; final gill pooling volume 3.18 uL
+2025_DJR_160	2025	gill	AAGTAACTCGGCGC	metadata/barcodes_v5D_384_brb.txt	reaction position O16; direct V5D position-to-barcode map; final gill pooling volume 2.56 uL
+2025_DJR_161	2025	gill	AACTCGCGTTGAAG	metadata/barcodes_v5D_384_brb.txt	reaction position O17; direct V5D position-to-barcode map; final gill pooling volume 2.33 uL
+2025_DJR_162	2025	gill	CAATAGATAAGGAG	metadata/barcodes_v5D_384_brb.txt	reaction position O18; direct V5D position-to-barcode map; final gill pooling volume 2.28 uL
+2025_DJR_163	2025	gill	CAGTATCTAGTAGA	metadata/barcodes_v5D_384_brb.txt	reaction position O19; direct V5D position-to-barcode map; final gill pooling volume 2.49 uL
+2025_DJR_165	2025	gill	CCACCTTGATTGGC	metadata/barcodes_v5D_384_brb.txt	reaction position O20; direct V5D position-to-barcode map; final gill pooling volume 1.92 uL
+2025_DJR_166	2025	gill	ACCGCAACTAGCCA	metadata/barcodes_v5D_384_brb.txt	reaction position O21; direct V5D position-to-barcode map; final gill pooling volume 2.07 uL
+2025_DJR_167	2025	gill	TAACAAGAAGGAGA	metadata/barcodes_v5D_384_brb.txt	reaction position O22; direct V5D position-to-barcode map; final gill pooling volume 2.44 uL
+2025_DJR_168	2025	gill	AATAATGCGCTAAG	metadata/barcodes_v5D_384_brb.txt	reaction position O23; direct V5D position-to-barcode map; final gill pooling volume 2.72 uL
+2025_DJR_169	2025	gill	CTATGTCGCTCAGA	metadata/barcodes_v5D_384_brb.txt	reaction position O24; direct V5D position-to-barcode map; final gill pooling volume 2.06 uL
+2025_DJR_171	2025	gill	TTCGGACTACCTCA	metadata/barcodes_v5D_384_brb.txt	reaction position B01; direct V5D position-to-barcode map; final gill pooling volume 3.46 uL
+2025_DJR_173	2025	gill	ACTCTGAGATATCA	metadata/barcodes_v5D_384_brb.txt	reaction position B02; direct V5D position-to-barcode map; final gill pooling volume 2.43 uL
+2025_DJR_174	2025	gill	TAACTCAACGAGCA	metadata/barcodes_v5D_384_brb.txt	reaction position B03; direct V5D position-to-barcode map; final gill pooling volume 1.7 uL
+2025_DJR_175	2025	gill	ATACGCAGCGACAG	metadata/barcodes_v5D_384_brb.txt	reaction position B04; direct V5D position-to-barcode map; final gill pooling volume 1.99 uL
+2025_DJR_177	2025	gill	TCGTTAGTTAGCCG	metadata/barcodes_v5D_384_brb.txt	reaction position B05; direct V5D position-to-barcode map; final gill pooling volume 1.93 uL
+2025_DJR_178	2025	gill	ACAGCACGACTAGA	metadata/barcodes_v5D_384_brb.txt	reaction position B06; direct V5D position-to-barcode map; final gill pooling volume 2.81 uL
+2025_DJR_180	2025	gill	CAACATTAACAAGC	metadata/barcodes_v5D_384_brb.txt	reaction position B07; direct V5D position-to-barcode map; final gill pooling volume 2.37 uL
+2025_DJR_181	2025	gill	CTAATCCACTCAAC	metadata/barcodes_v5D_384_brb.txt	reaction position B08; direct V5D position-to-barcode map; final gill pooling volume 2.41 uL
+2025_DJR_182	2025	gill	ACAGTTGACCTAAC	metadata/barcodes_v5D_384_brb.txt	reaction position B09; direct V5D position-to-barcode map; final gill pooling volume 2.77 uL
+2025_DJR_183	2025	gill	CCTAATCTCACCAA	metadata/barcodes_v5D_384_brb.txt	reaction position B10; direct V5D position-to-barcode map; final gill pooling volume 2.05 uL
+2025_DJR_184	2025	gill	ATTAGACCGGTAAC	metadata/barcodes_v5D_384_brb.txt	reaction position B11; direct V5D position-to-barcode map; final gill pooling volume 2.14 uL
+2025_DJR_185	2025	gill	ACTTGTGGCAATGC	metadata/barcodes_v5D_384_brb.txt	reaction position B12; direct V5D position-to-barcode map; final gill pooling volume 2.75 uL
+2025_DJR_187	2025	gill	CCACACTCCAACCG	metadata/barcodes_v5D_384_brb.txt	reaction position D01; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_189	2025	gill	ACGGTCTCCTGAGG	metadata/barcodes_v5D_384_brb.txt	reaction position D02; direct V5D position-to-barcode map; final gill pooling volume 1.8 uL
+2025_DJR_191	2025	gill	ACGCTACGTCGTAG	metadata/barcodes_v5D_384_brb.txt	reaction position D03; direct V5D position-to-barcode map; final gill pooling volume 3.43 uL
+2025_DJR_192	2025	gill	AACTATTCTACCAC	metadata/barcodes_v5D_384_brb.txt	reaction position D04; direct V5D position-to-barcode map; final gill pooling volume 1.87 uL
+2025_DJR_193	2025	gill	CCGTCCAACGGAAG	metadata/barcodes_v5D_384_brb.txt	reaction position D05; direct V5D position-to-barcode map; final gill pooling volume 2.15 uL
+2025_DJR_194	2025	gill	AATCACACACCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position D06; direct V5D position-to-barcode map; final gill pooling volume 2.02 uL
+2025_DJR_195	2025	gill	ATATCGCACGTAGA	metadata/barcodes_v5D_384_brb.txt	reaction position D07; direct V5D position-to-barcode map; final gill pooling volume 2.98 uL
+2025_DJR_196	2025	gill	ACTGGAAGCCACAA	metadata/barcodes_v5D_384_brb.txt	reaction position D08; direct V5D position-to-barcode map; final gill pooling volume 1.72 uL
+2025_DJR_245	2025	gill	TAACTATACCGCCG	metadata/barcodes_v5D_384_brb.txt	reaction position D09; direct V5D position-to-barcode map; final gill pooling volume 2.04 uL
+2025_DJR_247	2025	gill	ATTAGTTGTCCAGA	metadata/barcodes_v5D_384_brb.txt	reaction position D11; direct V5D position-to-barcode map; final gill pooling volume 2.27 uL
+2025_DJR_248	2025	gill	ACTACGCTGCATAC	metadata/barcodes_v5D_384_brb.txt	reaction position D12; direct V5D position-to-barcode map; final gill pooling volume 1.61 uL
+2025_DJR_249	2025	gill	CATTAATCCTCCAG	metadata/barcodes_v5D_384_brb.txt	reaction position F01; direct V5D position-to-barcode map; final gill pooling volume 2.28 uL
+2025_DJR_251	2025	gill	ATCGTGATCACGAG	metadata/barcodes_v5D_384_brb.txt	reaction position F02; direct V5D position-to-barcode map; final gill pooling volume 5.85 uL
+2025_DJR_252	2025	gill	ACTGACTGAGCTCA	metadata/barcodes_v5D_384_brb.txt	reaction position F03; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_253	2025	gill	AACCATTGCCGAGG	metadata/barcodes_v5D_384_brb.txt	reaction position F04; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_254	2025	gill	ACCATGGAGGATGG	metadata/barcodes_v5D_384_brb.txt	reaction position F05; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_255	2025	gill	ATATCTGTGATGAC	metadata/barcodes_v5D_384_brb.txt	reaction position F06; direct V5D position-to-barcode map; final gill pooling volume 5.8 uL
+2025_DJR_256	2025	gill	ACAGACTGCTGTAC	metadata/barcodes_v5D_384_brb.txt	reaction position F07; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_257	2025	gill	AACTCATGACCTAG	metadata/barcodes_v5D_384_brb.txt	reaction position F08; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_258	2025	gill	CCGATAGACAATAA	metadata/barcodes_v5D_384_brb.txt	reaction position F09; direct V5D position-to-barcode map; final gill pooling volume 3.32 uL
+2025_DJR_260	2025	gill	CAAGAGAATCCAAC	metadata/barcodes_v5D_384_brb.txt	reaction position F10; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_261	2025	gill	ATAATGAATTGGCC	metadata/barcodes_v5D_384_brb.txt	reaction position F11; direct V5D position-to-barcode map; final gill pooling volume 5.45 uL
+2025_DJR_262	2025	gill	ATAGAGTCGACGAC	metadata/barcodes_v5D_384_brb.txt	reaction position F12; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_263	2025	gill	ATACGGAAGCCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position H01; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_264	2025	gill	ATCAGTCTAGTACG	metadata/barcodes_v5D_384_brb.txt	reaction position H02; direct V5D position-to-barcode map; final gill pooling volume 2.84 uL
+2025_DJR_265	2025	gill	ATAAGCCAAGGTAC	metadata/barcodes_v5D_384_brb.txt	reaction position H03; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_266	2025	gill	ATCACAGTGATACA	metadata/barcodes_v5D_384_brb.txt	reaction position H04; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_267	2025	gill	CAGTCTTCCTAACC	metadata/barcodes_v5D_384_brb.txt	reaction position H05; direct V5D position-to-barcode map; final gill pooling volume 0.54 uL
+2025_DJR_268	2025	gill	ATAGACATGTCTGA	metadata/barcodes_v5D_384_brb.txt	reaction position H06; direct V5D position-to-barcode map; final gill pooling volume 3.52 uL
+2025_DJR_269	2025	gill	CCGCCAAGCTCCAA	metadata/barcodes_v5D_384_brb.txt	reaction position H07; direct V5D position-to-barcode map; final gill pooling volume 1.76 uL
+2025_DJR_270	2025	gill	ATGAACAACACCAA	metadata/barcodes_v5D_384_brb.txt	reaction position H08; direct V5D position-to-barcode map; final gill pooling volume 1.76 uL
+2025_DJR_271	2025	gill	ATCACAGCGTCTAG	metadata/barcodes_v5D_384_brb.txt	reaction position H09; direct V5D position-to-barcode map; final gill pooling volume 1.83 uL
+2025_DJR_272	2025	gill	ACCATCCAGGTCCA	metadata/barcodes_v5D_384_brb.txt	reaction position H10; direct V5D position-to-barcode map; final gill pooling volume 2.22 uL
+2025_DJR_274	2025	gill	TTGAATCAAGGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position H11; direct V5D position-to-barcode map; final gill pooling volume 2 uL
+2025_DJR_276	2025	gill	CAACCAAGAATAAC	metadata/barcodes_v5D_384_brb.txt	reaction position H12; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_277	2025	gill	ATGGCTTCACCTGG	metadata/barcodes_v5D_384_brb.txt	reaction position J01; direct V5D position-to-barcode map; final gill pooling volume 2.01 uL
+2025_DJR_280	2025	gill	AACCTCACGGTGCC	metadata/barcodes_v5D_384_brb.txt	reaction position J02; direct V5D position-to-barcode map; final gill pooling volume 3.6 uL
+2025_DJR_281	2025	gill	ACTCGGATGGTTGG	metadata/barcodes_v5D_384_brb.txt	reaction position J03; direct V5D position-to-barcode map; final gill pooling volume 2.89 uL
+2025_DJR_283	2025	gill	AACTCGGTTGTGAA	metadata/barcodes_v5D_384_brb.txt	reaction position J04; direct V5D position-to-barcode map; final gill pooling volume 4.79 uL
+2025_DJR_286	2025	gill	CCTTACGGATGGCG	metadata/barcodes_v5D_384_brb.txt	reaction position J05; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_287	2025	gill	CCTAACTAATATGG	metadata/barcodes_v5D_384_brb.txt	reaction position J06; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_288	2025	gill	ACAATTCGGAACCG	metadata/barcodes_v5D_384_brb.txt	reaction position J07; direct V5D position-to-barcode map; final gill pooling volume 1.42 uL
+2025_DJR_289	2025	gill	CACTGACATCGTAC	metadata/barcodes_v5D_384_brb.txt	reaction position J08; direct V5D position-to-barcode map; final gill pooling volume 2.11 uL
+2025_DJR_290	2025	gill	AAGCCGCCGTTGAC	metadata/barcodes_v5D_384_brb.txt	reaction position J09; direct V5D position-to-barcode map; final gill pooling volume 1.52 uL
+2025_DJR_291	2025	gill	ATGTGCGGAACAGA	metadata/barcodes_v5D_384_brb.txt	reaction position J10; direct V5D position-to-barcode map; final gill pooling volume 2.6 uL
+2025_DJR_292	2025	gill	AAGCCTGCCGAGAG	metadata/barcodes_v5D_384_brb.txt	reaction position J11; direct V5D position-to-barcode map; final gill pooling volume 2.21 uL
+2025_DJR_293	2025	gill	CAGGCATTCCTTAA	metadata/barcodes_v5D_384_brb.txt	reaction position J12; direct V5D position-to-barcode map; final gill pooling volume 2.18 uL
+2025_DJR_296	2025	gill	ACACAGACAGTGCG	metadata/barcodes_v5D_384_brb.txt	reaction position L01; direct V5D position-to-barcode map; final gill pooling volume 3.53 uL
+2025_DJR_297	2025	gill	TTAGAATTCCGAAG	metadata/barcodes_v5D_384_brb.txt	reaction position L02; direct V5D position-to-barcode map; final gill pooling volume 2.11 uL
+2025_DJR_298	2025	gill	CTGTCGAGATCTGA	metadata/barcodes_v5D_384_brb.txt	reaction position L03; direct V5D position-to-barcode map; final gill pooling volume 2.18 uL
+2025_DJR_299	2025	gill	ACGACATCGCGCAC	metadata/barcodes_v5D_384_brb.txt	reaction position L04; direct V5D position-to-barcode map; final gill pooling volume 4.52 uL
+2025_DJR_300	2025	gill	AACCTCATCTTCAA	metadata/barcodes_v5D_384_brb.txt	reaction position L05; direct V5D position-to-barcode map; final gill pooling volume 2.38 uL
+2025_DJR_301	2025	gill	CCTGAAGCAGTAAC	metadata/barcodes_v5D_384_brb.txt	reaction position L06; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_310	2025	gill	ACTATAGCTATGAC	metadata/barcodes_v5D_384_brb.txt	reaction position L07; direct V5D position-to-barcode map; final gill pooling volume 2.48 uL
+2025_DJR_311	2025	gill	AATGTCGATACGAA	metadata/barcodes_v5D_384_brb.txt	reaction position L08; direct V5D position-to-barcode map; final gill pooling volume 1.84 uL
+2025_DJR_312	2025	gill	TCTATAGAGTCGAG	metadata/barcodes_v5D_384_brb.txt	reaction position L09; direct V5D position-to-barcode map; final gill pooling volume 1.81 uL
+2025_DJR_313	2025	gill	ATGAAGTAACCAAG	metadata/barcodes_v5D_384_brb.txt	reaction position L10; direct V5D position-to-barcode map; final gill pooling volume 1.98 uL
+2025_DJR_314	2025	gill	TACGCACTGTCAGA	metadata/barcodes_v5D_384_brb.txt	reaction position L11; direct V5D position-to-barcode map; final gill pooling volume 1.49 uL
+2025_DJR_315	2025	gill	CATCGCACGTATGC	metadata/barcodes_v5D_384_brb.txt	reaction position L12; direct V5D position-to-barcode map; final gill pooling volume 3.09 uL
+2025_DJR_316	2025	gill	TATGTGACTGTACG	metadata/barcodes_v5D_384_brb.txt	reaction position N01; direct V5D position-to-barcode map; final gill pooling volume 2.97 uL
+2025_DJR_317	2025	gill	TTACATCTAGTCCA	metadata/barcodes_v5D_384_brb.txt	reaction position N02; direct V5D position-to-barcode map; final gill pooling volume 4.44 uL
+2025_DJR_318	2025	gill	TCACTGCTGACTAC	metadata/barcodes_v5D_384_brb.txt	reaction position N03; direct V5D position-to-barcode map; final gill pooling volume 3.54 uL
+2025_DJR_319	2025	gill	AAGGTCCGCACCGA	metadata/barcodes_v5D_384_brb.txt	reaction position N04; direct V5D position-to-barcode map; final gill pooling volume 1.55 uL
+2025_DJR_320	2025	gill	CTCGCTGATAGCAC	metadata/barcodes_v5D_384_brb.txt	reaction position N05; direct V5D position-to-barcode map; final gill pooling volume 3.04 uL
+2025_DJR_321	2025	gill	TTCACCAATGGAGA	metadata/barcodes_v5D_384_brb.txt	reaction position N06; direct V5D position-to-barcode map; final gill pooling volume 1.37 uL
+2025_DJR_322	2025	gill	ACAGTCATACGACA	metadata/barcodes_v5D_384_brb.txt	reaction position N07; direct V5D position-to-barcode map; final gill pooling volume 3.21 uL
+2025_DJR_323	2025	gill	ATGAGTCGTCACAG	metadata/barcodes_v5D_384_brb.txt	reaction position N08; direct V5D position-to-barcode map; final gill pooling volume 2.68 uL
+2025_DJR_324	2025	gill	CCGTTACCTACAAC	metadata/barcodes_v5D_384_brb.txt	reaction position N09; direct V5D position-to-barcode map; final gill pooling volume 2.73 uL
+2025_DJR_325	2025	gill	TACGACATCTGTAG	metadata/barcodes_v5D_384_brb.txt	reaction position N10; direct V5D position-to-barcode map; final gill pooling volume 2.24 uL
+2025_DJR_326	2025	gill	CAATGAATTCAAGG	metadata/barcodes_v5D_384_brb.txt	reaction position N11; direct V5D position-to-barcode map; final gill pooling volume 2.43 uL
+2025_DJR_327	2025	gill	ATGCGGATCTTGGA	metadata/barcodes_v5D_384_brb.txt	reaction position N12; direct V5D position-to-barcode map; final gill pooling volume 1.53 uL
+2025_DJR_328	2025	gill	CTATCGTGCTAGCG	metadata/barcodes_v5D_384_brb.txt	reaction position P01; direct V5D position-to-barcode map; final gill pooling volume 1.92 uL
+2025_DJR_329	2025	gill	ATGGAGCGGATCAA	metadata/barcodes_v5D_384_brb.txt	reaction position P02; direct V5D position-to-barcode map; final gill pooling volume 1.63 uL
+2025_DJR_373	2025	gill	CTCGAACACCGTGG	metadata/barcodes_v5D_384_brb.txt	reaction position P03; direct V5D position-to-barcode map; final gill pooling volume 1.3 uL
+2025_DJR_374	2025	gill	CAGCGACTACGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position P04; direct V5D position-to-barcode map; final gill pooling volume 2.48 uL
+2025_DJR_376	2025	gill	TTAGGTGTCTAGAA	metadata/barcodes_v5D_384_brb.txt	reaction position P05; direct V5D position-to-barcode map; final gill pooling volume 2.16 uL
+2025_DJR_377	2025	gill	TATTCCTACCATAG	metadata/barcodes_v5D_384_brb.txt	reaction position P06; direct V5D position-to-barcode map; final gill pooling volume 1.92 uL
+2025_DJR_378	2025	gill	ACCGAACGGTTGCA	metadata/barcodes_v5D_384_brb.txt	reaction position P07; direct V5D position-to-barcode map; final gill pooling volume 3.28 uL
+2025_DJR_379	2025	gill	ATCACTATGCATCG	metadata/barcodes_v5D_384_brb.txt	reaction position P08; direct V5D position-to-barcode map; final gill pooling volume 2.39 uL
+2025_DJR_380	2025	gill	CACGTGACGCACAG	metadata/barcodes_v5D_384_brb.txt	reaction position P09; direct V5D position-to-barcode map; final gill pooling volume 1.73 uL
+2025_DJR_381	2025	gill	CTGATAGTGTGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position P10; direct V5D position-to-barcode map; final gill pooling volume 4.35 uL
+2025_DJR_382	2025	gill	AACCAACGGCCGAC	metadata/barcodes_v5D_384_brb.txt	reaction position P11; direct V5D position-to-barcode map; final gill pooling volume 2.26 uL
+2025_DJR_383	2025	gill	AATTGCGAATATCC	metadata/barcodes_v5D_384_brb.txt	reaction position P12; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_384	2025	gill	CAAGACTCCATAAC	metadata/barcodes_v5D_384_brb.txt	reaction position B13; direct V5D position-to-barcode map; final gill pooling volume 2.62 uL
+2025_DJR_385	2025	gill	CAACAGGAGGCTCC	metadata/barcodes_v5D_384_brb.txt	reaction position B14; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_386	2025	gill	CATGAGTCACTACA	metadata/barcodes_v5D_384_brb.txt	reaction position B15; direct V5D position-to-barcode map; final gill pooling volume 2.15 uL
+2025_DJR_387	2025	gill	TAGACGTGGACCAG	metadata/barcodes_v5D_384_brb.txt	reaction position B16; direct V5D position-to-barcode map; final gill pooling volume 2.71 uL
+2025_DJR_388	2025	gill	AACCGCCATTCTAA	metadata/barcodes_v5D_384_brb.txt	reaction position B17; direct V5D position-to-barcode map; final gill pooling volume 5.11 uL
+2025_DJR_389	2025	gill	ACAGAGACGCATCA	metadata/barcodes_v5D_384_brb.txt	reaction position B18; direct V5D position-to-barcode map; final gill pooling volume 4.67 uL
+2025_DJR_390	2025	gill	ATACCTAAGATCCG	metadata/barcodes_v5D_384_brb.txt	reaction position B19; direct V5D position-to-barcode map; final gill pooling volume 2.19 uL
+2025_DJR_391	2025	gill	AACTTCCATAAGCC	metadata/barcodes_v5D_384_brb.txt	reaction position B20; direct V5D position-to-barcode map; final gill pooling volume 2.59 uL
+2025_DJR_392	2025	gill	ATCGTACATCTACG	metadata/barcodes_v5D_384_brb.txt	reaction position B21; direct V5D position-to-barcode map; final gill pooling volume 3.69 uL
+2025_DJR_393	2025	gill	CTGCCATGGACTGC	metadata/barcodes_v5D_384_brb.txt	reaction position B22; direct V5D position-to-barcode map; final gill pooling volume 2.79 uL
+2025_DJR_394	2025	gill	TAGACAGATCTCAC	metadata/barcodes_v5D_384_brb.txt	reaction position B23; direct V5D position-to-barcode map; final gill pooling volume 3.31 uL
+2025_DJR_396	2025	gill	ATTCACCAACTTCG	metadata/barcodes_v5D_384_brb.txt	reaction position B24; direct V5D position-to-barcode map; final gill pooling volume 4.59 uL
+2025_DJR_397	2025	gill	ATAACGGACCAACG	metadata/barcodes_v5D_384_brb.txt	reaction position D13; direct V5D position-to-barcode map; final gill pooling volume 3.26 uL
+2025_DJR_398	2025	gill	ATAGGAGAACTTGG	metadata/barcodes_v5D_384_brb.txt	reaction position D14; direct V5D position-to-barcode map; final gill pooling volume 5.88 uL
+2025_DJR_399	2025	gill	CCTAAGAGAAGCGG	metadata/barcodes_v5D_384_brb.txt	reaction position D15; direct V5D position-to-barcode map; final gill pooling volume 2.92 uL
+2025_DJR_400	2025	gill	TTCTTGAACTCTGG	metadata/barcodes_v5D_384_brb.txt	reaction position D16; direct V5D position-to-barcode map; final gill pooling volume 3.43 uL
+2025_DJR_402	2025	gill	CAACCGTCAACCGG	metadata/barcodes_v5D_384_brb.txt	reaction position D17; direct V5D position-to-barcode map; final gill pooling volume 2.6 uL
+2025_DJR_404	2025	gill	ATTGGTAACACAAC	metadata/barcodes_v5D_384_brb.txt	reaction position D18; direct V5D position-to-barcode map; final gill pooling volume 3.65 uL
+2025_DJR_405	2025	gill	AACAACAAGCCTCA	metadata/barcodes_v5D_384_brb.txt	reaction position D19; direct V5D position-to-barcode map; final gill pooling volume 2.44 uL
+2025_DJR_406	2025	gill	CCGTGTTAACCTGC	metadata/barcodes_v5D_384_brb.txt	reaction position D20; direct V5D position-to-barcode map; final gill pooling volume 3.1 uL
+2025_DJR_407	2025	gill	ACTATAGTAGCACG	metadata/barcodes_v5D_384_brb.txt	reaction position D21; direct V5D position-to-barcode map; final gill pooling volume 4.67 uL
+2025_DJR_408	2025	gill	TCTAAGGTGGTGAC	metadata/barcodes_v5D_384_brb.txt	reaction position D22; direct V5D position-to-barcode map; final gill pooling volume 2.35 uL
+2025_DJR_409	2025	gill	AATGAATGGTCCGC	metadata/barcodes_v5D_384_brb.txt	reaction position D23; direct V5D position-to-barcode map; final gill pooling volume 2.33 uL
+2025_DJR_410	2025	gill	ACCAAGGTTAGAAC	metadata/barcodes_v5D_384_brb.txt	reaction position D24; direct V5D position-to-barcode map; final gill pooling volume 2.82 uL
+2025_DJR_411	2025	gill	AAGATTGCAACGCC	metadata/barcodes_v5D_384_brb.txt	reaction position F13; direct V5D position-to-barcode map; final gill pooling volume 2.34 uL
+2025_DJR_412	2025	gill	TAGAGCATGTCACG	metadata/barcodes_v5D_384_brb.txt	reaction position F14; direct V5D position-to-barcode map; final gill pooling volume 3.38 uL
+2025_DJR_414	2025	gill	ACACACTGACTCAG	metadata/barcodes_v5D_384_brb.txt	reaction position F16; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_417	2025	gill	CTTGCGAGGCAGCA	metadata/barcodes_v5D_384_brb.txt	reaction position F19; direct V5D position-to-barcode map; final gill pooling volume 2.48 uL
+2025_DJR_418	2025	gill	CAACACAACGGCGG	metadata/barcodes_v5D_384_brb.txt	reaction position F20; direct V5D position-to-barcode map; final gill pooling volume 2.23 uL
+2025_DJR_420	2025	gill	CACGACACTATCGA	metadata/barcodes_v5D_384_brb.txt	reaction position F22; direct V5D position-to-barcode map; final gill pooling volume 1.7 uL
+2025_DJR_422	2025	gill	CACGTCATAGCTGA	metadata/barcodes_v5D_384_brb.txt	reaction position F24; direct V5D position-to-barcode map; final gill pooling volume 2.48 uL
+2025_DJR_424	2025	gill	CCAACAAGAACTCG	metadata/barcodes_v5D_384_brb.txt	reaction position H14; direct V5D position-to-barcode map; final gill pooling volume 3.62 uL
+2025_DJR_425	2025	gill	CTGGATATCCACAA	metadata/barcodes_v5D_384_brb.txt	reaction position H15; direct V5D position-to-barcode map; final gill pooling volume 2.99 uL
+2025_DJR_427	2025	gill	ACTCCTGCGGTTAC	metadata/barcodes_v5D_384_brb.txt	reaction position H16; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_428	2025	gill	CCGTCTAAGAACCA	metadata/barcodes_v5D_384_brb.txt	reaction position H17; direct V5D position-to-barcode map; final gill pooling volume 1.92 uL
+2025_DJR_431	2025	gill	TAACGAATCTCCGG	metadata/barcodes_v5D_384_brb.txt	reaction position H18; direct V5D position-to-barcode map; final gill pooling volume 3.18 uL
+2025_DJR_457	2025	gill	CCTCAGATACAAGA	metadata/barcodes_v5D_384_brb.txt	reaction position H19; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_458	2025	gill	ATCTCTGACTATCA	metadata/barcodes_v5D_384_brb.txt	reaction position H20; direct V5D position-to-barcode map; final gill pooling volume 4.46 uL
+2025_DJR_459	2025	gill	AACCGGCTTCGCCA	metadata/barcodes_v5D_384_brb.txt	reaction position H21; direct V5D position-to-barcode map; final gill pooling volume 6 uL
+2025_DJR_461	2025	gill	AAGTAGTACATTCG	metadata/barcodes_v5D_384_brb.txt	reaction position H22; direct V5D position-to-barcode map; final gill pooling volume 2.65 uL
+2025_DJR_462	2025	gill	CAAGAAGTTAAGAC	metadata/barcodes_v5D_384_brb.txt	reaction position H23; direct V5D position-to-barcode map; final gill pooling volume 2.88 uL
+2025_DJR_463	2025	gill	CCAATAAGTTAGCA	metadata/barcodes_v5D_384_brb.txt	reaction position H24; direct V5D position-to-barcode map; final gill pooling volume 2.1 uL
+2025_DJR_464	2025	gill	TCTCGTTAAGACCA	metadata/barcodes_v5D_384_brb.txt	reaction position J13; direct V5D position-to-barcode map; final gill pooling volume 2.03 uL
+2025_DJR_465	2025	gill	AAGTTGGAGGCGCA	metadata/barcodes_v5D_384_brb.txt	reaction position J14; direct V5D position-to-barcode map; final gill pooling volume 2.22 uL
+2025_DJR_466	2025	gill	ACCGTTGGCGGTGA	metadata/barcodes_v5D_384_brb.txt	reaction position J15; direct V5D position-to-barcode map; final gill pooling volume 2.71 uL
+2025_DJR_467	2025	gill	ACAGCAGACGATGC	metadata/barcodes_v5D_384_brb.txt	reaction position J16; direct V5D position-to-barcode map; final gill pooling volume 3.38 uL
+2025_DJR_468	2025	gill	CACACACTATGACG	metadata/barcodes_v5D_384_brb.txt	reaction position J17; direct V5D position-to-barcode map; final gill pooling volume 2.63 uL
+2025_DJR_469	2025	gill	CTAACTCCGATAGA	metadata/barcodes_v5D_384_brb.txt	reaction position J18; direct V5D position-to-barcode map; final gill pooling volume 2.03 uL
+2025_DJR_470	2025	gill	AACATAACTCCTGG	metadata/barcodes_v5D_384_brb.txt	reaction position J19; direct V5D position-to-barcode map; final gill pooling volume 3.49 uL
+2025_DJR_471	2025	gill	CCTCCTAATGACGG	metadata/barcodes_v5D_384_brb.txt	reaction position J20; direct V5D position-to-barcode map; final gill pooling volume 2.13 uL
+2025_DJR_472	2025	gill	ATTAGGTGGTGAAG	metadata/barcodes_v5D_384_brb.txt	reaction position J21; direct V5D position-to-barcode map; final gill pooling volume 1.89 uL
+2025_DJR_473	2025	gill	ATGATGCTGTCAGC	metadata/barcodes_v5D_384_brb.txt	reaction position J22; direct V5D position-to-barcode map; final gill pooling volume 1.73 uL
+2025_DJR_475	2025	gill	CTACCTTCCTCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position J23; direct V5D position-to-barcode map; final gill pooling volume 4.58 uL
+2025_DJR_476	2025	gill	CAGTACGTCAGACG	metadata/barcodes_v5D_384_brb.txt	reaction position J24; direct V5D position-to-barcode map; final gill pooling volume 1.85 uL
+2025_DJR_478	2025	gill	ACAGTACCTTAACC	metadata/barcodes_v5D_384_brb.txt	reaction position L13; direct V5D position-to-barcode map; final gill pooling volume 2.6 uL
+2025_DJR_479	2025	gill	TATGGCAAGCACGG	metadata/barcodes_v5D_384_brb.txt	reaction position L14; direct V5D position-to-barcode map; final gill pooling volume 2.36 uL
+2025_DJR_481	2025	gill	TTAAGACATATGCC	metadata/barcodes_v5D_384_brb.txt	reaction position L15; direct V5D position-to-barcode map; final gill pooling volume 2.29 uL
+2025_DJR_482	2025	gill	AACAAGACCGTTAC	metadata/barcodes_v5D_384_brb.txt	reaction position L16; direct V5D position-to-barcode map; final gill pooling volume 2.7 uL
+2025_DJR_483	2025	gill	TATTAACTGGATGG	metadata/barcodes_v5D_384_brb.txt	reaction position L17; direct V5D position-to-barcode map; final gill pooling volume 2.49 uL
+2025_DJR_484	2025	gill	ACATCTACGTCTCG	metadata/barcodes_v5D_384_brb.txt	reaction position L18; direct V5D position-to-barcode map; final gill pooling volume 2.6 uL
+2025_DJR_485	2025	gill	CCTGATACACGTAA	metadata/barcodes_v5D_384_brb.txt	reaction position L19; direct V5D position-to-barcode map; final gill pooling volume 4.44 uL
+2025_DJR_486	2025	gill	TATGCTCAGATGCA	metadata/barcodes_v5D_384_brb.txt	reaction position L20; direct V5D position-to-barcode map; final gill pooling volume 2.36 uL
+2025_DJR_487	2025	gill	AAGGTGGAACACGG	metadata/barcodes_v5D_384_brb.txt	reaction position L21; direct V5D position-to-barcode map; final gill pooling volume 2.21 uL
+2025_DJR_488	2025	gill	CAGATGCTGACGCG	metadata/barcodes_v5D_384_brb.txt	reaction position L22; direct V5D position-to-barcode map; final gill pooling volume 3.42 uL
+2025_DJR_003	2025	liver	CCGCCATATTAACG	metadata/barcodes_v5D_384_brb.txt	reaction position A13; direct V5D position-to-barcode map; final liver pooling volume 2.02 uL
+2025_DJR_004	2025	liver	CCGGAACACAAGGC	metadata/barcodes_v5D_384_brb.txt	reaction position A14; direct V5D position-to-barcode map; final liver pooling volume 2.24 uL
+2025_DJR_005	2025	liver	TTAACCATAGATCC	metadata/barcodes_v5D_384_brb.txt	reaction position A15; direct V5D position-to-barcode map; final liver pooling volume 2.39 uL
+2025_DJR_006	2025	liver	AAGAACTCTTCTCC	metadata/barcodes_v5D_384_brb.txt	reaction position A16; direct V5D position-to-barcode map; final liver pooling volume 1.85 uL
+2025_DJR_007	2025	liver	AATAAGCGTCCTGC	metadata/barcodes_v5D_384_brb.txt	reaction position A17; direct V5D position-to-barcode map; final liver pooling volume 3.98 uL
+2025_DJR_009	2025	liver	CAATCCGCCAATCA	metadata/barcodes_v5D_384_brb.txt	reaction position A18; direct V5D position-to-barcode map; final liver pooling volume 1.82 uL
+2025_DJR_010	2025	liver	TTAAGCAAGTGTGG	metadata/barcodes_v5D_384_brb.txt	reaction position A19; direct V5D position-to-barcode map; final liver pooling volume 3.4 uL
+2025_DJR_011	2025	liver	AACCAACAGTGCCG	metadata/barcodes_v5D_384_brb.txt	reaction position A20; direct V5D position-to-barcode map; final liver pooling volume 1.59 uL
+2025_DJR_012	2025	liver	AAGGTCATATGCGC	metadata/barcodes_v5D_384_brb.txt	reaction position A21; direct V5D position-to-barcode map; final liver pooling volume 1.86 uL
+2025_DJR_013	2025	liver	CTGTTAGCCGCGGA	metadata/barcodes_v5D_384_brb.txt	reaction position A22; direct V5D position-to-barcode map; final liver pooling volume 2.2 uL
+2025_DJR_015	2025	liver	CAGTGGCTCTTAAG	metadata/barcodes_v5D_384_brb.txt	reaction position A23; direct V5D position-to-barcode map; final liver pooling volume 2.67 uL
+2025_DJR_016	2025	liver	AATGGACAGGCCAA	metadata/barcodes_v5D_384_brb.txt	reaction position A24; direct V5D position-to-barcode map; final liver pooling volume 1.92 uL
+2025_DJR_017	2025	liver	ATATCGTACAGCAC	metadata/barcodes_v5D_384_brb.txt	reaction position C13; direct V5D position-to-barcode map; final liver pooling volume 2.88 uL
+2025_DJR_018	2025	liver	CAGCACTGCACTAG	metadata/barcodes_v5D_384_brb.txt	reaction position C14; direct V5D position-to-barcode map; final liver pooling volume 2.1 uL
+2025_DJR_019	2025	liver	ACACGTGATAGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position C15; direct V5D position-to-barcode map; final liver pooling volume 2.74 uL
+2025_DJR_020	2025	liver	AAGGCCGCAGGAGA	metadata/barcodes_v5D_384_brb.txt	reaction position C16; direct V5D position-to-barcode map; final liver pooling volume 1.53 uL
+2025_DJR_021	2025	liver	AACAGTCAACTCAA	metadata/barcodes_v5D_384_brb.txt	reaction position C17; direct V5D position-to-barcode map; final liver pooling volume 1.88 uL
+2025_DJR_022	2025	liver	ATCGCGTATCATGC	metadata/barcodes_v5D_384_brb.txt	reaction position C18; direct V5D position-to-barcode map; final liver pooling volume 2.56 uL
+2025_DJR_023	2025	liver	TTACGCACGGTGGA	metadata/barcodes_v5D_384_brb.txt	reaction position C19; direct V5D position-to-barcode map; final liver pooling volume 1.75 uL
+2025_DJR_026	2025	liver	AATCTTAAGAGGAC	metadata/barcodes_v5D_384_brb.txt	reaction position C20; direct V5D position-to-barcode map; final liver pooling volume 2.31 uL
+2025_DJR_027	2025	liver	CCATACACCACGGC	metadata/barcodes_v5D_384_brb.txt	reaction position C21; direct V5D position-to-barcode map; final liver pooling volume 1.28 uL
+2025_DJR_029	2025	liver	ACAGCTATACACGC	metadata/barcodes_v5D_384_brb.txt	reaction position C22; direct V5D position-to-barcode map; final liver pooling volume 2.86 uL
+2025_DJR_030	2025	liver	CACACTCTCGTGCA	metadata/barcodes_v5D_384_brb.txt	reaction position C23; direct V5D position-to-barcode map; final liver pooling volume 6 uL
+2025_DJR_031	2025	liver	TTGATTAATCTCGG	metadata/barcodes_v5D_384_brb.txt	reaction position C24; direct V5D position-to-barcode map; final liver pooling volume 4.1 uL
+2025_DJR_032	2025	liver	CCAAGCAACAATCC	metadata/barcodes_v5D_384_brb.txt	reaction position E13; direct V5D position-to-barcode map; final liver pooling volume 2.83 uL
+2025_DJR_034	2025	liver	ATGTTAACTTCCGC	metadata/barcodes_v5D_384_brb.txt	reaction position E14; direct V5D position-to-barcode map; final liver pooling volume 1.62 uL
+2025_DJR_035	2025	liver	CATAGCTGCGCTGC	metadata/barcodes_v5D_384_brb.txt	reaction position E15; direct V5D position-to-barcode map; final liver pooling volume 1.95 uL
+2025_DJR_036	2025	liver	CAGGCCATTAATCC	metadata/barcodes_v5D_384_brb.txt	reaction position E16; direct V5D position-to-barcode map; final liver pooling volume 1.99 uL
+2025_DJR_037	2025	liver	AATGGTATCTGCCG	metadata/barcodes_v5D_384_brb.txt	reaction position E17; direct V5D position-to-barcode map; final liver pooling volume 2.12 uL
+2025_DJR_038	2025	liver	ACGGCTTGGTTAAG	metadata/barcodes_v5D_384_brb.txt	reaction position E18; direct V5D position-to-barcode map; final liver pooling volume 1.74 uL
+2025_DJR_040	2025	liver	ATGAGGTTACTTCA	metadata/barcodes_v5D_384_brb.txt	reaction position E19; direct V5D position-to-barcode map; final liver pooling volume 2.41 uL
+2025_DJR_041	2025	liver	TATGCAGTGCTACG	metadata/barcodes_v5D_384_brb.txt	reaction position E20; direct V5D position-to-barcode map; final liver pooling volume 1.61 uL
+2025_DJR_042	2025	liver	AATTAATCACGTGC	metadata/barcodes_v5D_384_brb.txt	reaction position E21; direct V5D position-to-barcode map; final liver pooling volume 4.8 uL
+2025_DJR_043	2025	liver	ACGCATGTACAGAC	metadata/barcodes_v5D_384_brb.txt	reaction position E22; direct V5D position-to-barcode map; final liver pooling volume 6 uL
+2025_DJR_044	2025	liver	ACATCTCTACTGCG	metadata/barcodes_v5D_384_brb.txt	reaction position E23; direct V5D position-to-barcode map; final liver pooling volume 1.34 uL
+2025_DJR_045	2025	liver	CCTACATAAGCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position E24; direct V5D position-to-barcode map; final liver pooling volume 2.38 uL
+2025_DJR_046	2025	liver	CATAGCTTACGAAC	metadata/barcodes_v5D_384_brb.txt	reaction position G13; direct V5D position-to-barcode map; final liver pooling volume 1.43 uL
+2025_DJR_047	2025	liver	TATACTAGCTGACA	metadata/barcodes_v5D_384_brb.txt	reaction position G14; direct V5D position-to-barcode map; final liver pooling volume 1.45 uL
+2025_DJR_048	2025	liver	CTAGTAGCGTATCA	metadata/barcodes_v5D_384_brb.txt	reaction position G15; direct V5D position-to-barcode map; final liver pooling volume 3.55 uL
+2025_DJR_049	2025	liver	ACAATTGAAGTGGA	metadata/barcodes_v5D_384_brb.txt	reaction position G16; direct V5D position-to-barcode map; final liver pooling volume 1.33 uL
+2025_DJR_051	2025	liver	ACACTCTGTAGAGC	metadata/barcodes_v5D_384_brb.txt	reaction position G17; direct V5D position-to-barcode map; final liver pooling volume 3.57 uL
+2025_DJR_052	2025	liver	ATGAGGCGATCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position G18; direct V5D position-to-barcode map; final liver pooling volume 3.4 uL
+2025_DJR_053	2025	liver	ATGATGTGTAGTAC	metadata/barcodes_v5D_384_brb.txt	reaction position G19; direct V5D position-to-barcode map; final liver pooling volume 5.09 uL
+2025_DJR_054	2025	liver	CTAGATCTGTAGCG	metadata/barcodes_v5D_384_brb.txt	reaction position G20; direct V5D position-to-barcode map; final liver pooling volume 3.44 uL
+2025_DJR_055	2025	liver	AAGGAGGTTCTTAC	metadata/barcodes_v5D_384_brb.txt	reaction position G21; direct V5D position-to-barcode map; final liver pooling volume 3.54 uL
+2025_DJR_056	2025	liver	ATTAATGGCCTTCA	metadata/barcodes_v5D_384_brb.txt	reaction position G22; direct V5D position-to-barcode map; final liver pooling volume 2.87 uL
+2025_DJR_057	2025	liver	ACAGTACTCTGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position G23; direct V5D position-to-barcode map; final liver pooling volume 3.91 uL
+2025_DJR_058	2025	liver	ACGACAGCTACAGA	metadata/barcodes_v5D_384_brb.txt	reaction position G24; direct V5D position-to-barcode map; final liver pooling volume 1.81 uL
+2025_DJR_059	2025	liver	TTGCATTGTGCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position I13; direct V5D position-to-barcode map; final liver pooling volume 1.25 uL
+2025_DJR_060	2025	liver	ACGAGATGTGAGCG	metadata/barcodes_v5D_384_brb.txt	reaction position I14; direct V5D position-to-barcode map; final liver pooling volume 4.55 uL
+2025_DJR_061	2025	liver	TACGTAGCATATAG	metadata/barcodes_v5D_384_brb.txt	reaction position I15; direct V5D position-to-barcode map; final liver pooling volume 3.81 uL
+2025_DJR_062	2025	liver	CTTCCTTCGCGTGA	metadata/barcodes_v5D_384_brb.txt	reaction position I16; direct V5D position-to-barcode map; final liver pooling volume 5.75 uL
+2025_DJR_063	2025	liver	TCCTAGCGCCGCAA	metadata/barcodes_v5D_384_brb.txt	reaction position I17; direct V5D position-to-barcode map; final liver pooling volume 6 uL
+2025_DJR_064	2025	liver	CAGTGATCGTGCGA	metadata/barcodes_v5D_384_brb.txt	reaction position I18; direct V5D position-to-barcode map; final liver pooling volume 4.99 uL
+2025_DJR_065	2025	liver	AATAGTCTCTTGGC	metadata/barcodes_v5D_384_brb.txt	reaction position I19; direct V5D position-to-barcode map; final liver pooling volume 3.59 uL
+2025_DJR_066	2025	liver	CTATATGACGACGA	metadata/barcodes_v5D_384_brb.txt	reaction position I20; direct V5D position-to-barcode map; final liver pooling volume 2.65 uL
+2025_DJR_067	2025	liver	ACAACAATGGAAGG	metadata/barcodes_v5D_384_brb.txt	reaction position I21; direct V5D position-to-barcode map; final liver pooling volume 5.21 uL
+2025_DJR_068	2025	liver	ACACGAGTCTCTAC	metadata/barcodes_v5D_384_brb.txt	reaction position I22; direct V5D position-to-barcode map; final liver pooling volume 2.59 uL
+2025_DJR_069	2025	liver	ACGCGCTATCATCA	metadata/barcodes_v5D_384_brb.txt	reaction position I23; direct V5D position-to-barcode map; final liver pooling volume 4.55 uL
+2025_DJR_070	2025	liver	TTCGTATGGTGTAA	metadata/barcodes_v5D_384_brb.txt	reaction position I24; direct V5D position-to-barcode map; final liver pooling volume 4.33 uL
+2025_DJR_071	2025	liver	CTTGCCGTATACCG	metadata/barcodes_v5D_384_brb.txt	reaction position K13; direct V5D position-to-barcode map; final liver pooling volume 2.16 uL
+2025_DJR_072	2025	liver	TTAGATGCGCTCCG	metadata/barcodes_v5D_384_brb.txt	reaction position A02; direct V5D position-to-barcode map; final liver pooling volume 1.69 uL
+2025_DJR_073	2025	liver	CAACACAGGAAGCC	metadata/barcodes_v5D_384_brb.txt	reaction position A03; direct V5D position-to-barcode map; final liver pooling volume 3.12 uL
+2025_DJR_110	2025	liver	ATAGATACTGAGAG	metadata/barcodes_v5D_384_brb.txt	reaction position A04; direct V5D position-to-barcode map; final liver pooling volume 3.18 uL
+2025_DJR_111	2025	liver	CTCATTGAGTCGCA	metadata/barcodes_v5D_384_brb.txt	reaction position A05; direct V5D position-to-barcode map; final liver pooling volume 4.08 uL
+2025_DJR_112	2025	liver	CTCAAGCTAAGCCA	metadata/barcodes_v5D_384_brb.txt	reaction position A06; direct V5D position-to-barcode map; final liver pooling volume 2.24 uL
+2025_DJR_113	2025	liver	TTCTTACGATATCC	metadata/barcodes_v5D_384_brb.txt	reaction position A07; direct V5D position-to-barcode map; final liver pooling volume 2.04 uL
+2025_DJR_114	2025	liver	CAAGAATACGTGGA	metadata/barcodes_v5D_384_brb.txt	reaction position A08; direct V5D position-to-barcode map; final liver pooling volume 1.26 uL
+2025_DJR_115	2025	liver	CCATAGCGAGTAAG	metadata/barcodes_v5D_384_brb.txt	reaction position A09; direct V5D position-to-barcode map; final liver pooling volume 5.69 uL
+2025_DJR_116	2025	liver	ATAGTAGATGCAGA	metadata/barcodes_v5D_384_brb.txt	reaction position A10; direct V5D position-to-barcode map; final liver pooling volume 2.18 uL
+2025_DJR_117	2025	liver	TTCACTCGCTCGCC	metadata/barcodes_v5D_384_brb.txt	reaction position A11; direct V5D position-to-barcode map; final liver pooling volume 2.32 uL
+2025_DJR_118	2025	liver	AACGTTAAGTCCGA	metadata/barcodes_v5D_384_brb.txt	reaction position A12; direct V5D position-to-barcode map; final liver pooling volume 1.73 uL
+2025_DJR_119	2025	liver	ACTGCACTTCCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position M13; direct V5D position-to-barcode map; final liver pooling volume 1.41 uL
+2025_DJR_120	2025	liver	TTCACGGCCTTGGA	metadata/barcodes_v5D_384_brb.txt	reaction position M14; direct V5D position-to-barcode map; final liver pooling volume 1.6 uL
+2025_DJR_121	2025	liver	CACTGCCGGTCAAC	metadata/barcodes_v5D_384_brb.txt	reaction position M15; direct V5D position-to-barcode map; final liver pooling volume 3.9 uL
+2025_DJR_147	2025	liver	AACTTGGCCACAGG	metadata/barcodes_v5D_384_brb.txt	reaction position M16; direct V5D position-to-barcode map; final liver pooling volume 3.62 uL
+2025_DJR_148	2025	liver	ATTCGCATTCCTAG	metadata/barcodes_v5D_384_brb.txt	reaction position M17; direct V5D position-to-barcode map; final liver pooling volume 2.94 uL
+2025_DJR_149	2025	liver	ATCGTTGAGGTTCC	metadata/barcodes_v5D_384_brb.txt	reaction position M18; direct V5D position-to-barcode map; final liver pooling volume 1.92 uL
+2025_DJR_150	2025	liver	CAATCTTGGCTTCA	metadata/barcodes_v5D_384_brb.txt	reaction position M19; direct V5D position-to-barcode map; final liver pooling volume 2.09 uL
+2025_DJR_152	2025	liver	TTACCACTCTTGGC	metadata/barcodes_v5D_384_brb.txt	reaction position M20; direct V5D position-to-barcode map; final liver pooling volume 1.65 uL
+2025_DJR_153	2025	liver	AACCAACTTGTTCC	metadata/barcodes_v5D_384_brb.txt	reaction position M21; direct V5D position-to-barcode map; final liver pooling volume 1.73 uL
+2025_DJR_154	2025	liver	ATAGGAATTCTGCA	metadata/barcodes_v5D_384_brb.txt	reaction position M22; direct V5D position-to-barcode map; final liver pooling volume 1.88 uL
+2025_DJR_155	2025	liver	TAATGTGCAATTGC	metadata/barcodes_v5D_384_brb.txt	reaction position M23; direct V5D position-to-barcode map; final liver pooling volume 4.07 uL
+2025_DJR_156	2025	liver	ACACACACGAGTAG	metadata/barcodes_v5D_384_brb.txt	reaction position M24; direct V5D position-to-barcode map; final liver pooling volume 1.83 uL
+2025_DJR_157	2025	liver	TCTCTCGATCTGCA	metadata/barcodes_v5D_384_brb.txt	reaction position O13; direct V5D position-to-barcode map; final liver pooling volume 2.02 uL
+2025_DJR_158	2025	liver	ATCCTCTAATAAGC	metadata/barcodes_v5D_384_brb.txt	reaction position O14; direct V5D position-to-barcode map; final liver pooling volume 2.24 uL
+2025_DJR_159	2025	liver	TCGTACAGTATCAC	metadata/barcodes_v5D_384_brb.txt	reaction position O15; direct V5D position-to-barcode map; final liver pooling volume 3.29 uL
+2025_DJR_160	2025	liver	AAGTAACTCGGCGC	metadata/barcodes_v5D_384_brb.txt	reaction position O16; direct V5D position-to-barcode map; final liver pooling volume 3.12 uL
+2025_DJR_161	2025	liver	AACTCGCGTTGAAG	metadata/barcodes_v5D_384_brb.txt	reaction position O17; direct V5D position-to-barcode map; final liver pooling volume 2.07 uL
+2025_DJR_162	2025	liver	CAATAGATAAGGAG	metadata/barcodes_v5D_384_brb.txt	reaction position O18; direct V5D position-to-barcode map; final liver pooling volume 3.4 uL
+2025_DJR_163	2025	liver	CAGTATCTAGTAGA	metadata/barcodes_v5D_384_brb.txt	reaction position O19; direct V5D position-to-barcode map; final liver pooling volume 1.8 uL
+2025_DJR_165	2025	liver	CCACCTTGATTGGC	metadata/barcodes_v5D_384_brb.txt	reaction position O20; direct V5D position-to-barcode map; final liver pooling volume 1.3 uL
+2025_DJR_166	2025	liver	ACCGCAACTAGCCA	metadata/barcodes_v5D_384_brb.txt	reaction position O21; direct V5D position-to-barcode map; final liver pooling volume 2.19 uL
+2025_DJR_167	2025	liver	TAACAAGAAGGAGA	metadata/barcodes_v5D_384_brb.txt	reaction position O22; direct V5D position-to-barcode map; final liver pooling volume 2.44 uL
+2025_DJR_168	2025	liver	AATAATGCGCTAAG	metadata/barcodes_v5D_384_brb.txt	reaction position O23; direct V5D position-to-barcode map; final liver pooling volume 2.56 uL
+2025_DJR_169	2025	liver	CTATGTCGCTCAGA	metadata/barcodes_v5D_384_brb.txt	reaction position O24; direct V5D position-to-barcode map; final liver pooling volume 4.59 uL
+2025_DJR_170	2025	liver	TTCGGACTACCTCA	metadata/barcodes_v5D_384_brb.txt	reaction position B01; direct V5D position-to-barcode map; final liver pooling volume 3.8 uL
+2025_DJR_171	2025	liver	ACTCTGAGATATCA	metadata/barcodes_v5D_384_brb.txt	reaction position B02; direct V5D position-to-barcode map; final liver pooling volume 1.95 uL
+2025_DJR_172	2025	liver	TAACTCAACGAGCA	metadata/barcodes_v5D_384_brb.txt	reaction position B03; direct V5D position-to-barcode map; final liver pooling volume 2.62 uL
+2025_DJR_173	2025	liver	ATACGCAGCGACAG	metadata/barcodes_v5D_384_brb.txt	reaction position B04; direct V5D position-to-barcode map; final liver pooling volume 4.58 uL
+2025_DJR_174	2025	liver	TCGTTAGTTAGCCG	metadata/barcodes_v5D_384_brb.txt	reaction position B05; direct V5D position-to-barcode map; final liver pooling volume 1.54 uL
+2025_DJR_175	2025	liver	ACAGCACGACTAGA	metadata/barcodes_v5D_384_brb.txt	reaction position B06; direct V5D position-to-barcode map; final liver pooling volume 1.3 uL
+2025_DJR_176	2025	liver	CAACATTAACAAGC	metadata/barcodes_v5D_384_brb.txt	reaction position B07; direct V5D position-to-barcode map; final liver pooling volume 1.6 uL
+2025_DJR_178	2025	liver	CTAATCCACTCAAC	metadata/barcodes_v5D_384_brb.txt	reaction position B08; direct V5D position-to-barcode map; final liver pooling volume 1.88 uL
+2025_DJR_179	2025	liver	ACAGTTGACCTAAC	metadata/barcodes_v5D_384_brb.txt	reaction position B09; direct V5D position-to-barcode map; final liver pooling volume 1.86 uL
+2025_DJR_180	2025	liver	CCTAATCTCACCAA	metadata/barcodes_v5D_384_brb.txt	reaction position B10; direct V5D position-to-barcode map; final liver pooling volume 1.72 uL
+2025_DJR_181	2025	liver	ATTAGACCGGTAAC	metadata/barcodes_v5D_384_brb.txt	reaction position B11; direct V5D position-to-barcode map; final liver pooling volume 3.28 uL
+2025_DJR_182	2025	liver	ACTTGTGGCAATGC	metadata/barcodes_v5D_384_brb.txt	reaction position B12; direct V5D position-to-barcode map; final liver pooling volume 1.9 uL
+2025_DJR_183	2025	liver	CCACACTCCAACCG	metadata/barcodes_v5D_384_brb.txt	reaction position D01; direct V5D position-to-barcode map; final liver pooling volume 2.11 uL
+2025_DJR_184	2025	liver	ACGGTCTCCTGAGG	metadata/barcodes_v5D_384_brb.txt	reaction position D02; direct V5D position-to-barcode map; final liver pooling volume 1.68 uL
+2025_DJR_185	2025	liver	ACGCTACGTCGTAG	metadata/barcodes_v5D_384_brb.txt	reaction position D03; direct V5D position-to-barcode map; final liver pooling volume 2.34 uL
+2025_DJR_186	2025	liver	AACTATTCTACCAC	metadata/barcodes_v5D_384_brb.txt	reaction position D04; direct V5D position-to-barcode map; final liver pooling volume 1.46 uL
+2025_DJR_187	2025	liver	CCGTCCAACGGAAG	metadata/barcodes_v5D_384_brb.txt	reaction position D05; direct V5D position-to-barcode map; final liver pooling volume 2.72 uL
+2025_DJR_188	2025	liver	AATCACACACCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position D06; direct V5D position-to-barcode map; final liver pooling volume 4.31 uL
+2025_DJR_189	2025	liver	ATATCGCACGTAGA	metadata/barcodes_v5D_384_brb.txt	reaction position D07; direct V5D position-to-barcode map; final liver pooling volume 3.47 uL
+2025_DJR_190	2025	liver	ACTGGAAGCCACAA	metadata/barcodes_v5D_384_brb.txt	reaction position D08; direct V5D position-to-barcode map; final liver pooling volume 1.44 uL
+2025_DJR_191	2025	liver	TAACTATACCGCCG	metadata/barcodes_v5D_384_brb.txt	reaction position D09; direct V5D position-to-barcode map; final liver pooling volume 2.8 uL
+2025_DJR_192	2025	liver	ATTGCATTAACCAC	metadata/barcodes_v5D_384_brb.txt	reaction position D10; direct V5D position-to-barcode map; final liver pooling volume 4.11 uL
+2025_DJR_194	2025	liver	ATTAGTTGTCCAGA	metadata/barcodes_v5D_384_brb.txt	reaction position D11; direct V5D position-to-barcode map; final liver pooling volume 4.68 uL
+2025_DJR_245	2025	liver	ACTACGCTGCATAC	metadata/barcodes_v5D_384_brb.txt	reaction position D12; direct V5D position-to-barcode map; final liver pooling volume 3.14 uL
+2025_DJR_246	2025	liver	CATTAATCCTCCAG	metadata/barcodes_v5D_384_brb.txt	reaction position F01; direct V5D position-to-barcode map; final liver pooling volume 1.74 uL
+2025_DJR_247	2025	liver	ATCGTGATCACGAG	metadata/barcodes_v5D_384_brb.txt	reaction position F02; direct V5D position-to-barcode map; final liver pooling volume 3.26 uL
+2025_DJR_248	2025	liver	ACTGACTGAGCTCA	metadata/barcodes_v5D_384_brb.txt	reaction position F03; direct V5D position-to-barcode map; final liver pooling volume 3.91 uL
+2025_DJR_249	2025	liver	AACCATTGCCGAGG	metadata/barcodes_v5D_384_brb.txt	reaction position F04; direct V5D position-to-barcode map; final liver pooling volume 2.76 uL
+2025_DJR_251	2025	liver	ACCATGGAGGATGG	metadata/barcodes_v5D_384_brb.txt	reaction position F05; direct V5D position-to-barcode map; final liver pooling volume 1.57 uL
+2025_DJR_252	2025	liver	ATATCTGTGATGAC	metadata/barcodes_v5D_384_brb.txt	reaction position F06; direct V5D position-to-barcode map; final liver pooling volume 1.05 uL
+2025_DJR_253	2025	liver	ACAGACTGCTGTAC	metadata/barcodes_v5D_384_brb.txt	reaction position F07; direct V5D position-to-barcode map; final liver pooling volume 1.76 uL
+2025_DJR_254	2025	liver	AACTCATGACCTAG	metadata/barcodes_v5D_384_brb.txt	reaction position F08; direct V5D position-to-barcode map; final liver pooling volume 3.35 uL
+2025_DJR_255	2025	liver	CCGATAGACAATAA	metadata/barcodes_v5D_384_brb.txt	reaction position F09; direct V5D position-to-barcode map; final liver pooling volume 4.47 uL
+2025_DJR_256	2025	liver	CAAGAGAATCCAAC	metadata/barcodes_v5D_384_brb.txt	reaction position F10; direct V5D position-to-barcode map; final liver pooling volume 1.94 uL
+2025_DJR_257	2025	liver	ATAATGAATTGGCC	metadata/barcodes_v5D_384_brb.txt	reaction position F11; direct V5D position-to-barcode map; final liver pooling volume 1.34 uL
+2025_DJR_258	2025	liver	ATAGAGTCGACGAC	metadata/barcodes_v5D_384_brb.txt	reaction position F12; direct V5D position-to-barcode map; final liver pooling volume 1.7 uL
+2025_DJR_260	2025	liver	ATACGGAAGCCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position H01; direct V5D position-to-barcode map; final liver pooling volume 1.77 uL
+2025_DJR_261	2025	liver	ATCAGTCTAGTACG	metadata/barcodes_v5D_384_brb.txt	reaction position H02; direct V5D position-to-barcode map; final liver pooling volume 4.04 uL
+2025_DJR_262	2025	liver	ATAAGCCAAGGTAC	metadata/barcodes_v5D_384_brb.txt	reaction position H03; direct V5D position-to-barcode map; final liver pooling volume 1.76 uL
+2025_DJR_263	2025	liver	ATCACAGTGATACA	metadata/barcodes_v5D_384_brb.txt	reaction position H04; direct V5D position-to-barcode map; final liver pooling volume 1.76 uL
+2025_DJR_264	2025	liver	CAGTCTTCCTAACC	metadata/barcodes_v5D_384_brb.txt	reaction position H05; direct V5D position-to-barcode map; final liver pooling volume 1.98 uL
+2025_DJR_265	2025	liver	ATAGACATGTCTGA	metadata/barcodes_v5D_384_brb.txt	reaction position H06; direct V5D position-to-barcode map; final liver pooling volume 5.8 uL
+2025_DJR_266	2025	liver	CCGCCAAGCTCCAA	metadata/barcodes_v5D_384_brb.txt	reaction position H07; direct V5D position-to-barcode map; final liver pooling volume 2.21 uL
+2025_DJR_267	2025	liver	ATGAACAACACCAA	metadata/barcodes_v5D_384_brb.txt	reaction position H08; direct V5D position-to-barcode map; final liver pooling volume 1.63 uL
+2025_DJR_268	2025	liver	ATCACAGCGTCTAG	metadata/barcodes_v5D_384_brb.txt	reaction position H09; direct V5D position-to-barcode map; final liver pooling volume 2.96 uL
+2025_DJR_269	2025	liver	ACCATCCAGGTCCA	metadata/barcodes_v5D_384_brb.txt	reaction position H10; direct V5D position-to-barcode map; final liver pooling volume 1.64 uL
+2025_DJR_270	2025	liver	TTGAATCAAGGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position H11; direct V5D position-to-barcode map; final liver pooling volume 3.91 uL
+2025_DJR_271	2025	liver	CAACCAAGAATAAC	metadata/barcodes_v5D_384_brb.txt	reaction position H12; direct V5D position-to-barcode map; final liver pooling volume 1.27 uL
+2025_DJR_274	2025	liver	ATGGCTTCACCTGG	metadata/barcodes_v5D_384_brb.txt	reaction position J01; direct V5D position-to-barcode map; final liver pooling volume 1.66 uL
+2025_DJR_276	2025	liver	AACCTCACGGTGCC	metadata/barcodes_v5D_384_brb.txt	reaction position J02; direct V5D position-to-barcode map; final liver pooling volume 1.67 uL
+2025_DJR_277	2025	liver	ACTCGGATGGTTGG	metadata/barcodes_v5D_384_brb.txt	reaction position J03; direct V5D position-to-barcode map; final liver pooling volume 1.37 uL
+2025_DJR_280	2025	liver	AACTCGGTTGTGAA	metadata/barcodes_v5D_384_brb.txt	reaction position J04; direct V5D position-to-barcode map; final liver pooling volume 3.94 uL
+2025_DJR_281	2025	liver	CCTTACGGATGGCG	metadata/barcodes_v5D_384_brb.txt	reaction position J05; direct V5D position-to-barcode map; final liver pooling volume 2.08 uL
+2025_DJR_283	2025	liver	CCTAACTAATATGG	metadata/barcodes_v5D_384_brb.txt	reaction position J06; direct V5D position-to-barcode map; final liver pooling volume 3.01 uL
+2025_DJR_286	2025	liver	ACAATTCGGAACCG	metadata/barcodes_v5D_384_brb.txt	reaction position J07; direct V5D position-to-barcode map; final liver pooling volume 3.99 uL
+2025_DJR_287	2025	liver	CACTGACATCGTAC	metadata/barcodes_v5D_384_brb.txt	reaction position J08; direct V5D position-to-barcode map; final liver pooling volume 3.77 uL
+2025_DJR_288	2025	liver	AAGCCGCCGTTGAC	metadata/barcodes_v5D_384_brb.txt	reaction position J09; direct V5D position-to-barcode map; final liver pooling volume 1.3 uL
+2025_DJR_289	2025	liver	ATGTGCGGAACAGA	metadata/barcodes_v5D_384_brb.txt	reaction position J10; direct V5D position-to-barcode map; final liver pooling volume 6 uL
+2025_DJR_290	2025	liver	AAGCCTGCCGAGAG	metadata/barcodes_v5D_384_brb.txt	reaction position J11; direct V5D position-to-barcode map; final liver pooling volume 2.03 uL
+2025_DJR_291	2025	liver	CAGGCATTCCTTAA	metadata/barcodes_v5D_384_brb.txt	reaction position J12; direct V5D position-to-barcode map; final liver pooling volume 6 uL
+2025_DJR_292	2025	liver	ACACAGACAGTGCG	metadata/barcodes_v5D_384_brb.txt	reaction position L01; direct V5D position-to-barcode map; final liver pooling volume 4.28 uL
+2025_DJR_293	2025	liver	CAGCACGCTGCACA	metadata/barcodes_v5D_384_brb.txt	reaction position C02; direct V5D position-to-barcode map; final liver pooling volume 5.62 uL
+2025_DJR_296	2025	liver	TTGCCAATCGGTAG	metadata/barcodes_v5D_384_brb.txt	reaction position C03; direct V5D position-to-barcode map; final liver pooling volume 1.48 uL
+2025_DJR_297	2025	liver	TACTCATAGAGTCG	metadata/barcodes_v5D_384_brb.txt	reaction position C04; direct V5D position-to-barcode map; final liver pooling volume 1.53 uL
+2025_DJR_298	2025	liver	ACAGCTGCTGTACA	metadata/barcodes_v5D_384_brb.txt	reaction position C05; direct V5D position-to-barcode map; final liver pooling volume 3.47 uL
+2025_DJR_299	2025	liver	ATCGAGTGCACTGA	metadata/barcodes_v5D_384_brb.txt	reaction position C06; direct V5D position-to-barcode map; final liver pooling volume 4.06 uL
+2025_DJR_300	2025	liver	CTGACCTGTAAGCA	metadata/barcodes_v5D_384_brb.txt	reaction position C07; direct V5D position-to-barcode map; final liver pooling volume 2.93 uL
+2025_DJR_301	2025	liver	ATGTGTCACTACGC	metadata/barcodes_v5D_384_brb.txt	reaction position C08; direct V5D position-to-barcode map; final liver pooling volume 4.98 uL
+2025_DJR_310	2025	liver	CCTTGGTAGCACGA	metadata/barcodes_v5D_384_brb.txt	reaction position C09; direct V5D position-to-barcode map; final liver pooling volume 3.43 uL
+2025_DJR_311	2025	liver	AACCGTGACATTAC	metadata/barcodes_v5D_384_brb.txt	reaction position C10; direct V5D position-to-barcode map; final liver pooling volume 2.23 uL
+2025_DJR_312	2025	liver	CTGCCTGTGGCTAA	metadata/barcodes_v5D_384_brb.txt	reaction position C11; direct V5D position-to-barcode map; final liver pooling volume 2.3 uL
+2025_DJR_313	2025	liver	ACGTACTAGAGCGA	metadata/barcodes_v5D_384_brb.txt	reaction position C12; direct V5D position-to-barcode map; final liver pooling volume 1.47 uL
+2025_DJR_314	2025	liver	TATGTGACTGTACG	metadata/barcodes_v5D_384_brb.txt	reaction position N01; direct V5D position-to-barcode map; final liver pooling volume 1.3 uL
+2025_DJR_315	2025	liver	TTACATCTAGTCCA	metadata/barcodes_v5D_384_brb.txt	reaction position N02; direct V5D position-to-barcode map; final liver pooling volume 4.11 uL
+2025_DJR_316	2025	liver	TCACTGCTGACTAC	metadata/barcodes_v5D_384_brb.txt	reaction position N03; direct V5D position-to-barcode map; final liver pooling volume 1.4 uL
+2025_DJR_317	2025	liver	AAGGTCCGCACCGA	metadata/barcodes_v5D_384_brb.txt	reaction position N04; direct V5D position-to-barcode map; final liver pooling volume 2.59 uL
+2025_DJR_318	2025	liver	CTCGCTGATAGCAC	metadata/barcodes_v5D_384_brb.txt	reaction position N05; direct V5D position-to-barcode map; final liver pooling volume 1.78 uL
+2025_DJR_319	2025	liver	TTCACCAATGGAGA	metadata/barcodes_v5D_384_brb.txt	reaction position N06; direct V5D position-to-barcode map; final liver pooling volume 1.77 uL
+2025_DJR_320	2025	liver	ACAGTCATACGACA	metadata/barcodes_v5D_384_brb.txt	reaction position N07; direct V5D position-to-barcode map; final liver pooling volume 1.59 uL
+2025_DJR_321	2025	liver	ATGAGTCGTCACAG	metadata/barcodes_v5D_384_brb.txt	reaction position N08; direct V5D position-to-barcode map; final liver pooling volume 1.79 uL
+2025_DJR_322	2025	liver	CCGTTACCTACAAC	metadata/barcodes_v5D_384_brb.txt	reaction position N09; direct V5D position-to-barcode map; final liver pooling volume 1.47 uL
+2025_DJR_323	2025	liver	TACGACATCTGTAG	metadata/barcodes_v5D_384_brb.txt	reaction position N10; direct V5D position-to-barcode map; final liver pooling volume 2.04 uL
+2025_DJR_324	2025	liver	CAATGAATTCAAGG	metadata/barcodes_v5D_384_brb.txt	reaction position N11; direct V5D position-to-barcode map; final liver pooling volume 1.63 uL
+2025_DJR_325	2025	liver	ATGCGGATCTTGGA	metadata/barcodes_v5D_384_brb.txt	reaction position N12; direct V5D position-to-barcode map; final liver pooling volume 3.59 uL
+2025_DJR_326	2025	liver	CTATCGTGCTAGCG	metadata/barcodes_v5D_384_brb.txt	reaction position P01; direct V5D position-to-barcode map; final liver pooling volume 1.42 uL
+2025_DJR_327	2025	liver	ATGGAGCGGATCAA	metadata/barcodes_v5D_384_brb.txt	reaction position P02; direct V5D position-to-barcode map; final liver pooling volume 1.53 uL
+2025_DJR_328	2025	liver	CTCGAACACCGTGG	metadata/barcodes_v5D_384_brb.txt	reaction position P03; direct V5D position-to-barcode map; final liver pooling volume 1.52 uL
+2025_DJR_329	2025	liver	CAGCGACTACGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position P04; direct V5D position-to-barcode map; final liver pooling volume 2.28 uL
+2025_DJR_373	2025	liver	TTAGGTGTCTAGAA	metadata/barcodes_v5D_384_brb.txt	reaction position P05; direct V5D position-to-barcode map; final liver pooling volume 1.37 uL
+2025_DJR_374	2025	liver	TATTCCTACCATAG	metadata/barcodes_v5D_384_brb.txt	reaction position P06; direct V5D position-to-barcode map; final liver pooling volume 2.53 uL
+2025_DJR_376	2025	liver	ACCGAACGGTTGCA	metadata/barcodes_v5D_384_brb.txt	reaction position P07; direct V5D position-to-barcode map; final liver pooling volume 1.48 uL
+2025_DJR_377	2025	liver	ATCACTATGCATCG	metadata/barcodes_v5D_384_brb.txt	reaction position P08; direct V5D position-to-barcode map; final liver pooling volume 2.26 uL
+2025_DJR_378	2025	liver	CACGTGACGCACAG	metadata/barcodes_v5D_384_brb.txt	reaction position P09; direct V5D position-to-barcode map; final liver pooling volume 3.64 uL
+2025_DJR_379	2025	liver	CTGATAGTGTGCAG	metadata/barcodes_v5D_384_brb.txt	reaction position P10; direct V5D position-to-barcode map; final liver pooling volume 2.78 uL
+2025_DJR_380	2025	liver	AACCAACGGCCGAC	metadata/barcodes_v5D_384_brb.txt	reaction position P11; direct V5D position-to-barcode map; final liver pooling volume 1.93 uL
+2025_DJR_381	2025	liver	AATTGCGAATATCC	metadata/barcodes_v5D_384_brb.txt	reaction position P12; direct V5D position-to-barcode map; final liver pooling volume 1.63 uL
+2025_DJR_382	2025	liver	CAAGACTCCATAAC	metadata/barcodes_v5D_384_brb.txt	reaction position B13; direct V5D position-to-barcode map; final liver pooling volume 4.77 uL
+2025_DJR_383	2025	liver	CAACAGGAGGCTCC	metadata/barcodes_v5D_384_brb.txt	reaction position B14; direct V5D position-to-barcode map; final liver pooling volume 3.22 uL
+2025_DJR_384	2025	liver	CATGAGTCACTACA	metadata/barcodes_v5D_384_brb.txt	reaction position B15; direct V5D position-to-barcode map; final liver pooling volume 2.11 uL
+2025_DJR_385	2025	liver	TAGACGTGGACCAG	metadata/barcodes_v5D_384_brb.txt	reaction position B16; direct V5D position-to-barcode map; final liver pooling volume 1.84 uL
+2025_DJR_386	2025	liver	AACCGCCATTCTAA	metadata/barcodes_v5D_384_brb.txt	reaction position B17; direct V5D position-to-barcode map; final liver pooling volume 2.18 uL
+2025_DJR_387	2025	liver	ACAGAGACGCATCA	metadata/barcodes_v5D_384_brb.txt	reaction position B18; direct V5D position-to-barcode map; final liver pooling volume 2.24 uL
+2025_DJR_388	2025	liver	ATACCTAAGATCCG	metadata/barcodes_v5D_384_brb.txt	reaction position B19; direct V5D position-to-barcode map; final liver pooling volume 2.18 uL
+2025_DJR_389	2025	liver	AACTTCCATAAGCC	metadata/barcodes_v5D_384_brb.txt	reaction position B20; direct V5D position-to-barcode map; final liver pooling volume 4.06 uL
+2025_DJR_390	2025	liver	ATCGTACATCTACG	metadata/barcodes_v5D_384_brb.txt	reaction position B21; direct V5D position-to-barcode map; final liver pooling volume 4.4 uL
+2025_DJR_391	2025	liver	CTGCCATGGACTGC	metadata/barcodes_v5D_384_brb.txt	reaction position B22; direct V5D position-to-barcode map; final liver pooling volume 3.3 uL
+2025_DJR_392	2025	liver	TAGACAGATCTCAC	metadata/barcodes_v5D_384_brb.txt	reaction position B23; direct V5D position-to-barcode map; final liver pooling volume 1.99 uL
+2025_DJR_393	2025	liver	ATTCACCAACTTCG	metadata/barcodes_v5D_384_brb.txt	reaction position B24; direct V5D position-to-barcode map; final liver pooling volume 2.69 uL
+2025_DJR_394	2025	liver	ATAACGGACCAACG	metadata/barcodes_v5D_384_brb.txt	reaction position D13; direct V5D position-to-barcode map; final liver pooling volume 6 uL
+2025_DJR_396	2025	liver	ATAGGAGAACTTGG	metadata/barcodes_v5D_384_brb.txt	reaction position D14; direct V5D position-to-barcode map; final liver pooling volume 2.02 uL
+2025_DJR_397	2025	liver	CCTAAGAGAAGCGG	metadata/barcodes_v5D_384_brb.txt	reaction position D15; direct V5D position-to-barcode map; final liver pooling volume 1.88 uL
+2025_DJR_398	2025	liver	TTCTTGAACTCTGG	metadata/barcodes_v5D_384_brb.txt	reaction position D16; direct V5D position-to-barcode map; final liver pooling volume 1.65 uL
+2025_DJR_399	2025	liver	CAACCGTCAACCGG	metadata/barcodes_v5D_384_brb.txt	reaction position D17; direct V5D position-to-barcode map; final liver pooling volume 1.92 uL
+2025_DJR_400	2025	liver	ATTGGTAACACAAC	metadata/barcodes_v5D_384_brb.txt	reaction position D18; direct V5D position-to-barcode map; final liver pooling volume 2.16 uL
+2025_DJR_402	2025	liver	AACAACAAGCCTCA	metadata/barcodes_v5D_384_brb.txt	reaction position D19; direct V5D position-to-barcode map; final liver pooling volume 3.32 uL
+2025_DJR_404	2025	liver	CCGTGTTAACCTGC	metadata/barcodes_v5D_384_brb.txt	reaction position D20; direct V5D position-to-barcode map; final liver pooling volume 2.33 uL
+2025_DJR_405	2025	liver	ACTATAGTAGCACG	metadata/barcodes_v5D_384_brb.txt	reaction position D21; direct V5D position-to-barcode map; final liver pooling volume 2.45 uL
+2025_DJR_406	2025	liver	TCTAAGGTGGTGAC	metadata/barcodes_v5D_384_brb.txt	reaction position D22; direct V5D position-to-barcode map; final liver pooling volume 1.67 uL
+2025_DJR_407	2025	liver	AATGAATGGTCCGC	metadata/barcodes_v5D_384_brb.txt	reaction position D23; direct V5D position-to-barcode map; final liver pooling volume 2.32 uL
+2025_DJR_408	2025	liver	ACCAAGGTTAGAAC	metadata/barcodes_v5D_384_brb.txt	reaction position D24; direct V5D position-to-barcode map; final liver pooling volume 3.58 uL
+2025_DJR_409	2025	liver	AAGATTGCAACGCC	metadata/barcodes_v5D_384_brb.txt	reaction position F13; direct V5D position-to-barcode map; final liver pooling volume 1.87 uL
+2025_DJR_410	2025	liver	TAGAGCATGTCACG	metadata/barcodes_v5D_384_brb.txt	reaction position F14; direct V5D position-to-barcode map; final liver pooling volume 5.19 uL
+2025_DJR_411	2025	liver	CTCCAACCGCCACA	metadata/barcodes_v5D_384_brb.txt	reaction position F15; direct V5D position-to-barcode map; final liver pooling volume 1.97 uL
+2025_DJR_412	2025	liver	ACACACTGACTCAG	metadata/barcodes_v5D_384_brb.txt	reaction position F16; direct V5D position-to-barcode map; final liver pooling volume 4.03 uL
+2025_DJR_413	2025	liver	AACAACCGCTAACC	metadata/barcodes_v5D_384_brb.txt	reaction position F17; direct V5D position-to-barcode map; final liver pooling volume 1.43 uL
+2025_DJR_414	2025	liver	AACAACCTTCCAAG	metadata/barcodes_v5D_384_brb.txt	reaction position F18; direct V5D position-to-barcode map; final liver pooling volume 4.85 uL
+2025_DJR_415	2025	liver	CTTGCGAGGCAGCA	metadata/barcodes_v5D_384_brb.txt	reaction position F19; direct V5D position-to-barcode map; final liver pooling volume 1.55 uL
+2025_DJR_416	2025	liver	CAACACAACGGCGG	metadata/barcodes_v5D_384_brb.txt	reaction position F20; direct V5D position-to-barcode map; final liver pooling volume 1.84 uL
+2025_DJR_417	2025	liver	ACTCATGATGCTGA	metadata/barcodes_v5D_384_brb.txt	reaction position F21; direct V5D position-to-barcode map; final liver pooling volume 1.65 uL
+2025_DJR_418	2025	liver	CACGACACTATCGA	metadata/barcodes_v5D_384_brb.txt	reaction position F22; direct V5D position-to-barcode map; final liver pooling volume 1.59 uL
+2025_DJR_419	2025	liver	CAACTCGGCCTCCA	metadata/barcodes_v5D_384_brb.txt	reaction position F23; direct V5D position-to-barcode map; final liver pooling volume 1.69 uL
+2025_DJR_420	2025	liver	CACGTCATAGCTGA	metadata/barcodes_v5D_384_brb.txt	reaction position F24; direct V5D position-to-barcode map; final liver pooling volume 4.95 uL
+2025_DJR_421	2025	liver	TTACAAGTGCTGAA	metadata/barcodes_v5D_384_brb.txt	reaction position H13; direct V5D position-to-barcode map; final liver pooling volume 1.99 uL
+2025_DJR_422	2025	liver	CCAACAAGAACTCG	metadata/barcodes_v5D_384_brb.txt	reaction position H14; direct V5D position-to-barcode map; final liver pooling volume 1.44 uL
+2025_DJR_423	2025	liver	CTGGATATCCACAA	metadata/barcodes_v5D_384_brb.txt	reaction position H15; direct V5D position-to-barcode map; final liver pooling volume 1.9 uL
+2025_DJR_424	2025	liver	ACTCCTGCGGTTAC	metadata/barcodes_v5D_384_brb.txt	reaction position H16; direct V5D position-to-barcode map; final liver pooling volume 1.12 uL
+2025_DJR_425	2025	liver	CCGTCTAAGAACCA	metadata/barcodes_v5D_384_brb.txt	reaction position H17; direct V5D position-to-barcode map; final liver pooling volume 1.43 uL
+2025_DJR_427	2025	liver	TAACGAATCTCCGG	metadata/barcodes_v5D_384_brb.txt	reaction position H18; direct V5D position-to-barcode map; final liver pooling volume 1.38 uL
+2025_DJR_428	2025	liver	CCTCAGATACAAGA	metadata/barcodes_v5D_384_brb.txt	reaction position H19; direct V5D position-to-barcode map; final liver pooling volume 6 uL
+2025_DJR_431	2025	liver	ATCTCTGACTATCA	metadata/barcodes_v5D_384_brb.txt	reaction position H20; direct V5D position-to-barcode map; final liver pooling volume 1.67 uL
+2025_DJR_457	2025	liver	AACCGGCTTCGCCA	metadata/barcodes_v5D_384_brb.txt	reaction position H21; direct V5D position-to-barcode map; final liver pooling volume 4.58 uL
+2025_DJR_458	2025	liver	AAGTAGTACATTCG	metadata/barcodes_v5D_384_brb.txt	reaction position H22; direct V5D position-to-barcode map; final liver pooling volume 1.77 uL
+2025_DJR_459	2025	liver	CAAGAAGTTAAGAC	metadata/barcodes_v5D_384_brb.txt	reaction position H23; direct V5D position-to-barcode map; final liver pooling volume 1.72 uL
+2025_DJR_461	2025	liver	CCAATAAGTTAGCA	metadata/barcodes_v5D_384_brb.txt	reaction position H24; direct V5D position-to-barcode map; final liver pooling volume 1.81 uL
+2025_DJR_462	2025	liver	TCTCGTTAAGACCA	metadata/barcodes_v5D_384_brb.txt	reaction position J13; direct V5D position-to-barcode map; final liver pooling volume 3.96 uL
+2025_DJR_463	2025	liver	AAGTTGGAGGCGCA	metadata/barcodes_v5D_384_brb.txt	reaction position J14; direct V5D position-to-barcode map; final liver pooling volume 3.05 uL
+2025_DJR_464	2025	liver	ACCGTTGGCGGTGA	metadata/barcodes_v5D_384_brb.txt	reaction position J15; direct V5D position-to-barcode map; final liver pooling volume 2.77 uL
+2025_DJR_465	2025	liver	ACAGCAGACGATGC	metadata/barcodes_v5D_384_brb.txt	reaction position J16; direct V5D position-to-barcode map; final liver pooling volume 2.12 uL
+2025_DJR_466	2025	liver	CACACACTATGACG	metadata/barcodes_v5D_384_brb.txt	reaction position J17; direct V5D position-to-barcode map; final liver pooling volume 1.62 uL
+2025_DJR_467	2025	liver	CTAACTCCGATAGA	metadata/barcodes_v5D_384_brb.txt	reaction position J18; direct V5D position-to-barcode map; final liver pooling volume 1.96 uL
+2025_DJR_468	2025	liver	AACATAACTCCTGG	metadata/barcodes_v5D_384_brb.txt	reaction position J19; direct V5D position-to-barcode map; final liver pooling volume 2.59 uL
+2025_DJR_469	2025	liver	CCTCCTAATGACGG	metadata/barcodes_v5D_384_brb.txt	reaction position J20; direct V5D position-to-barcode map; final liver pooling volume 1.18 uL
+2025_DJR_470	2025	liver	ATTAGGTGGTGAAG	metadata/barcodes_v5D_384_brb.txt	reaction position J21; direct V5D position-to-barcode map; final liver pooling volume 1.21 uL
+2025_DJR_471	2025	liver	ATGATGCTGTCAGC	metadata/barcodes_v5D_384_brb.txt	reaction position J22; direct V5D position-to-barcode map; final liver pooling volume 3.85 uL
+2025_DJR_472	2025	liver	CTACCTTCCTCGAA	metadata/barcodes_v5D_384_brb.txt	reaction position J23; direct V5D position-to-barcode map; final liver pooling volume 1.57 uL
+2025_DJR_473	2025	liver	CAGTACGTCAGACG	metadata/barcodes_v5D_384_brb.txt	reaction position J24; direct V5D position-to-barcode map; final liver pooling volume 6 uL
+2025_DJR_475	2025	liver	ACAGTACCTTAACC	metadata/barcodes_v5D_384_brb.txt	reaction position L13; direct V5D position-to-barcode map; final liver pooling volume 1.74 uL
+2025_DJR_476	2025	liver	TATGGCAAGCACGG	metadata/barcodes_v5D_384_brb.txt	reaction position L14; direct V5D position-to-barcode map; final liver pooling volume 1.46 uL
+2025_DJR_478	2025	liver	TTAAGACATATGCC	metadata/barcodes_v5D_384_brb.txt	reaction position L15; direct V5D position-to-barcode map; final liver pooling volume 4.97 uL
+2025_DJR_479	2025	liver	AACAAGACCGTTAC	metadata/barcodes_v5D_384_brb.txt	reaction position L16; direct V5D position-to-barcode map; final liver pooling volume 6 uL
+2025_DJR_481	2025	liver	TATTAACTGGATGG	metadata/barcodes_v5D_384_brb.txt	reaction position L17; direct V5D position-to-barcode map; final liver pooling volume 6 uL
+2025_DJR_482	2025	liver	ACATCTACGTCTCG	metadata/barcodes_v5D_384_brb.txt	reaction position L18; direct V5D position-to-barcode map; final liver pooling volume 6 uL
+2025_DJR_483	2025	liver	CCTGATACACGTAA	metadata/barcodes_v5D_384_brb.txt	reaction position L19; direct V5D position-to-barcode map; final liver pooling volume 1.5 uL
+2025_DJR_484	2025	liver	TATGCTCAGATGCA	metadata/barcodes_v5D_384_brb.txt	reaction position L20; direct V5D position-to-barcode map; final liver pooling volume 2.65 uL
+2025_DJR_485	2025	liver	AAGGTGGAACACGG	metadata/barcodes_v5D_384_brb.txt	reaction position L21; direct V5D position-to-barcode map; final liver pooling volume 4.29 uL
+2025_DJR_486	2025	liver	CAGATGCTGACGCG	metadata/barcodes_v5D_384_brb.txt	reaction position L22; direct V5D position-to-barcode map; final liver pooling volume 2.41 uL
+2025_DJR_487	2025	liver	ACATGGAGGAGAAC	metadata/barcodes_v5D_384_brb.txt	reaction position L23; direct V5D position-to-barcode map; final liver pooling volume 4.38 uL
+2025_DJR_488	2025	liver	TTCGAAGCCTCCGG	metadata/barcodes_v5D_384_brb.txt	reaction position L24; direct V5D position-to-barcode map; final liver pooling volume 3.02 uL
