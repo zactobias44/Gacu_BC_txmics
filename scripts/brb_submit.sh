@@ -16,8 +16,10 @@ jid_shallow=$(sbatch --parsable --partition="$partition" --dependency="afterok:$
 sbatch --partition="$partition" --dependency="afterok:$jid_shallow" "$SCRIPT_DIR/brb_04_FastReadCounter_shallow.sh"
 jid_deep1=$(sbatch --parsable --partition="$partition" --dependency="afterok:$jid_1f" "$SCRIPT_DIR/brb_05_run_STAR_deep_one_feature.sh")
 sbatch --partition="$partition" --dependency="afterok:$jid_deep1" "$SCRIPT_DIR/brb_06_FastReadCounter_deep_one_feature.sh"
+sbatch --partition="$partition" --dependency="afterok:$jid_deep1" "$SCRIPT_DIR/brb_06_FastReadCounter_deep_one_feature_umi.sh"
 jid_deep=$(sbatch --parsable --partition="$partition" --dependency="afterok:$jid_index" "$SCRIPT_DIR/brb_07_run_STAR_deep.sh")
 sbatch --partition="$partition" --dependency="afterok:$jid_deep" "$SCRIPT_DIR/brb_08_FastReadCounter_deep.sh"
+sbatch --partition="$partition" --dependency="afterok:$jid_deep" "$SCRIPT_DIR/brb_08_FastReadCounter_deep_umi.sh"
 jid_split=$(sbatch --parsable --partition="$partition" --dependency="afterok:$jid_deep" --array="1-${samples}" "$SCRIPT_DIR/brb_09_split_bams.sh")
 jid_lists=$(sbatch --parsable --partition="$partition" --dependency="afterok:$jid_split" "$SCRIPT_DIR/brb_10_make_bam_lists.sh")
 jid_joint_tissue=$(sbatch --parsable --partition="$partition" --dependency="afterok:$jid_lists" "$SCRIPT_DIR/brb_13_joint_calling_by_tissue.sh")

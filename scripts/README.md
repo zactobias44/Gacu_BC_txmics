@@ -8,8 +8,11 @@ run.
 
 Shallow STAR remains `--soloUMIdedup NoDedup`. Deep STAR uses
 `--soloUMIdedup NoDedup 1MM_Directional`, producing both conventional and UMI-
-deduplicated STARsolo matrices. FastReadCounter remains the legacy
-non-UMI-deduplicated cross-check.
+deduplicated STARsolo matrices. Deep FastReadCounter now runs in parallel in
+both modes: the original `*_deep_fastreadcounter` and
+`*_deep_1f_fastreadcounter` directories use `--umi-dedup none`, while the
+parallel `*_deep_umi_fastreadcounter` and `*_deep_1f_umi_fastreadcounter`
+directories use `--umi-dedup 1MM_Directional`.
 
 Poseidon is configured as the default in `config/brb_pipeline_config.sh`,
 including repository-local reads, repository-local `outputs/`, sibling genome, and
