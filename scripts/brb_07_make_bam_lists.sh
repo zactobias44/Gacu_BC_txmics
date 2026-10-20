@@ -11,8 +11,30 @@ fi
 source "$SCRIPT_DIR/../config/brb_pipeline_config.sh"
 mkdir_brb_outputs
 out="$BRB_REPO_ROOT/metadata"
-find "$SPLIT_BAM_ROOT" -type f -name '*_RG.bam' | sort > "$out/brb_bamlist.txt"
-awk -F/ '{n=$NF; if (n ~ /_gill_RG\.bam$/) print}' "$out/brb_bamlist.txt" > "$out/brb_gill_bamlist.txt"
-awk -F/ '{n=$NF; if (n ~ /_liver_RG\.bam$/) print}' "$out/brb_bamlist.txt" > "$out/brb_liver_bamlist.txt"
-[[ -s "$out/brb_bamlist.txt" ]] || { echo "No split BAMs found under $SPLIT_BAM_ROOT" >&2; exit 1; }
+all="$out/brb_bamlist.txt"
+gill="$out/brb_gill_bamlist.txt"
+liver="$out/brb_liver_bamlist.txt"
+: > "$all"
+: > "$gill"
+: > "$liver"
+
+# Build lists from the executable manifest rather than discovering every BAM
+# under the output directory. This excludes stale BAMs for samples that were
+# removed from the final pool and makes missing expected BAMs fail early.
+while IFS=$'\t' read -r sample_id year tissue barcode _ _; do
+    [[ -n "$sample_id" ]] || continue
+    bam="$SPLIT_BAM_ROOT/$sample_id/${sample_id}_${tissue}_RG.bam"
+    require_brb_file "$bam"
+    printf '%s\n' "$bam" >> "$all"
+    case "$tissue" in
+        gill) printf '%s\n' "$bam" >> "$gill" ;;
+        liver) printf '%s\n' "$bam" >> "$liver" ;;
+        *) echo "Unexpected tissue in manifest: $tissue" >&2; exit 2 ;;
+    esac
+done < <(tail -n +2 "$SAMPLE_BARCODE_CONFIG")
+
+sort -o "$all" "$all"
+sort -o "$gill" "$gill"
+sort -o "$liver" "$liver"
+[[ -s "$all" ]] || { echo "No manifest BAMs found under $SPLIT_BAM_ROOT" >&2; exit 1; }
 echo "Wrote BAM lists under $out"

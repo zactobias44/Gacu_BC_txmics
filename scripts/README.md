@@ -9,7 +9,7 @@ run.
 Shallow STAR remains `--soloUMIdedup NoDedup`. Deep STAR uses
 `--soloUMIdedup NoDedup 1MM_Directional`, producing both conventional and UMI-
 deduplicated STARsolo matrices. These STARsolo matrices are the expression-count
-source; there is no FastReadCounter stage.
+source.
 
 Poseidon is configured as the default in `config/brb_pipeline_config.sh`,
 including repository-local reads, repository-local `outputs/`, sibling genome, and
@@ -20,20 +20,29 @@ there. No partition is hard-coded; pass site-specific `sbatch` options when
 submitting.
 
 Run `brb_00_validate_inputs.sh`, then submit individual stages or use
-`brb_submit.sh`. The downstream WGS/QC branch is intentionally separate from
-the expression pipeline:
+`brb_submit.sh` for the STAR and BRB-seq VCF stages. The canonical stages are:
 
 ```text
-brb_10_prepare_external_wgs_inputs.sh  (21 chromosome tasks)
-    -> brb_11_make_tissue_panels.sh    (21 gill + 21 liver tasks)
-    -> brb_12_make_plink_panels.sh     (five tasks: two combined, WGS-only, gill-only, liver-only)
-    -> brb_13_relatedness.sh            (one gill + one liver task)
-    -> brb_14_run_admixture.sh          (63 separate panel/K structure-QC tasks)
+brb_00_validate_inputs.sh
+    -> brb_01_make_STAR_genome_index.sh
+    -> brb_02_make_STAR_genome_index_one_feature.sh
+    -> brb_03_run_STAR_shallow.sh       (four library tasks)
+    -> brb_04_run_STAR_deep_one_feature.sh (four library tasks)
+    -> brb_05_run_STAR_deep.sh           (four library tasks)
+    -> brb_06_split_bams.sh              (one task per manifest sample/tissue)
+    -> brb_07_make_bam_lists.sh
+    -> brb_08_joint_calling_by_tissue.sh (21 gill + 21 liver tasks)
+    -> brb_09_concat_vcfs_by_tissue.sh
+
+brb_10_prepare_external_wgs_inputs.sh    (21 chromosome tasks; can run in parallel)
+    -> brb_11_make_tissue_panels.sh      (21 gill + 21 liver tasks)
+    -> brb_12_make_plink_panels.sh       (five panel tasks)
+    -> brb_13_relatedness.sh              (one gill + one liver task)
+    -> brb_14_run_admixture.sh            (63 panel/K tasks)
 ```
 
-The old non-FastReadCounter script names remain as compatibility aliases for
-already-submitted or previously documented commands. New submissions should
-use the renumbered canonical names above.
+The tissue-panel stage depends on both `brb_09_concat_vcfs_by_tissue.sh` and
+`brb_10_prepare_external_wgs_inputs.sh`.
 
 The external WGS defaults point to the expanded filtered VCF directory and
 retain every `2024_DJR*` and `2025_DJR*` WGS sample. The mapping table assigns

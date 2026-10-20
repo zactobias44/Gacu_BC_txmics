@@ -9,7 +9,7 @@ mkdir -p "$out_dir"
 if find "$repo_root" -maxdepth 0 -printf '' >/dev/null 2>&1; then
     find "$repo_root" \( -path "$repo_root/.git" -o -path "$out_dir" -o \
         -path "$repo_root/reads" -o -path "$repo_root/logs" -o -path "$repo_root/software" -o \
-        -path "$repo_root/outputs" -o -path "$repo_root/work" -o -path "$repo_root/.ipynb_checkpoints" \) -prune -o \
+        -path "$repo_root/outputs" -o -path "$repo_root/work" -o -name ".ipynb_checkpoints" \) -prune -o \
         -printf '%y\t%s\t%TY-%Tm-%Td %TH:%TM:%TS\t%p\n' | \
         sed "s#${repo_root}/#./#g; s#\\\\t#\t#g" > "$out_file.tmp"
 else
