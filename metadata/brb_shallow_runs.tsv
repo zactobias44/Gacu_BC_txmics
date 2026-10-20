@@ -1,5 +1,5 @@
-task	year	tissue	read1	read2	barcode_whitelist	prefix
-1	2024	gill	gill/2024/MiSeq/ZTobias_Mercurius_ShallowSeq_S1_L001_R1_001.fastq.gz	gill/2024/MiSeq/ZTobias_Mercurius_ShallowSeq_S1_L001_R2_001.fastq.gz	2024	gill_2024
-2	2024	liver	liver/2024/MiSeq/ZT_MercShaSeqLiv_S1_L001_R1_001.fastq.gz	liver/2024/MiSeq/ZT_MercShaSeqLiv_S1_L001_R2_001.fastq.gz	2024	liver_2024
-3	2025	gill	gill/2025_gill/MiSeq/2025_gill_BRBseq_shallow_S1_L001_R1_001.fastq.gz	gill/2025_gill/MiSeq/2025_gill_BRBseq_shallow_S1_L001_R2_001.fastq.gz	2025	gill_2025
-4	2025	liver	liver/2025/MiSeq/BRB_25_LIV_SHLW_B_S1_L001_R1_001.fastq.gz	liver/2025/MiSeq/BRB_25_LIV_SHLW_B_S1_L001_R2_001.fastq.gz	2025	liver_2025
+task	year	tissue	read1	read2	barcode_map	prefix
+1	2024	gill	gill/2024/MiSeq/ZTobias_Mercurius_ShallowSeq_S1_L001_R1_001.fastq.gz	gill/2024/MiSeq/ZTobias_Mercurius_ShallowSeq_S1_L001_R2_001.fastq.gz	v5B	gill_2024
+2	2024	liver	liver/2024/MiSeq/ZT_MercShaSeqLiv_S1_L001_R1_001.fastq.gz	liver/2024/MiSeq/ZT_MercShaSeqLiv_S1_L001_R2_001.fastq.gz	v5B	liver_2024
+3	2025	gill	gill/2025_gill/MiSeq/2025_gill_BRBseq_shallow_S1_L001_R1_001.fastq.gz	gill/2025_gill/MiSeq/2025_gill_BRBseq_shallow_S1_L001_R2_001.fastq.gz	v5D	gill_2025
+4	2025	liver	liver/2025/MiSeq/BRB_25_LIV_SHLW_B_S1_L001_R1_001.fastq.gz	liver/2025/MiSeq/BRB_25_LIV_SHLW_B_S1_L001_R2_001.fastq.gz	v5D	liver_2025

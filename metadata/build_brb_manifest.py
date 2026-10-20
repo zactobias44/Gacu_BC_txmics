@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 """Build sample-to-BRB-barcode records for BAM splitting.
 
-2024 uses the explicit historical sample/barcode table.  The 2025 sheet gives
-the reaction-plate positions, so the 2025 barcode list is assigned in row-major
-16 x 24 plate order.  That positional assumption is written to the output and
-must be checked against the final demultiplexing records before production use.
+Both years use the same positional logic: the collection metadata supplies a
+reaction-plate position, and the version-specific position/barcode table
+supplies the sequence at that position.  The barcode sets differ by kit
+version: 2024 uses V5B and 2025 uses V5D.
+
+The historical 2024 sample table is retained as the authoritative source for
+which sample/tissue records were executable, including its historical sample
+IDs.  Its barcode assignments are validated against the V5B position table.
 """
 
 import csv
@@ -29,8 +33,30 @@ def norm_pos(value):
     return f"{row}{col:02d}"
 
 
-def plate_positions():
-    return [f"{row}{col:02d}" for row in "ABCDEFGHIJKLMNOP" for col in range(1, 25)]
+def read_positioned_barcodes(path):
+    """Read a two-column plate-position/barcode table and validate it."""
+    mapping = {}
+    with path.open(newline="", encoding="utf-8-sig") as handle:
+        reader = csv.DictReader(handle, delimiter="\t")
+        if reader.fieldnames != ["Name", "B1"]:
+            raise SystemExit(
+                f"Unexpected barcode-table header in {path}: {reader.fieldnames}"
+            )
+        for record in reader:
+            position = norm_pos(record.get("Name"))
+            barcode = (record.get("B1") or "").strip().upper()
+            if not position or not barcode:
+                continue
+            if position in mapping:
+                raise SystemExit(f"Duplicate barcode position {position} in {path}")
+            mapping[position] = barcode
+
+    if len(mapping) != 384 or len(set(mapping.values())) != 384:
+        raise SystemExit(
+            f"Expected 384 unique positioned barcodes in {path}; "
+            f"found {len(mapping)} positions and {len(set(mapping.values()))} sequences"
+        )
+    return mapping
 
 
 def main():
@@ -44,23 +70,42 @@ def main():
         return
     rows = []
 
+    barcode_by_pos_2024 = read_positioned_barcodes(
+        META / "barcodes_v5B_384_brb.txt"
+    )
+    pos_by_barcode_2024 = {
+        barcode: position for position, barcode in barcode_by_pos_2024.items()
+    }
+    barcode_by_pos_2025 = read_positioned_barcodes(
+        META / "barcodes_v5D_384_brb.txt"
+    )
     with (BRB / "sample_barcodes_cat_nl.tsv").open(encoding="utf-8") as handle:
         for line in handle:
             fields = line.rstrip("\n").split("\t")
             if len(fields) == 4:
                 fields = fields[1:]
             if len(fields) == 3:
+                historical_barcode = fields[2].strip().upper()
+                position = pos_by_barcode_2024.get(historical_barcode)
+                if not position:
+                    raise SystemExit(
+                        f"2024 barcode {historical_barcode} for {fields[0]} is absent from the V5B table"
+                    )
+                barcode = barcode_by_pos_2024[position]
+                if barcode != historical_barcode:
+                    raise SystemExit(
+                        f"2024 V5B mismatch at {position}: historical map has "
+                        f"{historical_barcode}, positioned table has {barcode}"
+                    )
                 rows.append({
                     "sample_id": fields[0],
                     "year": "2024",
                     "tissue": fields[1],
-                    "barcode": fields[2],
-                    "barcode_source": "2024_Gacu_BRBseq/metadata/sample_barcodes_cat_nl.tsv",
-                    "mapping_note": "explicit historical sample-to-barcode map",
+                    "barcode": barcode,
+                    "barcode_source": "metadata/barcodes_v5B_384_brb.txt",
+                    "mapping_note": f"reaction position {position}; validated against historical sample map",
                 })
 
-    barcodes25 = [x.strip() for x in (META / "barcodes_2025.txt").read_text().splitlines() if x.strip()]
-    barcode_by_pos = dict(zip(plate_positions(), barcodes25))
     source = META / "BC Spring 2025 Collections and Molecular Metadata Sheet 1.csv"
     with source.open(newline="", encoding="utf-8-sig") as handle:
         for record in csv.DictReader(handle):
@@ -74,7 +119,7 @@ def main():
                 if (record.get(flag) or "").strip() != "1":
                     continue
                 position = norm_pos(record.get(position_key))
-                barcode = barcode_by_pos.get(position, "")
+                barcode = barcode_by_pos_2025.get(position, "")
                 if not barcode:
                     # Keep the sample in the broader tracking metadata, but do
                     # not create an executable BRB row without a reaction
@@ -85,8 +130,8 @@ def main():
                     "year": "2025",
                     "tissue": tissue,
                     "barcode": barcode,
-                    "barcode_source": "metadata/barcodes_2025.txt",
-                    "mapping_note": f"reaction position {position}; positional map requires final-run verification",
+                    "barcode_source": "metadata/barcodes_v5D_384_brb.txt",
+                    "mapping_note": f"reaction position {position}; direct V5D position-to-barcode map",
                 })
 
     rows.sort(key=lambda x: (x["year"], x["tissue"], x["sample_id"]))

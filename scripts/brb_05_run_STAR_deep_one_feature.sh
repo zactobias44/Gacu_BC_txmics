@@ -18,8 +18,8 @@ fi
 source "$SCRIPT_DIR/../config/brb_pipeline_config.sh"
 load_brb_modules; mkdir_brb_outputs
 task=${SLURM_ARRAY_TASK_ID:?submit as a four-task array}
-read -r _ year tissue r1s r2s whitelist prefix < <(awk -v t="$task" 'NR>1 && $1==t {print}' "$DEEP_CONFIG")
-wl="$BRB_REPO_ROOT/metadata/barcodes_${whitelist}.txt"; work="$STAR_WORK_ROOT/${prefix}_deep_1f"
+read -r _ year tissue r1s r2s barcode_map prefix < <(awk -v t="$task" 'NR>1 && $1==t {print}' "$DEEP_CONFIG")
+wl="$(barcode_whitelist_from_map "$barcode_map")"; work="$STAR_WORK_ROOT/${prefix}_deep_1f"
 mkdir -p "$work" "$STAR_OUTPUT_ROOT"
 concat_manifest_paths "$r1s" "$work/R1.fastq.gz"; concat_manifest_paths "$r2s" "$work/R2.fastq.gz"
 "$STAR" --runMode alignReads --runThreadN "$BRB_CPUS_DEEP_ONE_FEATURE" \

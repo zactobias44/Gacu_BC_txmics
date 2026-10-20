@@ -94,6 +94,8 @@ SHALLOW_CONFIG="$BRB_REPO_ROOT/metadata/brb_shallow_runs.tsv"
 DEEP_CONFIG="$BRB_REPO_ROOT/metadata/brb_deep_runs.tsv"
 SAMPLE_BARCODE_CONFIG="$BRB_REPO_ROOT/metadata/brb_sample_barcodes.tsv"
 CHR_CONFIG="${GACU_CHR_CONFIG:-$BRB_REPO_ROOT/metadata/brb_chromosomes.tsv}"
+BRB_BARCODE_MAP_V5B="$BRB_REPO_ROOT/metadata/barcodes_v5B_384_brb.txt"
+BRB_BARCODE_MAP_V5D="$BRB_REPO_ROOT/metadata/barcodes_v5D_384_brb.txt"
 
 # Site-specific Slurm resources. These can be overridden per invocation with
 # environment variables; no partition is hard-coded into the scripts.
@@ -125,6 +127,25 @@ require_brb_file() {
 
 require_brb_command() {
     command -v "$1" >/dev/null 2>&1 || { echo "Missing command: $1" >&2; exit 1; }
+}
+
+barcode_whitelist_from_map() {
+    local map_version="$1" map_path out
+    case "$map_version" in
+        v5B) map_path="$BRB_BARCODE_MAP_V5B" ;;
+        v5D) map_path="$BRB_BARCODE_MAP_V5D" ;;
+        *) echo "Unknown BRB barcode map: $map_version" >&2; exit 2 ;;
+    esac
+    require_brb_file "$map_path"
+    out="$STAR_WORK_ROOT/barcodes_${map_version}.txt"
+    if [[ ! -s "$out" || "$map_path" -nt "$out" ]]; then
+        awk -F '\t' 'NR > 1 && $2 != "" {print toupper($2)}' "$map_path" > "$out"
+        [[ "$(wc -l < "$out")" -eq 384 ]] || {
+            echo "Expected 384 barcodes in $map_path" >&2
+            exit 1
+        }
+    fi
+    printf '%s\n' "$out"
 }
 
 resolve_read_path() {

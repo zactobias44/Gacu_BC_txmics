@@ -17,8 +17,8 @@ fi
 source "$SCRIPT_DIR/../config/brb_pipeline_config.sh"
 load_brb_modules; mkdir_brb_outputs
 task=${SLURM_ARRAY_TASK_ID:?submit as a four-task array}
-read -r _ year tissue r1s r2s whitelist prefix < <(awk -v t="$task" 'NR>1 && $1==t {print}' "$DEEP_CONFIG")
-wl="$BRB_REPO_ROOT/metadata/barcodes_${whitelist}.txt"
+read -r _ year tissue r1s r2s barcode_map prefix < <(awk -v t="$task" 'NR>1 && $1==t {print}' "$DEEP_CONFIG")
+wl="$(barcode_whitelist_from_map "$barcode_map")"
 bam="$STAR_OUTPUT_ROOT/${prefix}_deep_Aligned.sortedByCoord.out.bam"
 java -jar "$FAST_READ_COUNTER" --bam "$bam" --gtf "$GENOME_GTF" \
     --umi-dedup none --barcodeFile "$wl" -o "$COUNTS_ROOT/${prefix}_deep_fastreadcounter"
