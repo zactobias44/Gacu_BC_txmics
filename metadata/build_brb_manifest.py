@@ -6,9 +6,9 @@ reaction-plate position, and the version-specific position/barcode table
 supplies the sequence at that position.  The barcode sets differ by kit
 version: 2024 uses V5B and 2025 uses V5D.
 
-The historical 2024 sample table is retained as the authoritative source for
-which sample/tissue records were executable, including its historical sample
-IDs.  Its barcode assignments are validated against the V5B position table.
+The 2024 RNA extraction sheet is the authoritative source for executable
+sample/tissue records.  Its V5B well/barcode assignments are validated against
+the local V5B position table.
 """
 
 import csv
@@ -73,38 +73,51 @@ def main():
     barcode_by_pos_2024 = read_positioned_barcodes(
         META / "barcodes_v5B_384_brb.txt"
     )
-    pos_by_barcode_2024 = {
-        barcode: position for position, barcode in barcode_by_pos_2024.items()
-    }
     barcode_by_pos_2025 = read_positioned_barcodes(
         META / "barcodes_v5D_384_brb.txt"
     )
-    with (BRB / "sample_barcodes_cat_nl.tsv").open(encoding="utf-8") as handle:
-        for line in handle:
-            fields = line.rstrip("\n").split("\t")
-            if len(fields) == 4:
-                fields = fields[1:]
-            if len(fields) == 3:
-                historical_barcode = fields[2].strip().upper()
-                position = pos_by_barcode_2024.get(historical_barcode)
-                if not position:
-                    raise SystemExit(
-                        f"2024 barcode {historical_barcode} for {fields[0]} is absent from the V5B table"
-                    )
-                barcode = barcode_by_pos_2024[position]
-                if barcode != historical_barcode:
-                    raise SystemExit(
-                        f"2024 V5B mismatch at {position}: historical map has "
-                        f"{historical_barcode}, positioned table has {barcode}"
-                    )
-                rows.append({
-                    "sample_id": fields[0],
-                    "year": "2024",
-                    "tissue": fields[1],
-                    "barcode": barcode,
-                    "barcode_source": "metadata/barcodes_v5B_384_brb.txt",
-                    "mapping_note": f"reaction position {position}; validated against historical sample map",
-                })
+    source_2024 = META / "2024_BC_RNA_extractions.csv"
+    with source_2024.open(newline="", encoding="utf-8-sig") as handle:
+        for record in csv.DictReader(handle):
+            if (record.get("use?") or "").strip() != "1":
+                continue
+            if (record.get("in final pool?") or "").strip() != "1":
+                continue
+            source_sample_id = (record.get("sample") or "").strip()
+            sample_id = source_sample_id
+            # The RNA sheet labels five replacement liver records with a
+            # `_2` suffix; the established WGS/BRB identity is the
+            # unsuffixed DJR ID. Preserve that canonical identity here.
+            if sample_id.endswith("_2"):
+                sample_id = sample_id[:-2]
+            tissue = (record.get("tissue") or "").strip().lower()
+            if not sample_id or tissue not in {"gill", "liver"}:
+                continue
+            position = norm_pos(record.get("V5B well"))
+            barcode = barcode_by_pos_2024.get(position, "")
+            reported_barcode = (record.get("V5B barcode") or "").strip().upper()
+            if not barcode:
+                raise SystemExit(
+                    f"2024 RNA record for {sample_id} {tissue} has no V5B position: {position!r}"
+                )
+            if reported_barcode and reported_barcode != barcode:
+                raise SystemExit(
+                    f"2024 V5B mismatch for {sample_id} {tissue} at {position}: "
+                    f"RNA sheet has {reported_barcode}, positioned table has {barcode}"
+                )
+            rows.append({
+                "sample_id": sample_id,
+                "year": "2024",
+                "tissue": tissue,
+                "barcode": barcode,
+                "barcode_source": "2024_Gacu_BRBseq/metadata/2024_BC_RNA_extractions.csv + metadata/barcodes_v5B_384_brb.txt",
+                "mapping_note": (
+                    f"V5B well {position}; RNA extraction metadata; "
+                    "validated against V5B position map"
+                    + (f"; source ID {source_sample_id} normalized to {sample_id}"
+                       if source_sample_id != sample_id else "")
+                ),
+            })
 
     source = META / "BC Spring 2025 Collections and Molecular Metadata Sheet 1.csv"
     with source.open(newline="", encoding="utf-8-sig") as handle:

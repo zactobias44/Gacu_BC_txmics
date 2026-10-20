@@ -142,7 +142,7 @@ def main():
         add_unique([rec["source_records"]], "sample_list_2024.csv")
         rec["source_records"] = ";".join(dict.fromkeys([x for x in [rec["source_records"], "sample_list_2024.csv"] if x]))
 
-    rna24 = read_csv(BRB / "metadata" / "2024_BC_RNA_extractions.csv")
+    rna24 = read_csv(META / "2024_BC_RNA_extractions.csv")
     for row in rna24:
         sid = clean(row.get("sample"))
         if not sid:
@@ -248,7 +248,7 @@ def main():
         ("2024_DJR_103", "liver", "barcode_reassignment", "high", "Historical analysis manually reassigned liver barcodes through the 101-104 chain.", "Verify raw V5B barcode mapping before using this sample.", "BRBseq DESeq_across_eco_quick.ipynb"),
         ("2024_DJR_104", "liver", "barcode_reassignment", "high", "Historical analysis manually reassigned liver barcodes through the 101-104 chain.", "Verify raw V5B barcode mapping before using this sample.", "BRBseq DESeq_across_eco_quick.ipynb"),
         ("2024_DJR_001", "liver", "expression_outlier", "review", "2024 liver expression was repeatedly identified as an outlier.", "Exclude from primary liver expression analysis unless re-evaluated with the new pipeline.", "BRBseq DESeq_BvL.ipynb; DESeq_across_eco_quick.ipynb"),
-        ("2024_DJR_196", "both", "missing_or_unusable", "high", "The sample was assigned a barcode but missing from the RNA archive; DNA metadata also marks it not included.", "Exclude unless raw RNA data are located and identity is confirmed.", "BRBseq seq_stats.ipynb; 2024_BC_DNA_extractions.csv"),
+        ("2024_DJR_196", "both", "dna_not_included", "review", "DNA metadata marks this sample not included, but the 2024 RNA extraction sheet records usable gill and liver BRB-seq libraries in the final pool at V5B well P02.", "Retain for BRB-seq expression; do not use the DNA/WGS record for genotype linkage unless independently confirmed.", "2024_BC_DNA_extractions.csv; 2024_BC_RNA_extractions.csv"),
     ]
     for item in manual:
         note(item[0], 2024, *item[1:])
