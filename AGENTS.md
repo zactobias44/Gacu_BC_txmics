@@ -4,7 +4,7 @@
 
 This repository contains the BRBseq workflow for British Columbia stickleback
 collections and will later contain the conventional mRNA-seq workflow. The
-active pipeline covers STAR indexing/mapping, FastReadCounter counts,
+active pipeline covers STAR indexing/mapping and STARsolo expression counts,
 barcode-level BAM splitting, BRBseq variant calling, and later integration with
 externally supplied WGS genotypes for relatedness.
 
@@ -28,8 +28,7 @@ externally supplied WGS genotypes for relatedness.
 
 - Shallow STAR remains gene-level and uses `NoDedup`.
 - Deep STAR emits both conventional and UMI-deduplicated STARsolo matrices using `NoDedup 1MM_Directional`.
-- Deep FastReadCounter emits both non-UMI counts (`--umi-dedup none`) and
-  exact UMI-deduplicated counts (`--umi-dedup exact`).
+- Deep STAR emits both conventional and UMI-deduplicated STARsolo matrices.
 - 2024/2025 run structure is defined in `metadata/brb_*_runs.tsv`.
 - 2025 positional barcode mappings require final Davis Core verification where noted.
 - WGS/relatedness inputs remain configurable; do not assume the old WGS repository or sample naming scheme.

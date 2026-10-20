@@ -8,11 +8,8 @@ run.
 
 Shallow STAR remains `--soloUMIdedup NoDedup`. Deep STAR uses
 `--soloUMIdedup NoDedup 1MM_Directional`, producing both conventional and UMI-
-deduplicated STARsolo matrices. Deep FastReadCounter now runs in parallel in
-both modes: the original `*_deep_fastreadcounter` and
-`*_deep_1f_fastreadcounter` directories use `--umi-dedup none`, while the
-parallel `*_deep_umi_fastreadcounter` and `*_deep_1f_umi_fastreadcounter`
-    directories use FastReadCounter's supported `--umi-dedup exact` mode.
+deduplicated STARsolo matrices. These STARsolo matrices are the expression-count
+source; there is no FastReadCounter stage.
 
 Poseidon is configured as the default in `config/brb_pipeline_config.sh`,
 including repository-local reads, repository-local `outputs/`, sibling genome, and
@@ -27,12 +24,16 @@ Run `brb_00_validate_inputs.sh`, then submit individual stages or use
 the expression pipeline:
 
 ```text
-brb_15_prepare_external_wgs_inputs.sh  (21 chromosome tasks)
-    -> brb_16_make_tissue_panels.sh    (21 gill + 21 liver tasks)
-    -> brb_17_make_plink_panels.sh     (five tasks: two combined, WGS-only, gill-only, liver-only)
-    -> brb_18_relatedness.sh            (one gill + one liver task)
-    -> brb_19_run_admixture.sh          (63 separate panel/K structure-QC tasks)
+brb_10_prepare_external_wgs_inputs.sh  (21 chromosome tasks)
+    -> brb_11_make_tissue_panels.sh    (21 gill + 21 liver tasks)
+    -> brb_12_make_plink_panels.sh     (five tasks: two combined, WGS-only, gill-only, liver-only)
+    -> brb_13_relatedness.sh            (one gill + one liver task)
+    -> brb_14_run_admixture.sh          (63 separate panel/K structure-QC tasks)
 ```
+
+The old non-FastReadCounter script names remain as compatibility aliases for
+already-submitted or previously documented commands. New submissions should
+use the renumbered canonical names above.
 
 The external WGS defaults point to the expanded filtered VCF directory and
 retain every `2024_DJR*` and `2025_DJR*` WGS sample. The mapping table assigns
