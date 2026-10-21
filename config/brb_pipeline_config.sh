@@ -93,6 +93,7 @@ SHALLOW_CONFIG="$BRB_REPO_ROOT/metadata/brb_shallow_runs.tsv"
 DEEP_CONFIG="$BRB_REPO_ROOT/metadata/brb_deep_runs.tsv"
 SAMPLE_BARCODE_CONFIG="$BRB_REPO_ROOT/metadata/brb_sample_barcodes.tsv"
 CHR_CONFIG="${GACU_CHR_CONFIG:-$BRB_REPO_ROOT/metadata/brb_chromosomes.tsv}"
+WGS_CHR_MAP="${GACU_WGS_CHR_MAP:-$BRB_REPO_ROOT/metadata/wgs_to_brb_chromosomes.tsv}"
 BRB_BARCODE_MAP_V5B="$BRB_REPO_ROOT/metadata/barcodes_v5B_384_brb.txt"
 BRB_BARCODE_MAP_V5D="$BRB_REPO_ROOT/metadata/barcodes_v5D_384_brb.txt"
 
