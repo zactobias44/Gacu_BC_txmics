@@ -6,8 +6,8 @@
 #SBATCH --cpus-per-task=2
 #SBATCH --mem=24G
 #SBATCH --time=12:00:00
-# Submit this script from the repository root so logs land in ./logs.
-#SBATCH --output=logs/brb_wgs_subset_%A_%a.out
+# Submit this script from the scripts directory, like the other pipeline jobs.
+#SBATCH --output=../logs/brb_wgs_subset_%A_%a.out
 set -euo pipefail
 if [[ -n "${SLURM_SUBMIT_DIR:-}" && -f "$SLURM_SUBMIT_DIR/config/brb_pipeline_config.sh" ]]; then
     SCRIPT_DIR="$SLURM_SUBMIT_DIR/scripts"
@@ -28,10 +28,19 @@ samples="$WGS_SUBSET_ROOT/wgs_djr_samples.txt"
 rename="$WGS_SUBSET_ROOT/wgs_djr_reheader.tsv"
 awk -F '\t' 'NR>1 && $3=="WGS" {print $2}' "$SAMPLE_SOURCE_MAP" | sort -u > "$samples"
 awk -F '\t' 'NR>1 && $3=="WGS" {print $2"\t"$1}' "$SAMPLE_SOURCE_MAP" | sort -u > "$rename"
+# bcftools reheader -s expects one replacement name per line, in the same
+# sample order as the VCF stream; it does not accept the two-column map.
+rename_names="$WGS_SUBSET_ROOT/wgs_djr_reheader_${roman}.names"
+"$BCFTOOLS" query -l "$input" | \
+    awk -F '\t' 'NR==FNR {new[$1]=$2; next} ($1 in new) {print new[$1]}' "$rename" - > "$rename_names"
+[[ "$(wc -l < "$rename_names")" -eq "$(wc -l < "$samples")" ]] || {
+    echo "WGS sample rename list does not match selected VCF samples for $roman" >&2
+    exit 1
+}
 chr_map="$WGS_SUBSET_ROOT/wgs_chr_rename.tsv"
 printf 'chr%s\t%s\n' "$roman" "$roman" > "$chr_map"
 out="$WGS_SUBSET_ROOT/wgs_djr_${roman}.vcf.gz"
 "$BCFTOOLS" view -S "$samples" -Ou "$input" | \
-    "$BCFTOOLS" reheader -s "$rename" | \
+    "$BCFTOOLS" reheader -s "$rename_names" | \
     "$BCFTOOLS" annotate --rename-chrs "$chr_map" -Oz -o "$out"
 "$BCFTOOLS" index -f "$out"
