@@ -30,12 +30,20 @@ samples="$WGS_SUBSET_ROOT/wgs_djr_samples_${roman}.txt"
 rename="$WGS_SUBSET_ROOT/wgs_djr_reheader_${roman}.tsv"
 awk -F '\t' 'NR>1 && $3=="WGS" {print $2}' "$SAMPLE_SOURCE_MAP" | sort -u > "$samples"
 awk -F '\t' 'NR>1 && $3=="WGS" {print $2"\t"$1}' "$SAMPLE_SOURCE_MAP" | sort -u > "$rename"
+# Keep one persistent list of the final analysis IDs for downstream panel
+# construction. Each array task writes the same content through its own
+# temporary file, so the list is available after the array completes without
+# any task racing on a shared output file.
+master_samples="$WGS_SUBSET_ROOT/wgs_djr_samples.txt"
+master_tmp="$WGS_SUBSET_ROOT/.wgs_djr_samples.${SLURM_JOB_ID:-manual}.${SLURM_ARRAY_TASK_ID:-0}.tmp"
+awk -F '\t' 'NR>1 && $3=="WGS" {print $1}' "$SAMPLE_SOURCE_MAP" | sort -u > "$master_tmp"
+mv "$master_tmp" "$master_samples"
 rename_names="$WGS_SUBSET_ROOT/wgs_djr_reheader_${roman}.names"
 selected="$WGS_SUBSET_ROOT/.wgs_djr_${roman}.${SLURM_JOB_ID:-manual}.selected.bcf"
 renamed="$WGS_SUBSET_ROOT/.wgs_djr_${roman}.${SLURM_JOB_ID:-manual}.renamed.bcf"
 out="$WGS_SUBSET_ROOT/wgs_djr_${roman}.vcf.gz"
 out_tmp="$out.${SLURM_JOB_ID:-manual}.tmp"
-trap 'rm -f "$samples" "$rename" "$rename_names" "$selected" "$renamed" "$out_tmp" "$out_tmp.csi"' EXIT
+trap 'rm -f "$samples" "$rename" "$rename_names" "$selected" "$renamed" "$master_tmp" "$out_tmp" "$out_tmp.csi"' EXIT
 
 # Materialize the selected samples because the HPC bcftools reheader version
 # does not accept the streamed BCF produced by `bcftools view -Ou`.

@@ -43,6 +43,12 @@ brb_09_prepare_external_wgs_inputs.sh    (21 chromosome tasks; can run in parall
 The tissue-panel stage depends on the BRB chromosome-specific calls and
 `brb_09_prepare_external_wgs_inputs.sh`.
 
+The WGS preparation array also writes the persistent downstream sample list
+`outputs/genotypes/wgs_djr/wgs_djr_samples.txt`. It contains the final `_D`
+analysis IDs from `metadata/derived/sample_source_mapping.tsv`; the tissue
+panel array checks that this list still matches the source map before doing any
+VCF work.
+
 The external WGS defaults point to the expanded filtered VCF directory and
 retain every `2024_DJR*` and `2025_DJR*` WGS sample. The mapping table assigns
 `_D` to WGS, `_G` to gill BRB, and `_L` to liver BRB. Each tissue panel is

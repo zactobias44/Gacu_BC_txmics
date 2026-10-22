@@ -21,6 +21,8 @@ REPO_ROOT=$(cd "$SCRIPT_DIR/.." && pwd)
 source "$REPO_ROOT/config/brb_pipeline_config.sh"
 load_brb_modules; mkdir_brb_outputs
 require_brb_command "$BCFTOOLS"; require_brb_command "$PLINK"
+require_brb_file "$SAMPLE_SOURCE_MAP"
+require_brb_file "$SAMPLE_BARCODE_CONFIG"
 task=${SLURM_ARRAY_TASK_ID:?submit as a five-task array}
 
 case "$task" in
@@ -49,8 +51,16 @@ mapfile -t inputs < <(
 
 if [[ "$mode" == brb ]]; then
     brb_rename="$tmp/${tissue}_brb_reheader.tsv"
-    awk -F '\t' -v t="$tissue" 'NR>1 && $3=="BRB" && $4==t {print $2"\t"$1}' \
-        "$SAMPLE_SOURCE_MAP" | sort -u > "$brb_rename"
+    brb_samples="$tmp/${tissue}_brb_samples.txt"
+    awk -F '\t' -v t="$tissue" 'NR>1 && $3==t {print $1}' \
+        "$SAMPLE_BARCODE_CONFIG" | sort -u > "$brb_samples"
+    awk -F '\t' -v t="$tissue" \
+        'NR==FNR {keep[$1]=1; next} NR>1 && $3=="BRB" && $4==t && ($2 in keep) {print $2"\t"$1}' \
+        "$brb_samples" "$SAMPLE_SOURCE_MAP" | sort -u > "$brb_rename"
+    [[ "$(wc -l < "$brb_samples")" -eq "$(wc -l < "$brb_rename")" ]] || {
+        echo "BRB sample rename map is incomplete for $tissue" >&2
+        exit 1
+    }
     for i in "${!chromosomes[@]}"; do
         input="$VARIANT_ROOT/brbseq_${tissue}_${chromosomes[$i]}.vcf.gz"
         require_brb_file "$input"; require_brb_file "$input.csi"
