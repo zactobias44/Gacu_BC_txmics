@@ -70,7 +70,7 @@ STAR="${GACU_STAR_BIN:-$GACU_SOFTWARE_ROOT/STAR-2.7.11b/source/STAR}"
 SAMTOOLS="${GACU_SAMTOOLS_BIN:-samtools}"
 BCFTOOLS="${GACU_BCFTOOLS_BIN:-bcftools}"
 PLINK="${GACU_PLINK_BIN:-/user/ztobias/.conda/envs/snakemake-new/envs/plink/bin/plink}"
-ADMIXTURE="${GACU_ADMIXTURE_BIN:-admixture}"
+ADMIXTURE="${GACU_ADMIXTURE_BIN:-/user/ztobias/dist/admixture_linux-1.3.0/admixture}"
 
 SCRATCH_ROOT="$GACU_SCRATCH_ROOT"
 BRB_OUTPUT_ROOT="${GACU_BRB_OUTPUT_ROOT:-$BRB_REPO_ROOT/outputs}"
