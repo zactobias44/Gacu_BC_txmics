@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # Split the full deep STAR BAM into one indexed BAM per barcode/sample.
-# Submit with: sbatch --array=1-$(($(wc -l < metadata/brb_sample_barcodes.tsv)-1)) ...
+# Submit from the scripts directory with:
+# sbatch --array=1-$(($(wc -l < ../metadata/brb_sample_barcodes.tsv)-1)) brb_06_split_bams.sh
 #SBATCH --job-name=brb_split_bams
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=4

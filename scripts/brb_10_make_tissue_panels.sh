@@ -8,8 +8,15 @@
 #SBATCH --time=12:00:00
 #SBATCH --output=../logs/brb_qc_panel_%A_%a.out
 set -euo pipefail
-if [[ -n "${SLURM_SUBMIT_DIR:-}" && -f "$SLURM_SUBMIT_DIR/config/brb_pipeline_config.sh" ]]; then SCRIPT_DIR="$SLURM_SUBMIT_DIR/scripts"; else SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd); fi
-source "$SCRIPT_DIR/../config/brb_pipeline_config.sh"
+if [[ -n "${SLURM_SUBMIT_DIR:-}" && -f "$SLURM_SUBMIT_DIR/../config/brb_pipeline_config.sh" ]]; then
+    SCRIPT_DIR="$SLURM_SUBMIT_DIR"
+elif [[ -n "${SLURM_SUBMIT_DIR:-}" && -f "$SLURM_SUBMIT_DIR/config/brb_pipeline_config.sh" ]]; then
+    SCRIPT_DIR="$SLURM_SUBMIT_DIR/scripts"
+else
+    SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+fi
+REPO_ROOT=$(cd "$SCRIPT_DIR/.." && pwd)
+source "$REPO_ROOT/config/brb_pipeline_config.sh"
 load_brb_modules; mkdir_brb_outputs
 require_brb_command "$BCFTOOLS"; require_brb_file "$SAMPLE_SOURCE_MAP"
 task=${SLURM_ARRAY_TASK_ID:?submit as a 42-task array}
