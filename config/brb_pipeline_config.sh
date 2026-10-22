@@ -69,7 +69,7 @@ STAR_INDEX_ONE_FEATURE="${GACU_GENOME_ROOT}/4STAR_one_feature"
 STAR="${GACU_STAR_BIN:-$GACU_SOFTWARE_ROOT/STAR-2.7.11b/source/STAR}"
 SAMTOOLS="${GACU_SAMTOOLS_BIN:-samtools}"
 BCFTOOLS="${GACU_BCFTOOLS_BIN:-bcftools}"
-PLINK="${GACU_PLINK_BIN:-plink}"
+PLINK="${GACU_PLINK_BIN:-/user/ztobias/.conda/envs/snakemake-new/envs/plink/bin/plink}"
 ADMIXTURE="${GACU_ADMIXTURE_BIN:-admixture}"
 
 SCRATCH_ROOT="$GACU_SCRATCH_ROOT"
