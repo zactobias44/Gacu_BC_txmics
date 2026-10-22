@@ -19,6 +19,7 @@ fi
 REPO_ROOT=$(cd "$SCRIPT_DIR/.." && pwd)
 source "$REPO_ROOT/config/brb_pipeline_config.sh"
 load_brb_modules; mkdir_brb_outputs
+require_brb_command "$PLINK"
 require_brb_command "$ADMIXTURE"
 task=${SLURM_ARRAY_TASK_ID:?submit as a 63-task array}
 read -ra ks <<< "$GACU_ADMIXTURE_KS"
@@ -35,5 +36,24 @@ esac
 prefix="$PLINK_ROOT/${panel}_ldpruned"
 require_brb_file "$prefix.bed"
 cd "$PLINK_ROOT"
-"$ADMIXTURE" --cv -j"${SLURM_CPUS_PER_TASK:-4}" "$prefix.bed" "$k" \
+temp_prefix="${prefix}.admixture_${SLURM_JOB_ID:-manual}_${task}"
+cleanup() {
+    rm -f "${temp_prefix}.ped" "${temp_prefix}.map" \
+        "${temp_prefix}.${k}.Q" "${temp_prefix}.${k}.P"
+}
+trap cleanup EXIT
+
+# ADMIXTURE rejects the Roman chromosome names in the BIM file.  The
+# historical BRBseq workflow handled this by converting the BED panel to a
+# temporary PLINK PED/MAP pair with --recode12 before running ADMIXTURE.
+"$PLINK" \
+    --bfile "$prefix" \
+    --allow-extra-chr \
+    --recode12 \
+    --out "$temp_prefix"
+
+"$ADMIXTURE" --cv -j"${SLURM_CPUS_PER_TASK:-4}" "${temp_prefix}.ped" "$k" \
     | tee "$GENOTYPE_ROOT/${panel}_admixture_K${k}.log"
+
+mv "${temp_prefix}.${k}.Q" "${prefix}.${k}.Q"
+mv "${temp_prefix}.${k}.P" "${prefix}.${k}.P"
