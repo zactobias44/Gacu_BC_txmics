@@ -18,5 +18,4 @@ jid_deep=$(sbatch --parsable --partition="$partition" --dependency="afterok:$jid
 jid_split=$(sbatch --parsable --partition="$partition" --dependency="afterok:$jid_deep" --array="1-${samples}" "$SCRIPT_DIR/brb_06_split_bams.sh")
 jid_lists=$(sbatch --parsable --partition="$partition" --dependency="afterok:$jid_split" "$SCRIPT_DIR/brb_07_make_bam_lists.sh")
 jid_joint_tissue=$(sbatch --parsable --partition="$partition" --dependency="afterok:$jid_lists" "$SCRIPT_DIR/brb_08_joint_calling_by_tissue.sh")
-sbatch --partition="$partition" --dependency="afterok:$jid_joint_tissue" "$SCRIPT_DIR/brb_09_concat_vcfs_by_tissue.sh"
 echo "Submitted BRBseq chain; final BAM-list job is $jid_lists" >&2

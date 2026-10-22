@@ -32,17 +32,16 @@ brb_00_validate_inputs.sh
     -> brb_06_split_bams.sh              (one task per manifest sample/tissue)
     -> brb_07_make_bam_lists.sh
     -> brb_08_joint_calling_by_tissue.sh (21 gill + 21 liver tasks)
-    -> brb_09_concat_vcfs_by_tissue.sh
 
-brb_10_prepare_external_wgs_inputs.sh    (21 chromosome tasks; can run in parallel)
-    -> brb_11_make_tissue_panels.sh      (21 gill + 21 liver tasks)
-    -> brb_12_make_plink_panels.sh       (five panel tasks)
-    -> brb_13_relatedness.sh              (one gill + one liver task)
-    -> brb_14_run_admixture.sh            (63 panel/K tasks)
+brb_09_prepare_external_wgs_inputs.sh    (21 chromosome tasks; can run in parallel)
+    -> brb_10_make_tissue_panels.sh       (21 gill + 21 liver tasks)
+    -> brb_11_make_plink_panels.sh        (five panel tasks)
+    -> brb_12_relatedness.sh              (one gill + one liver task)
+    -> brb_13_run_admixture.sh            (63 panel/K tasks)
 ```
 
-The tissue-panel stage depends on both `brb_09_concat_vcfs_by_tissue.sh` and
-`brb_10_prepare_external_wgs_inputs.sh`.
+The tissue-panel stage depends on the BRB chromosome-specific calls and
+`brb_09_prepare_external_wgs_inputs.sh`.
 
 The external WGS defaults point to the expanded filtered VCF directory and
 retain every `2024_DJR*` and `2025_DJR*` WGS sample. The mapping table assigns
