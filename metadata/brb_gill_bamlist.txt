@@ -481,6 +481,7 @@
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_183/2025_DJR_183_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_184/2025_DJR_184_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_185/2025_DJR_185_gill_RG.bam
+/scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_187/2025_DJR_187_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_189/2025_DJR_189_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_191/2025_DJR_191_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_192/2025_DJR_192_gill_RG.bam
@@ -489,7 +490,6 @@
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_195/2025_DJR_195_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_196/2025_DJR_196_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_245/2025_DJR_245_gill_RG.bam
-/scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_246/2025_DJR_246_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_247/2025_DJR_247_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_248/2025_DJR_248_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_249/2025_DJR_249_gill_RG.bam
@@ -590,17 +590,11 @@
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_410/2025_DJR_410_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_411/2025_DJR_411_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_412/2025_DJR_412_gill_RG.bam
-/scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_413/2025_DJR_413_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_414/2025_DJR_414_gill_RG.bam
-/scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_415/2025_DJR_415_gill_RG.bam
-/scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_416/2025_DJR_416_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_417/2025_DJR_417_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_418/2025_DJR_418_gill_RG.bam
-/scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_419/2025_DJR_419_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_420/2025_DJR_420_gill_RG.bam
-/scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_421/2025_DJR_421_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_422/2025_DJR_422_gill_RG.bam
-/scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_423/2025_DJR_423_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_424/2025_DJR_424_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_425/2025_DJR_425_gill_RG.bam
 /scratch/ztobias/Gacu_BC_txmics/outputs/bams/2025_DJR_427/2025_DJR_427_gill_RG.bam
