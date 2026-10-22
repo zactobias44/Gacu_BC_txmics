@@ -64,7 +64,8 @@ if [[ "$mode" == brb ]]; then
     for i in "${!chromosomes[@]}"; do
         input="$VARIANT_ROOT/brbseq_${tissue}_${chromosomes[$i]}.vcf.gz"
         require_brb_file "$input"; require_brb_file "$input.csi"
-        "$BCFTOOLS" reheader -s "$brb_rename" "$input" -Oz -o "${inputs[$i]}"
+        "$BCFTOOLS" reheader -s "$brb_rename" "$input" |
+            "$BCFTOOLS" view -Oz -o "${inputs[$i]}"
         "$BCFTOOLS" index -f "${inputs[$i]}"
     done
 fi
