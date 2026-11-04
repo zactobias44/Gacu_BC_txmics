@@ -3,6 +3,13 @@
  M .codex_manifest/repo_manifest.tsv
  M jupyter_notebooks/.ipynb_checkpoints/BRB_WGS_sample_ID_QC-checkpoint.ipynb
  M jupyter_notebooks/BRB_WGS_sample_ID_QC.ipynb
+ M vis/admixture/admixture_gill_by_population_ecotype.pdf
+ M vis/admixture/admixture_liver_by_population_ecotype.pdf
+ M vis/admixture/admixture_wgs_by_population_ecotype.pdf
+?? jupyter_notebooks/.ipynb_checkpoints/BRBseq_expression_QC_PCA-checkpoint.ipynb
+?? metadata/derived/sample_genetic_sex_final_BRB.tsv
+?? metadata/derived/sample_matching_final_decision_log.tsv
+?? metadata/derived/sample_source_mapping_final_BRB.tsv
 !! genome/4STAR/
 !! genome/4STAR_one_feature/
 !! genome/GCF_016920845.1_GAculeatus_UGA_version5_genomic.fna

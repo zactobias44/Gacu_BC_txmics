@@ -1,0 +1,13 @@
+decision	scope	action
+2025_DJR_015 / 016	Gill only	Exchange sample IDs
+2024_DJR_101-103 liver	Liver only	Renumber 101->102, 102->103, 103->104; drop original 104
+2025_DJR_483	BRB gill and liver	Correct population Thiemer->Beaver
+2024_DJR_049	BRB gill and liver	Correct ecotype benthic->limnetic
+2024_DJR_203 / 208	Liver only	Drop anomalous ancestry samples
+2025_DJR_475	Gill and liver	Drop likely early-generation hybrid
+2024_DJR_393 / 394 / 395 / 402 / 406	Gill and liver	Drop Black Creek freshwater/marine hybrids
+2024_DJR_427	Gill and liver	Drop Campbell River marine sample with freshwater ancestry
+2024_DJR_041 / 042	WGS only	Swap WGS identity mapping; do not change BRBseq IDs
+2025_DJR_506	WGS only	Review/reassign from Muchalat
+2025_DJR_483	WGS only	Change population Thiemer->Beaver
+2025_DJR_254 / 276 / 286 / 187	Gill	Retain; liver and WGS are consistent
