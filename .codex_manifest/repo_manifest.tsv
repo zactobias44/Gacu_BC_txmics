@@ -69,8 +69,8 @@ f	48020	2026-10-15 18:00:38.4994342260	./genome/chr_beds/NC_053231.1.bed
 f	31232	2026-10-15 18:00:38.5062192200	./genome/chr_beds/NC_053232.1.bed
 f	29710	2026-10-15 18:00:38.5126109420	./genome/chr_beds/NC_053233.1.bed
 f	241207	2026-10-15 18:00:38.5191557590	./genome/genome_one_feature.gtf
-d	4096	2026-10-26 18:39:26.7332796700	./jupyter_notebooks
-f	535268	2026-10-26 18:39:26.7313341620	./jupyter_notebooks/BRB_WGS_sample_ID_QC.ipynb
+d	4096	2026-11-04 15:24:39.1351400950	./jupyter_notebooks
+f	766165	2026-11-04 15:24:39.1339818900	./jupyter_notebooks/BRB_WGS_sample_ID_QC.ipynb
 f	981936	2026-10-20 14:35:39.0602936460	./jupyter_notebooks/BRBseq_expression_QC_PCA.ipynb
 f	7550	2026-10-20 13:54:52.1919947840	./jupyter_notebooks/BRBseq_shallow_deep_one_feature_QC.ipynb
 f	63737	2026-10-20 14:43:38.9008260140	./jupyter_notebooks/compare_DJR_sex_metadata.ipynb

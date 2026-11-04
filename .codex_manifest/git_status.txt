@@ -1,0 +1,13 @@
+ M .codex_manifest/README.txt
+ M .codex_manifest/repo_manifest.tsv
+ M jupyter_notebooks/.ipynb_checkpoints/BRB_WGS_sample_ID_QC-checkpoint.ipynb
+ M jupyter_notebooks/BRB_WGS_sample_ID_QC.ipynb
+!! genome/4STAR/
+!! genome/4STAR_one_feature/
+!! genome/GCF_016920845.1_GAculeatus_UGA_version5_genomic.fna
+!! genome/GCF_016920845.1_GAculeatus_UGA_version5_genomic.gtf
+!! logs/
+!! outputs/
+!! reads/combined/
+!! reads/gill/
+!! reads/liver/
