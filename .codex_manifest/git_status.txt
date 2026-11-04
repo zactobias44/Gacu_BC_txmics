@@ -1,13 +1,8 @@
  M .codex_manifest/README.txt
  M .codex_manifest/git_status.txt
  M .codex_manifest/repo_manifest.tsv
+ M jupyter_notebooks/.ipynb_checkpoints/BRBseq_DiffEx-checkpoint.ipynb
  M jupyter_notebooks/BRBseq_DiffEx.ipynb
- M vis/BRBseq_UMI_gene_count_ratio.png
- M vis/BRBseq_gill_PCA.png
- M vis/BRBseq_gill_PCA_global.png
- M vis/BRBseq_liver_PCA.png
- M vis/BRBseq_liver_PCA_global.png
-?? jupyter_notebooks/.ipynb_checkpoints/BRBseq_DiffEx-checkpoint.ipynb
 !! genome/4STAR/
 !! genome/4STAR_one_feature/
 !! genome/GCF_016920845.1_GAculeatus_UGA_version5_genomic.fna
