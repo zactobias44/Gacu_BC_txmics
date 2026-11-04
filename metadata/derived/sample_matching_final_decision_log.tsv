@@ -10,4 +10,5 @@ decision	scope	action
 2024_DJR_041 / 042	WGS only	Swap WGS identity mapping; do not change BRBseq IDs
 2025_DJR_506	WGS only	Review/reassign from Muchalat
 2025_DJR_483	WGS only	Change population Thiemer->Beaver
+Final sex source	All retained BRB samples	Use confident WGS call, otherwise PCR/BOTH call, otherwise exact M/F field sex; retain final_sex_source
 2025_DJR_254 / 276 / 286 / 187	Gill	Retain; liver and WGS are consistent
