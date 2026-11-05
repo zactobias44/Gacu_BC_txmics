@@ -4,14 +4,11 @@
  M jupyter_notebooks/.ipynb_checkpoints/BRB_WGS_sample_ID_QC-checkpoint.ipynb
  M jupyter_notebooks/.ipynb_checkpoints/BRBseq_DiffEx-checkpoint.ipynb
  M jupyter_notebooks/BRB_WGS_sample_ID_QC.ipynb
- M jupyter_notebooks/BRBseq_DiffEx.ipynb
- M vis/BRBseq_gill_PCA.png
- M vis/BRBseq_gill_PCA_global.png
- M vis/BRBseq_liver_PCA.png
- M vis/BRBseq_liver_PCA_global.png
  M vis/admixture/admixture_gill_by_population_ecotype.pdf
  M vis/admixture/admixture_liver_by_population_ecotype.pdf
  M vis/admixture/admixture_wgs_by_population_ecotype.pdf
+?? metadata/derived/sample_matching_decision_log_QC_BRB.tsv
+?? metadata/derived/sample_source_mapping_QC_BRB.tsv
 !! genome/4STAR/
 !! genome/4STAR_one_feature/
 !! genome/GCF_016920845.1_GAculeatus_UGA_version5_genomic.fna
