@@ -1,6 +1,6 @@
 decision	scope	action
 2025_DJR_015 / 016	Gill only	Exchange sample IDs
-2024_DJR_101-103 liver	Liver only	Renumber 101->102, 102->103, 103->104; drop original 104
+2024_DJR_101-103 liver	Liver only	Renumber 101->102, 102->103, 103->104; refresh identity annotations from matched WGS records; drop original 104
 2025_DJR_483	BRB gill and liver	Correct population Thiemer->Beaver
 2024_DJR_049	BRB gill and liver	Correct ecotype benthic->limnetic
 2024_DJR_203 / 208	Liver only	Drop anomalous ancestry samples
