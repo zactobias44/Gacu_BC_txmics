@@ -3,6 +3,14 @@
  M .codex_manifest/repo_manifest.tsv
  M jupyter_notebooks/.ipynb_checkpoints/BRBseq_DiffEx-checkpoint.ipynb
  M jupyter_notebooks/BRBseq_DiffEx.ipynb
+?? jupyter_notebooks/gill_ecotype_contrasts.rds
+?? jupyter_notebooks/liver_ecotype_contrasts.rds
+?? vis/BRBseq_gill_PCA_global_PC1-2.png
+?? vis/BRBseq_gill_PCA_global_PC3-4.png
+?? vis/BRBseq_gill_PCA_global_PC5-6.png
+?? vis/BRBseq_liver_PCA_global_PC1-2.png
+?? vis/BRBseq_liver_PCA_global_PC3-4.png
+?? vis/BRBseq_liver_PCA_global_PC5-6.png
 !! genome/4STAR/
 !! genome/4STAR_one_feature/
 !! genome/GCF_016920845.1_GAculeatus_UGA_version5_genomic.fna
