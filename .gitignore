@@ -28,3 +28,9 @@ matrix/
 
 # Small annotation helper retained in git.
 !genome/genome_one_feature.gtf
+
+# Generated DESeq2 objects; keep on HPC, not in Git
+/jupyter_notebooks/gill_dds.rds
+/jupyter_notebooks/liver_dds.rds
+/jupyter_notebooks/gill_fw_marine_contrasts.rds
+/jupyter_notebooks/liver_fw_marine_contrasts.rds

@@ -12,3 +12,4 @@ decision	scope	action
 2025_DJR_483	WGS only	Change population Thiemer->Beaver
 Final sex source	All retained BRB samples	Use confident WGS call, otherwise PCR/BOTH call, otherwise exact M/F field sex; retain final_sex_source
 2025_DJR_254 / 276 / 286 / 187	Gill	Retain; liver and WGS are consistent
+2025_DJR_196 / 2024_DJR_196	All retained BRB tissues	Set final sex female / male, respectively, by manual gill-PCA review; retain original evidence and record override source
