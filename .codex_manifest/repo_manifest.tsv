@@ -1,6 +1,6 @@
 kind	size_bytes	modified	path
 d	4096	2026-10-20 14:27:51.2375512860	/scratch/ztobias/Gacu_BC_txmics
-f	481	2026-10-15 18:00:57.4071638520	./.gitignore
+f	696	2026-11-09 13:00:38.1284052860	./.gitignore
 f	2379	2026-10-20 13:33:57.1320854050	./AGENTS.md
 d	4096	2026-10-22 15:12:10.7668167850	./config
 f	7313	2026-10-22 15:12:10.7707306470	./config/brb_pipeline_config.sh
@@ -69,7 +69,7 @@ f	48020	2026-10-15 18:00:38.4994342260	./genome/chr_beds/NC_053231.1.bed
 f	31232	2026-10-15 18:00:38.5062192200	./genome/chr_beds/NC_053232.1.bed
 f	29710	2026-10-15 18:00:38.5126109420	./genome/chr_beds/NC_053233.1.bed
 f	241207	2026-10-15 18:00:38.5191557590	./genome/genome_one_feature.gtf
-d	4096	2026-11-05 20:05:02.9233827540	./jupyter_notebooks
+d	4096	2026-11-09 14:38:01.0470086310	./jupyter_notebooks
 f	768605	2026-11-05 13:05:53.2661050440	./jupyter_notebooks/BRB_WGS_sample_ID_QC.ipynb
 f	2041393	2026-11-05 20:05:02.9217540830	./jupyter_notebooks/BRBseq_DiffEx.ipynb
 f	7550	2026-10-20 13:54:52.1919947840	./jupyter_notebooks/BRBseq_shallow_deep_one_feature_QC.ipynb
@@ -78,6 +78,7 @@ f	551207510	2026-11-05 18:08:21.9104015710	./jupyter_notebooks/gill_dds.rds
 f	70536273	2026-11-05 20:02:04.2660956430	./jupyter_notebooks/gill_fw_marine_contrasts.rds
 f	531779596	2026-11-05 18:08:57.4463077900	./jupyter_notebooks/liver_dds.rds
 f	65513257	2026-11-05 20:02:07.4673645370	./jupyter_notebooks/liver_fw_marine_contrasts.rds
+f	174752	2026-11-09 14:38:01.0459332630	./jupyter_notebooks/vector_analyis.ipynb
 d	4096	2026-10-21 19:11:21.4443328380	./metadata
 f	202539	2026-10-15 17:20:56.0853731670	./metadata/2024_BC_DNA_extractions.csv
 f	174030	2026-10-20 13:12:45.2963430470	./metadata/2024_BC_RNA_extractions.csv
