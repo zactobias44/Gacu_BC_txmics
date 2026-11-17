@@ -2,11 +2,13 @@
  M .codex_manifest/git_status.txt
  M .codex_manifest/repo_manifest.tsv
  M jupyter_notebooks/.ipynb_checkpoints/BRBseq_DiffEx-checkpoint.ipynb
+ M jupyter_notebooks/.ipynb_checkpoints/vector_analyis-checkpoint.ipynb
  M jupyter_notebooks/BRBseq_DiffEx.ipynb
-?? jupyter_notebooks/gill_contrasts.rds
-?? jupyter_notebooks/gill_year_DE_results.rds
-?? jupyter_notebooks/liver_contrasts.rds
-?? jupyter_notebooks/liver_year_DE_results.rds
+ M jupyter_notebooks/vector_analyis.ipynb
+?? jupyter_notebooks/dds_gill_2024.rds
+?? jupyter_notebooks/dds_liver_2024.rds
+?? jupyter_notebooks/gill_pop_ecotype_contrasts.rds
+?? jupyter_notebooks/liver_pop_ecotype_contrasts.rds
 !! genome/4STAR/
 !! genome/4STAR_one_feature/
 !! genome/GCF_016920845.1_GAculeatus_UGA_version5_genomic.fna

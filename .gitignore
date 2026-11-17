@@ -34,3 +34,4 @@ matrix/
 /jupyter_notebooks/liver_dds.rds
 /jupyter_notebooks/gill_fw_marine_contrasts.rds
 /jupyter_notebooks/liver_fw_marine_contrasts.rds
+*.rds
