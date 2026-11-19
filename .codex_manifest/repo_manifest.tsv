@@ -69,9 +69,9 @@ f	48020	2026-10-15 18:00:38.4994342260	./genome/chr_beds/NC_053231.1.bed
 f	31232	2026-10-15 18:00:38.5062192200	./genome/chr_beds/NC_053232.1.bed
 f	29710	2026-10-15 18:00:38.5126109420	./genome/chr_beds/NC_053233.1.bed
 f	241207	2026-10-15 18:00:38.5191557590	./genome/genome_one_feature.gtf
-d	4096	2026-11-18 17:13:09.9888109230	./jupyter_notebooks
+d	4096	2026-11-19 09:38:22.6476360220	./jupyter_notebooks
 f	773509	2026-11-09 19:36:33.3546293420	./jupyter_notebooks/BRB_WGS_sample_ID_QC.ipynb
-f	4686045	2026-11-18 17:13:09.9868007390	./jupyter_notebooks/BRBseq_DiffEx.ipynb
+f	4832832	2026-11-19 09:38:20.8408809730	./jupyter_notebooks/BRBseq_DiffEx.ipynb
 f	7550	2026-10-20 13:54:52.1919947840	./jupyter_notebooks/BRBseq_shallow_deep_one_feature_QC.ipynb
 f	63737	2026-10-20 14:43:38.9008260140	./jupyter_notebooks/compare_DJR_sex_metadata.ipynb
 f	291539751	2026-11-16 14:09:23.9289725040	./jupyter_notebooks/dds_gill_2024.rds
@@ -88,7 +88,7 @@ f	24297258	2026-11-09 16:14:08.0914427520	./jupyter_notebooks/liver_ecotype_cont
 f	65513257	2026-11-05 20:02:07.4673645370	./jupyter_notebooks/liver_fw_marine_contrasts.rds
 f	192817802	2026-11-16 16:05:38.4469138150	./jupyter_notebooks/liver_pop_ecotype_contrasts.rds
 f	952899	2026-11-10 14:53:09.7824027570	./jupyter_notebooks/liver_year_DE_results.rds
-f	4597104	2026-11-18 17:13:06.9524686010	./jupyter_notebooks/vector_analyis.ipynb
+f	4597104	2026-11-19 09:38:22.6442027180	./jupyter_notebooks/vector_analyis.ipynb
 d	4096	2026-11-17 17:04:14.4361163300	./metadata
 f	202539	2026-10-15 17:20:56.0853731670	./metadata/2024_BC_DNA_extractions.csv
 f	174030	2026-10-20 13:12:45.2963430470	./metadata/2024_BC_RNA_extractions.csv
